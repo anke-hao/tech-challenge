@@ -1,7 +1,19 @@
 fileFormatVersion: 2
-guid: 13847b1121f9f8546a2ac4dc1704cd96
+guid: 77b4fd14401546a4e9b8aef612a058c6
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -8645391657202869249
+    second: fixedphil_s_v3_0
+  - first:
+      213: 5439805493744813781
+    second: fixedphil_s_v3_1
+  - first:
+      213: 6461952215719861096
+    second: fixedphil_s_v3_2
+  - first:
+      213: 8080201204202034888
+    second: fixedphil_s_v3_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +53,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -101,7 +113,91 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: fixedphil_s_v3_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 13
+        width: 12
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1531496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb1c40d716650880800000000000000
+      internalID: -8645391657202869249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixedphil_s_v3_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 28
+        width: 14
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.10536375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6c0e576421e7b40800000000000000
+      internalID: 5439805493744813781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixedphil_s_v3_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 13
+        width: 12
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1531496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bd785ad477da950800000000000000
+      internalID: 6461952215719861096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixedphil_s_v3_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 14
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6552a3f24a22070800000000000000
+      internalID: 8080201204202034888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
