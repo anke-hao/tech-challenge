@@ -10,6 +10,9 @@ public class PhilController : MonoBehaviour
     float horizontal; 
     float vertical;
 
+    public AudioClip footsteps;
+    AudioSource audioSource;
+
     Animator animator;
     Vector2 lookDirection = new Vector2(1,0);
 
@@ -20,7 +23,13 @@ public class PhilController : MonoBehaviour
     //     Application.targetFrameRate = 10;
         animator = GetComponent<Animator>();
         rigidbody2d = GetComponent<Rigidbody2D>();
+        audioSource= GetComponent<AudioSource>();
    }
+   public void PlaySound(AudioClip clip)
+   {
+        audioSource.PlayOneShot(clip);
+   }
+
    // Update is called once per frame
    void Update()
    {
@@ -42,6 +51,11 @@ public class PhilController : MonoBehaviour
         animator.SetFloat("Look Y", lookDirection.y);
         animator.SetFloat("Speed", move.magnitude);
         Debug.Log(move.magnitude);
+        if(Mathf.Approximately(move.magnitude, 1.0f))
+        {
+            if (!audioSource.isPlaying)
+            PlaySound(footsteps);
+        }
         Vector2 position = rigidbody2d.position;
         position.x = position.x + speed * horizontal * Time.deltaTime;
         position.y = position.y + speed * vertical * Time.deltaTime;
