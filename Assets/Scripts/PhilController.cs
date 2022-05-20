@@ -19,8 +19,6 @@ public class PhilController : MonoBehaviour
    // Start is called before the first frame update
    void Start()
    {
-    //    QualitySettings.vSyncCount = 0;
-    //     Application.targetFrameRate = 10;
         animator = GetComponent<Animator>();
         rigidbody2d = GetComponent<Rigidbody2D>();
         audioSource= GetComponent<AudioSource>();
