@@ -50,7 +50,6 @@ public class PhilController : MonoBehaviour
         animator.SetFloat("Look X", lookDirection.x);
         animator.SetFloat("Look Y", lookDirection.y);
         animator.SetFloat("Speed", move.magnitude);
-        Debug.Log(move.magnitude);
         if(Mathf.Approximately(move.magnitude, 1.0f))
         {
             if (!audioSource.isPlaying)
