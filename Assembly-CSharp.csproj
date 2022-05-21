@@ -36,11 +36,12 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets/Scripts/ChangeImage.cs" />
      <Compile Include="Assets/PopUpSystem.cs" />
      <Compile Include="Assets/Scripts/PhilController.cs" />
      <Compile Include="Assets/Scripts/Sign.cs" />
-     <Compile Include="Assets/Scripts/ChangeImage.cs" />
-     <Compile Include="Assets/Scripts/Info.cs" />
+     <Compile Include="Assets/Scripts/Vector.cs" />
+     <Compile Include="Assets/Scripts/Algorithm.cs" />
      <None Include="Assets/Audio/BGM/CasualGameBGM05/ReadMe.txt" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2020.3.33f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
