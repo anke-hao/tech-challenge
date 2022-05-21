@@ -6,10 +6,12 @@ using System.Linq;
 
 public class Vector : MonoBehaviour
 {
-    public Button current;
-    public GameObject[] buttons;
+    // public Button current;
+    // public GameObject[] buttons;
     public GameObject door;
     public int[] answers = new int[16];
+    // public int index;
+    // public int answer;
     
     void Start() {
         for(int i = 0; i < answers.Length; i++) {
@@ -17,23 +19,13 @@ public class Vector : MonoBehaviour
         }
     }
 
-    public void check() {
+    public void insertIntoVector(int index, int value) {
         
-        buttons = GameObject.FindGameObjectsWithTag("Button");
+        answers[index] = value;
 
-        foreach (GameObject button in buttons) {
-            if (button.name == current.name) {
-                int result = button.GetComponent<ChangeImage>().whichButton;
-                answers[(result - 1) / 5] = ((result - 1) % 5) + 1;
-                // Debug.Log(answers[(result - 1) / 5]);
-            }
-        }
-        for(int i = 0; i < answers.Length; i++) {
-            Debug.Log(answers[i]);
-        }
         if (!answers.Contains(-1)) {
-            // door.SetActive(true);
-            // Debug.Log("door opens");
+            door.SetActive(true);
+            Debug.Log("door opens");
         }
     }
 }
