@@ -45,5 +45,6 @@ public class ChangeImage : MonoBehaviour
         } else {
             button.image.sprite = off;
         }
+        
     }
 }
