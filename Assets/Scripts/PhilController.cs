@@ -43,16 +43,14 @@ public class PhilController : MonoBehaviour
         {
             lookDirection.Set(move.x, move.y);
             lookDirection.Normalize();
+            if (!audioSource.isPlaying)
+            PlaySound(footsteps);
         }
                 
         animator.SetFloat("Look X", lookDirection.x);
         animator.SetFloat("Look Y", lookDirection.y);
         animator.SetFloat("Speed", move.magnitude);
-        if(Mathf.Approximately(move.magnitude, 1.0f))
-        {
-            if (!audioSource.isPlaying)
-            PlaySound(footsteps);
-        }
+
         Vector2 position = rigidbody2d.position;
         position.x = position.x + speed * horizontal * Time.deltaTime;
         position.y = position.y + speed * vertical * Time.deltaTime;
