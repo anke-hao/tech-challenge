@@ -10,10 +10,13 @@ public class Vector : MonoBehaviour
     // public GameObject[] buttons;
     public GameObject door;
     public int[] answers = new int[16];
+    public AudioClip doorRevealed;
+    GameObject phil;
     // public int index;
     // public int answer;
     
     void Start() {
+        phil = GameObject.FindGameObjectWithTag("Player");
         for(int i = 0; i < answers.Length; i++) {
             answers[i] = -1;
         }
@@ -25,6 +28,7 @@ public class Vector : MonoBehaviour
 
         if (!answers.Contains(-1)) {
             door.SetActive(true);
+            phil.GetComponent<PhilController>().PlaySound(doorRevealed);
             Debug.Log("door opens");
         }
     }
