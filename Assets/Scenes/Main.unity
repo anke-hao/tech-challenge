@@ -7205,7 +7205,7 @@ GameObject:
   - component: {fileID: 548329918}
   - component: {fileID: 548329919}
   m_Layer: 0
-  m_Name: door
+  m_Name: portal
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
