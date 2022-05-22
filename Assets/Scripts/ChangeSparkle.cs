@@ -18,13 +18,13 @@ public class ChangeSparkle : MonoBehaviour
     public Button button3;
     public Button button4;
     public Button button5;
+    GameObject phil;
 
     // Start is called before the first frame update
     void Start()
     {
         animator = GetComponent<Animator>();
-        // animator = gameObject.GetComponent<Animator>();
-        // Debug.Log(gameObject);
+        phil = GameObject.FindGameObjectWithTag("Player");
     }
 
     // Update is called once per frame
@@ -33,17 +33,14 @@ public class ChangeSparkle : MonoBehaviour
         if(button1.image.sprite == on || button2.image.sprite == on || 
         button3.image.sprite == on || button4.image.sprite == on || button5.image.sprite == on) {
             animator.SetBool("answered", true);
-            // answered = true;
             Debug.Log("answered");
         } else {
             animator.SetBool("answered", false);
-            // animator.SetTrigger("unanswered");
-            // answered = false;
             Debug.Log("unanswered");
+            int index = (button1.GetComponent<ChangeImage>().whichButton - 1) / 5;
+            phil.GetComponent<Vector>().insertIntoVector(index, -1);
         }
        
     }
 
-    public void ChangeSpriteImage() {
-    }
 }
