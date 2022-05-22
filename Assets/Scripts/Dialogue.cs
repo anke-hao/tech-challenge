@@ -3,10 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Sign : MonoBehaviour
+public class Dialogue : MonoBehaviour
 {
     public GameObject dialogBox;
     public Text dialogText;
+    public Text leftOption;
+    public Text rightOption;
     public string dialog;
     public bool playerInRange;
 
