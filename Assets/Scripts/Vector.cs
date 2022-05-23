@@ -13,12 +13,15 @@ public class Vector : MonoBehaviour
     public AudioClip doorRevealed;
     public AudioClip doorDisappeared;
     GameObject phil;
+    GameObject portal;
     bool revealed;
     // public int index;
     // public int answer;
     
     void Start() {
         revealed = false;
+        portal = GameObject.FindGameObjectWithTag("Portal");
+        print(portal);
         phil = GameObject.FindGameObjectWithTag("Player");
         for(int i = 0; i < answers.Length; i++) {
             answers[i] = -1;
@@ -33,12 +36,13 @@ public class Vector : MonoBehaviour
             door.SetActive(true);
             revealed = true;
             phil.GetComponent<PhilController>().PlaySound(doorRevealed);
-            Debug.Log("door opens");
+            phil.GetComponent<Algorithm>().Start();
+            // Debug.Log("door opens");
         } else if (answers.Contains(-1) && revealed == true) {
             phil.GetComponent<PhilController>().PlaySound(doorDisappeared);
             door.SetActive(false);
             revealed = false;
-            Debug.Log("door closes");
+           //  Debug.Log("door closes");
 
         }
     }

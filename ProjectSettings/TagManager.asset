@@ -7,6 +7,7 @@ TagManager:
   - Button
   - Dialog
   - Music
+  - Portal
   layers:
   - Default
   - TransparentFX

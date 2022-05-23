@@ -37,11 +37,15 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets/Scripts/ChangeImage.cs" />
-     <Compile Include="Assets/PopUpSystem.cs" />
-     <Compile Include="Assets/Scripts/PhilController.cs" />
-     <Compile Include="Assets/Scripts/Sign.cs" />
      <Compile Include="Assets/Scripts/Vector.cs" />
+     <Compile Include="Assets/PopUpSystem.cs" />
+     <Compile Include="Assets/Scripts/GetAnswer.cs" />
+     <Compile Include="Assets/Scripts/ChangeSparkle.cs" />
+     <Compile Include="Assets/Scripts/LoadRevealScene.cs" />
      <Compile Include="Assets/Scripts/Algorithm.cs" />
+     <Compile Include="Assets/Scripts/DontDestroy.cs" />
+     <Compile Include="Assets/Scripts/PhilController.cs" />
+     <Compile Include="Assets/Scripts/Dialogue.cs" />
      <None Include="Assets/Audio/BGM/CasualGameBGM05/ReadMe.txt" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2020.3.33f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
@@ -255,6 +259,18 @@
     </Reference>
     <Reference Include="UnityEditor.UnityConnectModule">
         <HintPath>/Applications/Unity/Hub/Editor/2020.3.33f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll</HintPath>
+    </Reference>
+    <Reference Include="NumSharp">
+        <HintPath>/Users/max/tech_challenge/Assets/Scripts/NumSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory">
+        <HintPath>/Users/max/tech_challenge/Assets/Scripts/System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Buffers">
+        <HintPath>/Users/max/tech_challenge/Assets/Scripts/System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe">
+        <HintPath>/Users/max/tech_challenge/Assets/Scripts/System.Runtime.CompilerServices.Unsafe.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
         <HintPath>/Applications/Unity/Hub/Editor/2020.3.33f1/Unity.app/Contents/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
