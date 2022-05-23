@@ -33,10 +33,10 @@ public class ChangeSparkle : MonoBehaviour
         if(button1.image.sprite == on || button2.image.sprite == on || 
         button3.image.sprite == on || button4.image.sprite == on || button5.image.sprite == on) {
             animator.SetBool("answered", true);
-            Debug.Log("answered");
+            // Debug.Log("answered");
         } else {
             animator.SetBool("answered", false);
-            Debug.Log("unanswered");
+            // Debug.Log("unanswered");
             int index = (button1.GetComponent<ChangeImage>().whichButton - 1) / 5;
             phil.GetComponent<Vector>().insertIntoVector(index, -1);
         }
