@@ -16,6 +16,8 @@ GameObject:
   - component: {fileID: 8462998648957924709}
   - component: {fileID: 95374476866260562}
   - component: {fileID: 1974118352}
+  - component: {fileID: 117089730}
+  - component: {fileID: 117089731}
   m_Layer: 0
   m_Name: Phil
   m_TagString: Player
@@ -278,3 +280,32 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   door: {fileID: 0}
   answers: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  doorRevealed: {fileID: 8300000, guid: 7bd6b897eb5ca4b7d88a205c4a51640c, type: 3}
+  doorDisappeared: {fileID: 8300000, guid: 724131bc8a7f34041bb9f1701f0cb58d, type: 3}
+--- !u!114 &117089730
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9070712282015165274}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c0e74e5ae7def34190833d0b55fc90f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &117089731
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9070712282015165274}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 078497dd327494a018feaaca92e74ba6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  csvData: {fileID: 4900000, guid: 1cb1d5200d66b4194b9de69630dcce93, type: 3}
+  rows: 79
+  cols: 17
