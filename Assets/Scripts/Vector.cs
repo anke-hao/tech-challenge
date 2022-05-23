@@ -32,11 +32,13 @@ public class Vector : MonoBehaviour
         
         answers[index] = value;
 
-        if (!answers.Contains(-1) && revealed == false) {
-            door.SetActive(true);
-            revealed = true;
-            phil.GetComponent<PhilController>().PlaySound(doorRevealed);
+        if (!answers.Contains(-1)) {
             phil.GetComponent<Algorithm>().Start();
+            if(revealed == false) {
+                door.SetActive(true);
+                revealed = true;
+                phil.GetComponent<PhilController>().PlaySound(doorRevealed);
+            }
             // Debug.Log("door opens");
         } else if (answers.Contains(-1) && revealed == true) {
             phil.GetComponent<PhilController>().PlaySound(doorDisappeared);

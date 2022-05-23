@@ -43,8 +43,8 @@ public class Algorithm : MonoBehaviour
         print(vector_occupation);
         print(vector_answers);
 
-        // int k = Convert.ToInt16(Math.Sqrt(rows - 1));
-        int k = 1;
+        int k = Convert.ToInt16(Math.Sqrt(rows - 1));
+        // int k = 1;
         print(knn(matrix_questions, vector_occupation, vector_answers, k));
     }  
 
