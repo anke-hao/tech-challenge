@@ -36,9 +36,13 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets/Scripts/FloatComputer.cs" />
      <Compile Include="Assets/Scripts/ChangeImage.cs" />
+     <Compile Include="Assets/Scripts/PlacePlayer.cs" />
      <Compile Include="Assets/Scripts/Vector.cs" />
      <Compile Include="Assets/PopUpSystem.cs" />
+     <Compile Include="Assets/Scripts/NewBehaviourScript.cs" />
+     <Compile Include="Assets/Scripts/AttachButton.cs" />
      <Compile Include="Assets/Scripts/GetAnswer.cs" />
      <Compile Include="Assets/Scripts/ChangeSparkle.cs" />
      <Compile Include="Assets/Scripts/LoadRevealScene.cs" />
@@ -46,6 +50,7 @@
      <Compile Include="Assets/Scripts/DontDestroy.cs" />
      <Compile Include="Assets/Scripts/PhilController.cs" />
      <Compile Include="Assets/Scripts/Dialogue.cs" />
+     <Compile Include="Assets/Scripts/Teleport.cs" />
      <None Include="Assets/Audio/BGM/CasualGameBGM05/ReadMe.txt" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2020.3.33f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
