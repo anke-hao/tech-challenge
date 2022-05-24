@@ -1989,7 +1989,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4432728265900488373, guid: 26086811345cf1240acb8ed2db4d690c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.8560002
+      value: -1.713
       objectReference: {fileID: 0}
     - target: {fileID: 4432728265900488373, guid: 26086811345cf1240acb8ed2db4d690c, type: 3}
       propertyPath: m_LocalPosition.y
@@ -8914,7 +8914,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.2595346, y: -0.1430403, z: -10}
+  m_LocalPosition: {x: -0.26149535, y: -0.1430403, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -21419,7 +21419,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4432728265900488373, guid: 26086811345cf1240acb8ed2db4d690c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.565
+      value: -1.259
       objectReference: {fileID: 0}
     - target: {fileID: 4432728265900488373, guid: 26086811345cf1240acb8ed2db4d690c, type: 3}
       propertyPath: m_LocalPosition.y
@@ -27377,7 +27377,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.0012182333, y: -0.02068803}
+  m_Offset: {x: 0.0012182333, y: -0.033262644}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: -1.2777778}
@@ -27388,7 +27388,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.105965026, y: 0.13966435}
+  m_Size: {x: 0.105965026, y: 0.11451512}
   m_EdgeRadius: 0
 --- !u!212 &1402818933
 SpriteRenderer:
@@ -31906,7 +31906,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1638644165}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.5679999, y: -1.2479999, z: 4.1348305}
+  m_LocalPosition: {x: 0.485, y: -1.278, z: 4.1348305}
   m_LocalScale: {x: 1.9023257, y: 2.229649, z: 21.593468}
   m_Children:
   - {fileID: 186704810}
@@ -39949,11 +39949,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4432728265900488373, guid: 26086811345cf1240acb8ed2db4d690c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.562
+      value: 0.4790001
       objectReference: {fileID: 0}
     - target: {fileID: 4432728265900488373, guid: 26086811345cf1240acb8ed2db4d690c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.2069999
+      value: -1.237
       objectReference: {fileID: 0}
     - target: {fileID: 4432728265900488373, guid: 26086811345cf1240acb8ed2db4d690c, type: 3}
       propertyPath: m_LocalPosition.z
