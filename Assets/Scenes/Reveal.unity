@@ -221,11 +221,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dialogBox: {fileID: 1918565258}
-  resourcesText: {fileID: 1009892419}
-  resources: <link="https://www.google.com">Resources</link>
-  careerText: {fileID: 1744594527}
-  career: Doctor
+  resourcesText1: <link="https://bit.ly/38GUYGh">Resources</link>
+  resourcesText2: <link="https://bit.ly/3MKJekP">Resources</link>
+  resourcesText3: <link="https://bit.ly/3sUiE0o">Resources</link>
+  resourcesText4: <link="https://bit.ly/3wPZytw">Resources</link>
+  resourcesText5: <link="https://bit.ly/3GgZV4I">Resources</link>
+  link: {fileID: 1009892419}
+  careerText1: Computer Science Academia
+  careerText2: Quantitative Finance
+  careerText3: Startups
+  careerText4: UI/UX
+  careerText5: Product Management
+  career: {fileID: 1744594527}
   playerInRange: 0
+  reveal: {fileID: 8300000, guid: 7478151cf36724a7dada558f746c3633, type: 3}
 --- !u!61 &174052052
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1318,6 +1327,7 @@ GameObject:
   - component: {fileID: 1658122128}
   - component: {fileID: 1658122131}
   - component: {fileID: 1658122130}
+  - component: {fileID: 1658122132}
   m_Layer: 0
   m_Name: laptop3
   m_TagString: Untagged
@@ -1425,6 +1435,25 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!95 &1658122132
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1658122127}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: d8b8578e1c86e04478174ce89c9f100f, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1744594525
 GameObject:
   m_ObjectHideFlags: 0
@@ -1437,7 +1466,7 @@ GameObject:
   - component: {fileID: 1744594528}
   - component: {fileID: 1744594527}
   m_Layer: 5
-  m_Name: Result Text
+  m_Name: Career Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1459,8 +1488,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.00000095367, y: 16}
-  m_SizeDelta: {x: 342.2584, y: 50}
+  m_AnchoredPosition: {x: -0.000016414, y: 17.6}
+  m_SizeDelta: {x: 507.77, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1744594527
 MonoBehaviour:
@@ -1663,7 +1692,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1918565259
 RectTransform:
   m_ObjectHideFlags: 0

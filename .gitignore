@@ -2,7 +2,7 @@
 /[Tt]emp/
 # /[Oo]bj/
 # /[Bb]uild/
-# /[Bb]uilds/
+/[Bb]uilds/
 # /[Ll]ogs/
 # /[Uu]ser[Ss]ettings/
 
@@ -66,3 +66,5 @@
 # Temporary auto-generated Android Assets
 # /[Aa]ssets/[Ss]treamingAssets/aa.meta
 # /[Aa]ssets/[Ss]treamingAssets/aa/*
+Library/Il2cppBuildCache/WebGL/Native/build.bc
+*.bc

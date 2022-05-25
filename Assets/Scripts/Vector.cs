@@ -21,7 +21,7 @@ public class Vector : MonoBehaviour
     void Start() {
         revealed = false;
         portal = GameObject.FindGameObjectWithTag("Portal");
-        print(portal);
+        // print(portal);
         phil = GameObject.FindGameObjectWithTag("Player");
         for(int i = 0; i < answers.Length; i++) {
             answers[i] = -1;
