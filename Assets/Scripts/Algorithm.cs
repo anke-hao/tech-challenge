@@ -43,8 +43,7 @@ public class Algorithm : MonoBehaviour
         print(vector_occupation);
         print(vector_answers);
 
-        int k = Convert.ToInt16(Math.Sqrt(rows - 1));
-        // int k = 1;
+        int k = 11;
         print(knn(matrix_questions, vector_occupation, vector_answers, k));
     }  
 
@@ -55,12 +54,21 @@ public class Algorithm : MonoBehaviour
 
         for(int i = 0; i < questions.shape[0]; i++) {
             NDArray difference_vector = np.subtract(questions[i], answers);
-            int dot_product = 0;
+            // int dot_product = 0;
+            // for(int j = 0; j < cols - 1; j++) {
+            //     int element = Int32.Parse(difference_vector[j].ToString());
+            //     print(element);
+            //     dot_product += element * element;
+            // }
+            // lengths[i] = Math.Sqrt(dot_product);
+
+            int total = 0;
             for(int j = 0; j < cols - 1; j++) {
                 int element = Int32.Parse(difference_vector[j].ToString());
-                dot_product += element * element;
+                print(element);
+                total += Math.Abs(element);
             }
-            lengths[i] = Math.Sqrt(dot_product);
+            lengths[i] = total;
             print("Length " + i + ": " + lengths[i]);
         }
         
