@@ -3638,8 +3638,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogBox: {fileID: 1262742125}
   dialogText: {fileID: 1214509308}
-  leftOption: {fileID: 0}
-  rightOption: {fileID: 0}
   dialog: 'I enjoy working:'
   playerInRange: 0
 --- !u!61 &191981523
@@ -3727,7 +3725,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 191981520}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.125, y: 0.802, z: 0}
+  m_LocalPosition: {x: 0.097, y: 0.806, z: 0}
   m_LocalScale: {x: 1.9023257, y: 2.229649, z: 21.593468}
   m_Children:
   - {fileID: 879421762}
@@ -5764,6 +5762,55 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ab02e129c6307db47a6d2cbbc0d885fd, type: 3}
+--- !u!1 &349566704 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 931403912978040724, guid: aefbe897f7b59f34db3ad746a3cb5b49, type: 3}
+  m_PrefabInstance: {fileID: 1114873593}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &349566705
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 349566704}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 913de5004bfb54c3d899209e530093f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogBox: {fileID: 694834515}
+  dialogText: {fileID: 2043071162}
+  dialog: Use WASD to walk to the sparkles and answer the questions. You can also
+    teleport to the sparkles by clicking on them.  After answering all 16 questions,
+    a portal will appear on the bottom left. Go through the portal to get your results!
+  playerInRange: 0
+--- !u!61 &349566706
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 349566704}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.015836447, y: 0.03250532}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.21414}
+    oldSize: {x: 0.64, y: 0.64}
+    newSize: {x: 0.64, y: 0.64}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.7730252, y: 0.6495017}
+  m_EdgeRadius: 0
 --- !u!1 &351974843
 GameObject:
   m_ObjectHideFlags: 0
@@ -8172,8 +8219,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogBox: {fileID: 1358862658}
   dialogText: {fileID: 952292319}
-  leftOption: {fileID: 0}
-  rightOption: {fileID: 0}
   dialog: When using a product or service, I think about how I might change the process
     to make the experience easier or more enjoyable.
   playerInRange: 0
@@ -8926,7 +8971,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.2634151, y: -0.14304054, z: -10}
+  m_LocalPosition: {x: -0.2620027, y: -0.14304054, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -11967,8 +12012,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogBox: {fileID: 1613474146}
   dialogText: {fileID: 1944637507}
-  leftOption: {fileID: 0}
-  rightOption: {fileID: 0}
   dialog: 'In a group setting, I tend to explain something by: '
   playerInRange: 0
 --- !u!61 &631468182
@@ -12533,8 +12576,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogBox: {fileID: 385636331}
   dialogText: {fileID: 120720820}
-  leftOption: {fileID: 0}
-  rightOption: {fileID: 0}
   dialog: 'When I work towards a solution, I focus more on: '
   playerInRange: 0
 --- !u!61 &655630608
@@ -13889,6 +13930,82 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 693935653}
   m_CullTransparentMesh: 1
+--- !u!1 &694834515
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 694834516}
+  - component: {fileID: 694834518}
+  - component: {fileID: 694834517}
+  m_Layer: 5
+  m_Name: Dialog Box 17
+  m_TagString: Dialog
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &694834516
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 694834515}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2043071161}
+  m_Father: {fileID: 872392340}
+  m_RootOrder: 16
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: 0.000027587, y: 412}
+  m_SizeDelta: {x: 735.8586, y: 212.1921}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &694834517
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 694834515}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.78431374}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: f909cede500076a499201e7148f88e11, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &694834518
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 694834515}
+  m_CullTransparentMesh: 1
 --- !u!1 &701410443
 GameObject:
   m_ObjectHideFlags: 0
@@ -13918,7 +14035,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 701410443}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.512, y: 0.803, z: 0}
+  m_LocalPosition: {x: -0.54, y: 0.81, z: 0}
   m_LocalScale: {x: 1.9023257, y: 2.229649, z: 21.593468}
   m_Children:
   - {fileID: 120744513}
@@ -13977,8 +14094,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogBox: {fileID: 1010853856}
   dialogText: {fileID: 83954143}
-  leftOption: {fileID: 0}
-  rightOption: {fileID: 0}
   dialog: 'I enjoy having a set schedule. '
   playerInRange: 0
 --- !u!61 &701410448
@@ -15792,6 +15907,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 117089731, guid: 8eac8ebe41924194c91b93891474ee4d, type: 3}
+      propertyPath: rows
+      value: 91
+      objectReference: {fileID: 0}
+    - target: {fileID: 117089731, guid: 8eac8ebe41924194c91b93891474ee4d, type: 3}
+      propertyPath: csvData
+      value: 
+      objectReference: {fileID: 4900000, guid: 7a361c78b6e4b7f47b2609f87258b9da, type: 3}
+    - target: {fileID: 117089731, guid: 8eac8ebe41924194c91b93891474ee4d, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1974118352, guid: 8eac8ebe41924194c91b93891474ee4d, type: 3}
       propertyPath: door
       value: 
@@ -17356,6 +17483,7 @@ RectTransform:
   - {fileID: 1205891499}
   - {fileID: 1319142681}
   - {fileID: 1836534755}
+  - {fileID: 694834516}
   m_Father: {fileID: 1201592856}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -19040,8 +19168,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogBox: {fileID: 632705544}
   dialogText: {fileID: 217782864}
-  leftOption: {fileID: 0}
-  rightOption: {fileID: 0}
   dialog: 'I enjoy solving open-ended questions with no clear answers. '
   playerInRange: 0
 --- !u!61 &987180922
@@ -21277,8 +21403,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogBox: {fileID: 378970832}
   dialogText: {fileID: 1521025157}
-  leftOption: {fileID: 0}
-  rightOption: {fileID: 0}
   dialog: In a group setting, I am confident mediating when different members of
     the group have conflicting interests.
   playerInRange: 0
@@ -21486,17 +21610,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: whiteboard_v1 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 931403912978040724, guid: aefbe897f7b59f34db3ad746a3cb5b49, type: 3}
+      propertyPath: m_TagString
+      value: Instructions
+      objectReference: {fileID: 0}
     - target: {fileID: 931403912978040726, guid: aefbe897f7b59f34db3ad746a3cb5b49, type: 3}
       propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 931403912978040726, guid: aefbe897f7b59f34db3ad746a3cb5b49, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.296
+      value: -2.023
       objectReference: {fileID: 0}
     - target: {fileID: 931403912978040726, guid: aefbe897f7b59f34db3ad746a3cb5b49, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.89
+      value: -1.084
       objectReference: {fileID: 0}
     - target: {fileID: 931403912978040726, guid: aefbe897f7b59f34db3ad746a3cb5b49, type: 3}
       propertyPath: m_LocalPosition.z
@@ -24780,8 +24908,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogBox: {fileID: 804202981}
   dialogText: {fileID: 204860790}
-  leftOption: {fileID: 0}
-  rightOption: {fileID: 0}
   dialog: 'I am comfortable showing my work in early stages. '
   playerInRange: 0
 --- !u!61 &1234814355
@@ -26136,8 +26262,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogBox: {fileID: 183985713}
   dialogText: {fileID: 1742097271}
-  leftOption: {fileID: 0}
-  rightOption: {fileID: 0}
   dialog: 'I am best at:'
   playerInRange: 0
 --- !u!61 &1333665478
@@ -27395,8 +27519,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogBox: {fileID: 1319142680}
   dialogText: {fileID: 685364707}
-  leftOption: {fileID: 0}
-  rightOption: {fileID: 0}
   dialog: In a group setting, I tend to focus less on managing others and more on
     performing well in my own role.
   playerInRange: 0
@@ -29422,8 +29544,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogBox: {fileID: 587073517}
   dialogText: {fileID: 483568037}
-  leftOption: {fileID: 0}
-  rightOption: {fileID: 0}
   dialog: I enjoy presenting my results to others.
   playerInRange: 0
 --- !u!61 &1515078562
@@ -32001,8 +32121,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogBox: {fileID: 1205891498}
   dialogText: {fileID: 124768103}
-  leftOption: {fileID: 0}
-  rightOption: {fileID: 0}
   dialog: 'Constant meetings throughout the day are a dealbreaker to me. '
   playerInRange: 0
 --- !u!61 &1638644170
@@ -33278,8 +33396,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogBox: {fileID: 2144374489}
   dialogText: {fileID: 1116111566}
-  leftOption: {fileID: 0}
-  rightOption: {fileID: 0}
   dialog: I express my ideas and creativity through making content in the form of
     writing, videos, visual arts, music, or similar channels.
   playerInRange: 0
@@ -35587,8 +35703,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogBox: {fileID: 989139949}
   dialogText: {fileID: 2034008184}
-  leftOption: {fileID: 0}
-  rightOption: {fileID: 0}
   dialog: 'For a final assignment, I would rather: '
   playerInRange: 0
 --- !u!61 &1881593828
@@ -38264,8 +38378,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogBox: {fileID: 1836534754}
   dialogText: {fileID: 26456668}
-  leftOption: {fileID: 0}
-  rightOption: {fileID: 0}
   dialog: 'I am more anxious about: '
   playerInRange: 0
 --- !u!61 &2040590052
@@ -38427,6 +38539,85 @@ Transform:
   m_Father: {fileID: 1247604780}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2043071160
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2043071161}
+  - component: {fileID: 2043071163}
+  - component: {fileID: 2043071162}
+  m_Layer: 5
+  m_Name: Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &2043071161
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2043071160}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 694834516}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 1.3939, y: 19.67482}
+  m_SizeDelta: {x: 657.6326, y: 89.3494}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &2043071162
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2043071160}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: d211a5f321e999e4fbee8af7fc4ee561, type: 3}
+    m_FontSize: 20
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 2
+    m_MaxSize: 40
+    m_Alignment: 3
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 
+--- !u!222 &2043071163
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2043071160}
+  m_CullTransparentMesh: 1
 --- !u!4 &2044851792 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2558996899548324692, guid: 42d3f75d28814fe498e3c7168b9e95e2, type: 3}
@@ -38520,8 +38711,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogBox: {fileID: 1540080881}
   dialogText: {fileID: 574882749}
-  leftOption: {fileID: 0}
-  rightOption: {fileID: 0}
   dialog: "When I\u2019m working on a project, I tend to think that things will generally
     go smoothly. "
   playerInRange: 0
@@ -40587,7 +40776,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8800511327404570275, guid: 52a25645da318dd45b1fef248a0105c3, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.52
+      value: -1.555
       objectReference: {fileID: 0}
     - target: {fileID: 8800511327404570275, guid: 52a25645da318dd45b1fef248a0105c3, type: 3}
       propertyPath: m_LocalPosition.y

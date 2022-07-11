@@ -66,31 +66,29 @@ extern void PixelPerfectCamera_OnPostRender_m38D6AE9701187DACFC115503F17C6275AA1
 extern void PixelPerfectCamera_OnEnable_m901D29B12074BAB16C429BAF4B768DE837B6D5F0 (void);
 // 0x0000001B System.Void UnityEngine.U2D.PixelPerfectCamera::OnDisable()
 extern void PixelPerfectCamera_OnDisable_m1ED518FBFC9C85DDC263ADD3BE56571EF7726D96 (void);
-// 0x0000001C System.Void UnityEngine.U2D.PixelPerfectCamera::OnGUI()
-extern void PixelPerfectCamera_OnGUI_m0BCE626AB1D215EDF29FBF6DFE7A3E83E8B36055 (void);
-// 0x0000001D System.Void UnityEngine.U2D.PixelPerfectCamera::.ctor()
+// 0x0000001C System.Void UnityEngine.U2D.PixelPerfectCamera::.ctor()
 extern void PixelPerfectCamera__ctor_mFBF09FC28EF3435A09273EF69AE9D085698F36DF (void);
-// 0x0000001E System.Int32 UnityEngine.U2D.IPixelPerfectCamera::get_assetsPPU()
-// 0x0000001F System.Int32 UnityEngine.U2D.IPixelPerfectCamera::get_refResolutionX()
-// 0x00000020 System.Int32 UnityEngine.U2D.IPixelPerfectCamera::get_refResolutionY()
-// 0x00000021 System.Boolean UnityEngine.U2D.IPixelPerfectCamera::get_upscaleRT()
-// 0x00000022 System.Boolean UnityEngine.U2D.IPixelPerfectCamera::get_pixelSnapping()
-// 0x00000023 System.Boolean UnityEngine.U2D.IPixelPerfectCamera::get_cropFrameX()
-// 0x00000024 System.Boolean UnityEngine.U2D.IPixelPerfectCamera::get_cropFrameY()
-// 0x00000025 System.Boolean UnityEngine.U2D.IPixelPerfectCamera::get_stretchFill()
-// 0x00000026 System.Void UnityEngine.U2D.PixelPerfectCameraInternal::.ctor(UnityEngine.U2D.IPixelPerfectCamera)
+// 0x0000001D System.Int32 UnityEngine.U2D.IPixelPerfectCamera::get_assetsPPU()
+// 0x0000001E System.Int32 UnityEngine.U2D.IPixelPerfectCamera::get_refResolutionX()
+// 0x0000001F System.Int32 UnityEngine.U2D.IPixelPerfectCamera::get_refResolutionY()
+// 0x00000020 System.Boolean UnityEngine.U2D.IPixelPerfectCamera::get_upscaleRT()
+// 0x00000021 System.Boolean UnityEngine.U2D.IPixelPerfectCamera::get_pixelSnapping()
+// 0x00000022 System.Boolean UnityEngine.U2D.IPixelPerfectCamera::get_cropFrameX()
+// 0x00000023 System.Boolean UnityEngine.U2D.IPixelPerfectCamera::get_cropFrameY()
+// 0x00000024 System.Boolean UnityEngine.U2D.IPixelPerfectCamera::get_stretchFill()
+// 0x00000025 System.Void UnityEngine.U2D.PixelPerfectCameraInternal::.ctor(UnityEngine.U2D.IPixelPerfectCamera)
 extern void PixelPerfectCameraInternal__ctor_m8BED9192421CD4B18053B0FEAEF480CE303ABA5C (void);
-// 0x00000027 System.Void UnityEngine.U2D.PixelPerfectCameraInternal::OnBeforeSerialize()
+// 0x00000026 System.Void UnityEngine.U2D.PixelPerfectCameraInternal::OnBeforeSerialize()
 extern void PixelPerfectCameraInternal_OnBeforeSerialize_m103DED2AF898C493C950A670BF7148F465D5AE23 (void);
-// 0x00000028 System.Void UnityEngine.U2D.PixelPerfectCameraInternal::OnAfterDeserialize()
+// 0x00000027 System.Void UnityEngine.U2D.PixelPerfectCameraInternal::OnAfterDeserialize()
 extern void PixelPerfectCameraInternal_OnAfterDeserialize_m8FC18117BF7136FDB3D949F29554D45121F90187 (void);
-// 0x00000029 System.Void UnityEngine.U2D.PixelPerfectCameraInternal::CalculateCameraProperties(System.Int32,System.Int32)
+// 0x00000028 System.Void UnityEngine.U2D.PixelPerfectCameraInternal::CalculateCameraProperties(System.Int32,System.Int32)
 extern void PixelPerfectCameraInternal_CalculateCameraProperties_mD30D52BC7D19045E2AD048A85CED88C50F3C97A9 (void);
-// 0x0000002A UnityEngine.Rect UnityEngine.U2D.PixelPerfectCameraInternal::CalculatePostRenderPixelRect(System.Single,System.Int32,System.Int32)
+// 0x00000029 UnityEngine.Rect UnityEngine.U2D.PixelPerfectCameraInternal::CalculatePostRenderPixelRect(System.Single,System.Int32,System.Int32)
 extern void PixelPerfectCameraInternal_CalculatePostRenderPixelRect_mB3065A3B8D92AA9C1C21D38B0B4301C7E814C45E (void);
-// 0x0000002B System.Single UnityEngine.U2D.PixelPerfectCameraInternal::CorrectCinemachineOrthoSize(System.Single)
+// 0x0000002A System.Single UnityEngine.U2D.PixelPerfectCameraInternal::CorrectCinemachineOrthoSize(System.Single)
 extern void PixelPerfectCameraInternal_CorrectCinemachineOrthoSize_mCE913421BC4294451DC3869F2EB052D3B3802ED1 (void);
-static Il2CppMethodPointer s_methodPointers[43] = 
+static Il2CppMethodPointer s_methodPointers[42] = 
 {
 	PixelPerfectCamera_get_assetsPPU_mF294CEA88ED86AF12C3B288A32454145E655081D,
 	PixelPerfectCamera_set_assetsPPU_mAF321B9D68BFEEB5F460E85C99EDF3D7165DF270,
@@ -119,7 +117,6 @@ static Il2CppMethodPointer s_methodPointers[43] =
 	PixelPerfectCamera_OnPostRender_m38D6AE9701187DACFC115503F17C6275AA176D43,
 	PixelPerfectCamera_OnEnable_m901D29B12074BAB16C429BAF4B768DE837B6D5F0,
 	PixelPerfectCamera_OnDisable_m1ED518FBFC9C85DDC263ADD3BE56571EF7726D96,
-	PixelPerfectCamera_OnGUI_m0BCE626AB1D215EDF29FBF6DFE7A3E83E8B36055,
 	PixelPerfectCamera__ctor_mFBF09FC28EF3435A09273EF69AE9D085698F36DF,
 	NULL,
 	NULL,
@@ -136,58 +133,57 @@ static Il2CppMethodPointer s_methodPointers[43] =
 	PixelPerfectCameraInternal_CalculatePostRenderPixelRect_mB3065A3B8D92AA9C1C21D38B0B4301C7E814C45E,
 	PixelPerfectCameraInternal_CorrectCinemachineOrthoSize_mCE913421BC4294451DC3869F2EB052D3B3802ED1,
 };
-static const int32_t s_InvokerIndices[43] = 
+static const int32_t s_InvokerIndices[42] = 
 {
-	2155,
-	1837,
-	2155,
-	1837,
-	2155,
-	1837,
-	2122,
-	1799,
-	2122,
-	1799,
-	2122,
-	1799,
-	2122,
-	1799,
-	2122,
-	1799,
-	2155,
-	1730,
-	1681,
-	2222,
-	2222,
-	2222,
-	2222,
-	2222,
-	2222,
-	2222,
-	2222,
-	2222,
-	2222,
-	2155,
-	2155,
-	2155,
-	2122,
-	2122,
-	2122,
-	2122,
-	2122,
-	1850,
-	2222,
-	2222,
-	1004,
-	573,
-	1681,
+	2134,
+	1823,
+	2134,
+	1823,
+	2134,
+	1823,
+	2101,
+	1785,
+	2101,
+	1785,
+	2101,
+	1785,
+	2101,
+	1785,
+	2101,
+	1785,
+	2134,
+	1716,
+	1667,
+	2201,
+	2201,
+	2201,
+	2201,
+	2201,
+	2201,
+	2201,
+	2201,
+	2201,
+	2134,
+	2134,
+	2134,
+	2101,
+	2101,
+	2101,
+	2101,
+	2101,
+	1836,
+	2201,
+	2201,
+	995,
+	571,
+	1667,
 };
 extern const CustomAttributesCacheGenerator g_Unity_2D_PixelPerfect_AttributeGenerators[];
 IL2CPP_EXTERN_C const Il2CppCodeGenModule g_Unity_2D_PixelPerfect_CodeGenModule;
 const Il2CppCodeGenModule g_Unity_2D_PixelPerfect_CodeGenModule = 
 {
 	"Unity.2D.PixelPerfect.dll",
-	43,
+	42,
 	s_methodPointers,
 	0,
 	NULL,

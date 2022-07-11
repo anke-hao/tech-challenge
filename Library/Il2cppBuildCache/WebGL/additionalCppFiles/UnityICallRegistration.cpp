@@ -6,10 +6,6 @@ void RegisterAllStrippedInternalCalls()
 		void Register_Unity_Collections_LowLevel_Unsafe_UnsafeUtility_Free();
 		Register_Unity_Collections_LowLevel_Unsafe_UnsafeUtility_Free();
 
-		//System.Void Unity.Collections.LowLevel.Unsafe.UnsafeUtility::MemCpy(System.Void*,System.Void*,System.Int64)
-		void Register_Unity_Collections_LowLevel_Unsafe_UnsafeUtility_MemCpy();
-		Register_Unity_Collections_LowLevel_Unsafe_UnsafeUtility_MemCpy();
-
 	//End Registrations for type : Unity.Collections.LowLevel.Unsafe.UnsafeUtility
 
 	//Start Registrations for type : Unity.Jobs.JobHandle
@@ -25,14 +21,6 @@ void RegisterAllStrippedInternalCalls()
 		//System.IntPtr Unity.Profiling.LowLevel.Unsafe.ProfilerUnsafeUtility::CreateMarker(System.String,System.UInt16,Unity.Profiling.LowLevel.MarkerFlags,System.Int32)
 		void Register_Unity_Profiling_LowLevel_Unsafe_ProfilerUnsafeUtility_CreateMarker();
 		Register_Unity_Profiling_LowLevel_Unsafe_ProfilerUnsafeUtility_CreateMarker();
-
-		//System.Void Unity.Profiling.LowLevel.Unsafe.ProfilerUnsafeUtility::BeginSample(System.IntPtr)
-		void Register_Unity_Profiling_LowLevel_Unsafe_ProfilerUnsafeUtility_BeginSample();
-		Register_Unity_Profiling_LowLevel_Unsafe_ProfilerUnsafeUtility_BeginSample();
-
-		//System.Void Unity.Profiling.LowLevel.Unsafe.ProfilerUnsafeUtility::EndSample(System.IntPtr)
-		void Register_Unity_Profiling_LowLevel_Unsafe_ProfilerUnsafeUtility_EndSample();
-		Register_Unity_Profiling_LowLevel_Unsafe_ProfilerUnsafeUtility_EndSample();
 
 	//End Registrations for type : Unity.Profiling.LowLevel.Unsafe.ProfilerUnsafeUtility
 
@@ -441,14 +429,6 @@ void RegisterAllStrippedInternalCalls()
 		//System.Int32 UnityEngine.Camera::get_eventMask()
 		void Register_UnityEngine_Camera_get_eventMask();
 		Register_UnityEngine_Camera_get_eventMask();
-
-		//System.Int32 UnityEngine.Camera::get_pixelHeight()
-		void Register_UnityEngine_Camera_get_pixelHeight();
-		Register_UnityEngine_Camera_get_pixelHeight();
-
-		//System.Int32 UnityEngine.Camera::get_pixelWidth()
-		void Register_UnityEngine_Camera_get_pixelWidth();
-		Register_UnityEngine_Camera_get_pixelWidth();
 
 		//System.Int32 UnityEngine.Camera::get_targetDisplay()
 		void Register_UnityEngine_Camera_get_targetDisplay();
@@ -1262,10 +1242,6 @@ void RegisterAllStrippedInternalCalls()
 		void Register_UnityEngine_GUIStyle_get_stretchWidth();
 		Register_UnityEngine_GUIStyle_get_stretchWidth();
 
-		//System.Boolean UnityEngine.GUIStyle::get_wordWrap()
-		void Register_UnityEngine_GUIStyle_get_wordWrap();
-		Register_UnityEngine_GUIStyle_get_wordWrap();
-
 		//System.IntPtr UnityEngine.GUIStyle::GetRectOffsetPtr(System.Int32)
 		void Register_UnityEngine_GUIStyle_GetRectOffsetPtr();
 		Register_UnityEngine_GUIStyle_GetRectOffsetPtr();
@@ -1278,10 +1254,6 @@ void RegisterAllStrippedInternalCalls()
 		void Register_UnityEngine_GUIStyle_Internal_Create();
 		Register_UnityEngine_GUIStyle_Internal_Create();
 
-		//System.Single UnityEngine.GUIStyle::Internal_CalcHeight(UnityEngine.GUIContent,System.Single)
-		void Register_UnityEngine_GUIStyle_Internal_CalcHeight();
-		Register_UnityEngine_GUIStyle_Internal_CalcHeight();
-
 		//System.Single UnityEngine.GUIStyle::get_fixedHeight()
 		void Register_UnityEngine_GUIStyle_get_fixedHeight();
 		Register_UnityEngine_GUIStyle_get_fixedHeight();
@@ -1293,14 +1265,6 @@ void RegisterAllStrippedInternalCalls()
 		//System.String UnityEngine.GUIStyle::get_rawName()
 		void Register_UnityEngine_GUIStyle_get_rawName();
 		Register_UnityEngine_GUIStyle_get_rawName();
-
-		//System.Void UnityEngine.GUIStyle::Internal_CalcMinMaxWidth_Injected(UnityEngine.GUIContent,UnityEngine.Vector2&)
-		void Register_UnityEngine_GUIStyle_Internal_CalcMinMaxWidth_Injected();
-		Register_UnityEngine_GUIStyle_Internal_CalcMinMaxWidth_Injected();
-
-		//System.Void UnityEngine.GUIStyle::Internal_CalcSizeWithConstraints_Injected(UnityEngine.GUIContent,UnityEngine.Vector2&,UnityEngine.Vector2&)
-		void Register_UnityEngine_GUIStyle_Internal_CalcSizeWithConstraints_Injected();
-		Register_UnityEngine_GUIStyle_Internal_CalcSizeWithConstraints_Injected();
 
 		//System.Void UnityEngine.GUIStyle::Internal_CalcSize_Injected(UnityEngine.GUIContent,UnityEngine.Vector2&)
 		void Register_UnityEngine_GUIStyle_Internal_CalcSize_Injected();
@@ -1334,10 +1298,6 @@ void RegisterAllStrippedInternalCalls()
 		void Register_UnityEngine_GUIStyle_set_stretchHeight();
 		Register_UnityEngine_GUIStyle_set_stretchHeight();
 
-		//UnityEngine.ImagePosition UnityEngine.GUIStyle::get_imagePosition()
-		void Register_UnityEngine_GUIStyle_get_imagePosition();
-		Register_UnityEngine_GUIStyle_get_imagePosition();
-
 	//End Registrations for type : UnityEngine.GUIStyle
 
 	//Start Registrations for type : UnityEngine.GUIStyleState
@@ -1357,18 +1317,6 @@ void RegisterAllStrippedInternalCalls()
 	//End Registrations for type : UnityEngine.GUIStyleState
 
 	//Start Registrations for type : UnityEngine.GUIUtility
-
-		//System.Int32 UnityEngine.GUIUtility::Internal_GetControlID_Injected(System.Int32,UnityEngine.FocusType,UnityEngine.Rect&)
-		void Register_UnityEngine_GUIUtility_Internal_GetControlID_Injected();
-		Register_UnityEngine_GUIUtility_Internal_GetControlID_Injected();
-
-		//System.Int32 UnityEngine.GUIUtility::Internal_GetHotControl()
-		void Register_UnityEngine_GUIUtility_Internal_GetHotControl();
-		Register_UnityEngine_GUIUtility_Internal_GetHotControl();
-
-		//System.Int32 UnityEngine.GUIUtility::Internal_GetKeyboardControl()
-		void Register_UnityEngine_GUIUtility_Internal_GetKeyboardControl();
-		Register_UnityEngine_GUIUtility_Internal_GetKeyboardControl();
 
 		//System.Int32 UnityEngine.GUIUtility::get_guiDepth()
 		void Register_UnityEngine_GUIUtility_get_guiDepth();
@@ -2187,18 +2135,6 @@ void RegisterAllStrippedInternalCalls()
 		Register_UnityEngine_PolygonCollider2D_GetPath_Internal();
 
 	//End Registrations for type : UnityEngine.PolygonCollider2D
-
-	//Start Registrations for type : UnityEngine.Profiling.Profiler
-
-		//System.Void UnityEngine.Profiling.Profiler::BeginSampleImpl(System.String,UnityEngine.Object)
-		void Register_UnityEngine_Profiling_Profiler_BeginSampleImpl();
-		Register_UnityEngine_Profiling_Profiler_BeginSampleImpl();
-
-		//System.Void UnityEngine.Profiling.Profiler::EndSample()
-		void Register_UnityEngine_Profiling_Profiler_EndSample();
-		Register_UnityEngine_Profiling_Profiler_EndSample();
-
-	//End Registrations for type : UnityEngine.Profiling.Profiler
 
 	//Start Registrations for type : UnityEngine.QualitySettings
 

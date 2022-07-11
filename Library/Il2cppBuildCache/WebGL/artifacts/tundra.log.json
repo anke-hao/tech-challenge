@@ -2,3 +2,5 @@
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"all_tundra_nodes","enqueuedNodeIndex":0}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteResponseFile artifacts/rsp/2946853479651528565.rsp","enqueuedNodeIndex":1,"enqueueingNodeAnnotation":"all_tundra_nodes","enqueueingNodeIndex":0}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"Il2Cpp C:/Users/anke_/UChicago CS/tech-challenge/Library/Il2cppBuildCache/WebGL/Native/build.bc","enqueuedNodeIndex":2,"enqueueingNodeAnnotation":"all_tundra_nodes","enqueueingNodeIndex":0}
+{"msg":"inputSignatureChanged","annotation":"Il2Cpp C:/Users/anke_/UChicago CS/tech-challenge/Library/Il2cppBuildCache/WebGL/Native/build.bc","index":2,"changes":[{"key":"InputFileDigest","path":"C:\\Users\\anke_\\UChicago CS\\tech-challenge\\Temp\\StagingArea\\Data\\Managed\\Assembly-CSharp.dll","dependency":"explicit"}]}
+{"msg":"noderesult","annotation":"Il2Cpp C:/Users/anke_/UChicago CS/tech-challenge/Library/Il2cppBuildCache/WebGL/Native/build.bc","index":2,"exitcode":0}

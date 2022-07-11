@@ -6,23 +6,20 @@ using System.Linq;
 
 public class Vector : MonoBehaviour
 {
-    // public Button current;
-    // public GameObject[] buttons;
     public GameObject door;
     public int[] answers = new int[16];
     public AudioClip doorRevealed;
     public AudioClip doorDisappeared;
     GameObject phil;
     GameObject portal;
+    GameObject instructions;
     bool revealed;
-    // public int index;
-    // public int answer;
     
     void Start() {
         revealed = false;
         portal = GameObject.FindGameObjectWithTag("Portal");
-        // print(portal);
         phil = GameObject.FindGameObjectWithTag("Player");
+        instructions = GameObject.FindGameObjectWithTag("Instructions");
         for(int i = 0; i < answers.Length; i++) {
             answers[i] = -1;
         }
@@ -31,21 +28,19 @@ public class Vector : MonoBehaviour
     public void insertIntoVector(int index, int value) {
         
         answers[index] = value;
-
         if (!answers.Contains(-1)) {
-            phil.GetComponent<Algorithm>().Start();
             if(revealed == false) {
                 door.SetActive(true);
+                instructions.SetActive(false);
                 revealed = true;
                 phil.GetComponent<PhilController>().PlaySound(doorRevealed);
+                
             }
-            // Debug.Log("door opens");
         } else if (answers.Contains(-1) && revealed == true) {
             phil.GetComponent<PhilController>().PlaySound(doorDisappeared);
             door.SetActive(false);
+            instructions.SetActive(true);
             revealed = false;
-           //  Debug.Log("door closes");
-
         }
     }
 }

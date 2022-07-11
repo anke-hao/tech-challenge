@@ -25,16 +25,10 @@ struct InterfaceFuncInvoker0
 
 // System.Char[]
 struct CharU5BU5D_t7B7FC5BC8091AA3B9CB0B29CDD80B5EE9254AA34;
-// UnityEngine.GUILayoutOption[]
-struct GUILayoutOptionU5BU5D_tA0F031CC36F88BBBD25D6841ADD3913446E6EA2B;
-// System.Object[]
-struct ObjectU5BU5D_tC1F4EE0DB0B7300255F5FD4AF64FE4C585CF5ADE;
 // UnityEngine.Camera
 struct Camera_tC44E094BAB53AFC8A014C6F9CFCE11F4FC38006C;
 // UnityEngine.Component
 struct Component_t62FBC8D2420DA4BE9037AFE430740F6B3EECA684;
-// UnityEngine.GUILayoutOption
-struct GUILayoutOption_t2D992ABCB62BEB24A6F4A826A5CBE7AE236071AB;
 // UnityEngine.U2D.IPixelPerfectCamera
 struct IPixelPerfectCamera_t9F0A1326B7A342C5BDF45EB98760E0E380CEEAB7;
 // UnityEngine.MonoBehaviour
@@ -59,23 +53,16 @@ struct Void_t700C6383A2A510C2CF4DD86DABD5CA9FF70ADAC5;
 struct CameraCallback_tD9E7B69E561CE2EFDEEDB0E7F1406AC52247160D;
 
 IL2CPP_EXTERN_C RuntimeClass* Debug_tEB68BCBEB8EFD60F8043C67146DC05E7F50F374B_il2cpp_TypeInfo_var;
-IL2CPP_EXTERN_C RuntimeClass* GUI_tBCBBE29117D8093644C6E72B1CE3FB65C2CDCCC1_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* Graphics_t97FAEBE964F3F622D4865E7EC62717FE94D1F56D_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* IPixelPerfectCamera_t9F0A1326B7A342C5BDF45EB98760E0E380CEEAB7_il2cpp_TypeInfo_var;
-IL2CPP_EXTERN_C RuntimeClass* Int32_tFDE5F8CD43D10453F6A2E0C77FE48C6CC7009046_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* Math_tA269614262430118C9FC5C4D9EF4F61C812568F0_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* Object_tF2F3778131EFF286AF62B7B013A170F95A91571A_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* PixelPerfectCameraInternal_t95E6E3E3BDA1D90E9F4489ED6B43D1673E0818AB_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* PixelPerfectCamera_tAEEA2988EBDE91F2C7D260CDA6B65FB24261CFE8_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C String_t* _stringLiteral69D2BC13326043EFBE8498680B311F3B34E06698;
 IL2CPP_EXTERN_C String_t* _stringLiteral6E3C394542AFDC0953291817DE5BAA9A9329CF27;
-IL2CPP_EXTERN_C String_t* _stringLiteralDE99B9E7BE86471C3F4C7B45CBB12E54FC2E800F;
-IL2CPP_EXTERN_C String_t* _stringLiteralE037EE9DA619F0B70848CAC7A20087491D3E123F;
-IL2CPP_EXTERN_C const RuntimeMethod* Array_Empty_TisGUILayoutOption_t2D992ABCB62BEB24A6F4A826A5CBE7AE236071AB_m6EB599DF46848C50C5E2A836AF0BDA9C81B1A23A_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* Component_GetComponent_TisCamera_tC44E094BAB53AFC8A014C6F9CFCE11F4FC38006C_mE17146EF5B0D8E9F9D2D2D94567BF211AD00D320_RuntimeMethod_var;
 
-struct GUILayoutOptionU5BU5D_tA0F031CC36F88BBBD25D6841ADD3913446E6EA2B;
-struct ObjectU5BU5D_tC1F4EE0DB0B7300255F5FD4AF64FE4C585CF5ADE;
 
 IL2CPP_EXTERN_C_BEGIN
 IL2CPP_EXTERN_C_END
@@ -96,32 +83,6 @@ public:
 
 
 // System.Object
-
-
-// System.EmptyArray`1<System.Object>
-struct EmptyArray_1_tBF73225DFA890366D579424FE8F40073BF9FBAD4  : public RuntimeObject
-{
-public:
-
-public:
-};
-
-struct EmptyArray_1_tBF73225DFA890366D579424FE8F40073BF9FBAD4_StaticFields
-{
-public:
-	// T[] System.EmptyArray`1::Value
-	ObjectU5BU5D_tC1F4EE0DB0B7300255F5FD4AF64FE4C585CF5ADE* ___Value_0;
-
-public:
-	inline static int32_t get_offset_of_Value_0() { return static_cast<int32_t>(offsetof(EmptyArray_1_tBF73225DFA890366D579424FE8F40073BF9FBAD4_StaticFields, ___Value_0)); }
-	inline ObjectU5BU5D_tC1F4EE0DB0B7300255F5FD4AF64FE4C585CF5ADE* get_Value_0() const { return ___Value_0; }
-	inline ObjectU5BU5D_tC1F4EE0DB0B7300255F5FD4AF64FE4C585CF5ADE** get_address_of_Value_0() { return &___Value_0; }
-	inline void set_Value_0(ObjectU5BU5D_tC1F4EE0DB0B7300255F5FD4AF64FE4C585CF5ADE* value)
-	{
-		___Value_0 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___Value_0), (void*)value);
-	}
-};
 
 struct Il2CppArrayBounds;
 
@@ -694,100 +655,6 @@ public:
 };
 
 
-// UnityEngine.Vector2Int
-struct Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9 
-{
-public:
-	// System.Int32 UnityEngine.Vector2Int::m_X
-	int32_t ___m_X_0;
-	// System.Int32 UnityEngine.Vector2Int::m_Y
-	int32_t ___m_Y_1;
-
-public:
-	inline static int32_t get_offset_of_m_X_0() { return static_cast<int32_t>(offsetof(Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9, ___m_X_0)); }
-	inline int32_t get_m_X_0() const { return ___m_X_0; }
-	inline int32_t* get_address_of_m_X_0() { return &___m_X_0; }
-	inline void set_m_X_0(int32_t value)
-	{
-		___m_X_0 = value;
-	}
-
-	inline static int32_t get_offset_of_m_Y_1() { return static_cast<int32_t>(offsetof(Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9, ___m_Y_1)); }
-	inline int32_t get_m_Y_1() const { return ___m_Y_1; }
-	inline int32_t* get_address_of_m_Y_1() { return &___m_Y_1; }
-	inline void set_m_Y_1(int32_t value)
-	{
-		___m_Y_1 = value;
-	}
-};
-
-struct Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9_StaticFields
-{
-public:
-	// UnityEngine.Vector2Int UnityEngine.Vector2Int::s_Zero
-	Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9  ___s_Zero_2;
-	// UnityEngine.Vector2Int UnityEngine.Vector2Int::s_One
-	Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9  ___s_One_3;
-	// UnityEngine.Vector2Int UnityEngine.Vector2Int::s_Up
-	Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9  ___s_Up_4;
-	// UnityEngine.Vector2Int UnityEngine.Vector2Int::s_Down
-	Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9  ___s_Down_5;
-	// UnityEngine.Vector2Int UnityEngine.Vector2Int::s_Left
-	Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9  ___s_Left_6;
-	// UnityEngine.Vector2Int UnityEngine.Vector2Int::s_Right
-	Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9  ___s_Right_7;
-
-public:
-	inline static int32_t get_offset_of_s_Zero_2() { return static_cast<int32_t>(offsetof(Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9_StaticFields, ___s_Zero_2)); }
-	inline Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9  get_s_Zero_2() const { return ___s_Zero_2; }
-	inline Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9 * get_address_of_s_Zero_2() { return &___s_Zero_2; }
-	inline void set_s_Zero_2(Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9  value)
-	{
-		___s_Zero_2 = value;
-	}
-
-	inline static int32_t get_offset_of_s_One_3() { return static_cast<int32_t>(offsetof(Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9_StaticFields, ___s_One_3)); }
-	inline Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9  get_s_One_3() const { return ___s_One_3; }
-	inline Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9 * get_address_of_s_One_3() { return &___s_One_3; }
-	inline void set_s_One_3(Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9  value)
-	{
-		___s_One_3 = value;
-	}
-
-	inline static int32_t get_offset_of_s_Up_4() { return static_cast<int32_t>(offsetof(Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9_StaticFields, ___s_Up_4)); }
-	inline Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9  get_s_Up_4() const { return ___s_Up_4; }
-	inline Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9 * get_address_of_s_Up_4() { return &___s_Up_4; }
-	inline void set_s_Up_4(Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9  value)
-	{
-		___s_Up_4 = value;
-	}
-
-	inline static int32_t get_offset_of_s_Down_5() { return static_cast<int32_t>(offsetof(Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9_StaticFields, ___s_Down_5)); }
-	inline Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9  get_s_Down_5() const { return ___s_Down_5; }
-	inline Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9 * get_address_of_s_Down_5() { return &___s_Down_5; }
-	inline void set_s_Down_5(Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9  value)
-	{
-		___s_Down_5 = value;
-	}
-
-	inline static int32_t get_offset_of_s_Left_6() { return static_cast<int32_t>(offsetof(Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9_StaticFields, ___s_Left_6)); }
-	inline Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9  get_s_Left_6() const { return ___s_Left_6; }
-	inline Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9 * get_address_of_s_Left_6() { return &___s_Left_6; }
-	inline void set_s_Left_6(Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9  value)
-	{
-		___s_Left_6 = value;
-	}
-
-	inline static int32_t get_offset_of_s_Right_7() { return static_cast<int32_t>(offsetof(Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9_StaticFields, ___s_Right_7)); }
-	inline Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9  get_s_Right_7() const { return ___s_Right_7; }
-	inline Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9 * get_address_of_s_Right_7() { return &___s_Right_7; }
-	inline void set_s_Right_7(Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9  value)
-	{
-		___s_Right_7 = value;
-	}
-};
-
-
 // UnityEngine.Vector3
 struct Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E 
 {
@@ -1170,59 +1037,12 @@ public:
 };
 
 
-// UnityEngine.GUILayoutOption/Type
-struct Type_t79FB5C82B695061CED8D628CBB6A1E8709705288 
-{
-public:
-	// System.Int32 UnityEngine.GUILayoutOption/Type::value__
-	int32_t ___value___2;
-
-public:
-	inline static int32_t get_offset_of_value___2() { return static_cast<int32_t>(offsetof(Type_t79FB5C82B695061CED8D628CBB6A1E8709705288, ___value___2)); }
-	inline int32_t get_value___2() const { return ___value___2; }
-	inline int32_t* get_address_of_value___2() { return &___value___2; }
-	inline void set_value___2(int32_t value)
-	{
-		___value___2 = value;
-	}
-};
-
-
 // UnityEngine.Component
 struct Component_t62FBC8D2420DA4BE9037AFE430740F6B3EECA684  : public Object_tF2F3778131EFF286AF62B7B013A170F95A91571A
 {
 public:
 
 public:
-};
-
-
-// UnityEngine.GUILayoutOption
-struct GUILayoutOption_t2D992ABCB62BEB24A6F4A826A5CBE7AE236071AB  : public RuntimeObject
-{
-public:
-	// UnityEngine.GUILayoutOption/Type UnityEngine.GUILayoutOption::type
-	int32_t ___type_0;
-	// System.Object UnityEngine.GUILayoutOption::value
-	RuntimeObject * ___value_1;
-
-public:
-	inline static int32_t get_offset_of_type_0() { return static_cast<int32_t>(offsetof(GUILayoutOption_t2D992ABCB62BEB24A6F4A826A5CBE7AE236071AB, ___type_0)); }
-	inline int32_t get_type_0() const { return ___type_0; }
-	inline int32_t* get_address_of_type_0() { return &___type_0; }
-	inline void set_type_0(int32_t value)
-	{
-		___type_0 = value;
-	}
-
-	inline static int32_t get_offset_of_value_1() { return static_cast<int32_t>(offsetof(GUILayoutOption_t2D992ABCB62BEB24A6F4A826A5CBE7AE236071AB, ___value_1)); }
-	inline RuntimeObject * get_value_1() const { return ___value_1; }
-	inline RuntimeObject ** get_address_of_value_1() { return &___value_1; }
-	inline void set_value_1(RuntimeObject * value)
-	{
-		___value_1 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___value_1), (void*)value);
-	}
 };
 
 
@@ -1457,86 +1277,10 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-// UnityEngine.GUILayoutOption[]
-struct GUILayoutOptionU5BU5D_tA0F031CC36F88BBBD25D6841ADD3913446E6EA2B  : public RuntimeArray
-{
-public:
-	ALIGN_FIELD (8) GUILayoutOption_t2D992ABCB62BEB24A6F4A826A5CBE7AE236071AB * m_Items[1];
-
-public:
-	inline GUILayoutOption_t2D992ABCB62BEB24A6F4A826A5CBE7AE236071AB * GetAt(il2cpp_array_size_t index) const
-	{
-		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
-		return m_Items[index];
-	}
-	inline GUILayoutOption_t2D992ABCB62BEB24A6F4A826A5CBE7AE236071AB ** GetAddressAt(il2cpp_array_size_t index)
-	{
-		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
-		return m_Items + index;
-	}
-	inline void SetAt(il2cpp_array_size_t index, GUILayoutOption_t2D992ABCB62BEB24A6F4A826A5CBE7AE236071AB * value)
-	{
-		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
-		m_Items[index] = value;
-		Il2CppCodeGenWriteBarrier((void**)m_Items + index, (void*)value);
-	}
-	inline GUILayoutOption_t2D992ABCB62BEB24A6F4A826A5CBE7AE236071AB * GetAtUnchecked(il2cpp_array_size_t index) const
-	{
-		return m_Items[index];
-	}
-	inline GUILayoutOption_t2D992ABCB62BEB24A6F4A826A5CBE7AE236071AB ** GetAddressAtUnchecked(il2cpp_array_size_t index)
-	{
-		return m_Items + index;
-	}
-	inline void SetAtUnchecked(il2cpp_array_size_t index, GUILayoutOption_t2D992ABCB62BEB24A6F4A826A5CBE7AE236071AB * value)
-	{
-		m_Items[index] = value;
-		Il2CppCodeGenWriteBarrier((void**)m_Items + index, (void*)value);
-	}
-};
-// System.Object[]
-struct ObjectU5BU5D_tC1F4EE0DB0B7300255F5FD4AF64FE4C585CF5ADE  : public RuntimeArray
-{
-public:
-	ALIGN_FIELD (8) RuntimeObject * m_Items[1];
-
-public:
-	inline RuntimeObject * GetAt(il2cpp_array_size_t index) const
-	{
-		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
-		return m_Items[index];
-	}
-	inline RuntimeObject ** GetAddressAt(il2cpp_array_size_t index)
-	{
-		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
-		return m_Items + index;
-	}
-	inline void SetAt(il2cpp_array_size_t index, RuntimeObject * value)
-	{
-		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
-		m_Items[index] = value;
-		Il2CppCodeGenWriteBarrier((void**)m_Items + index, (void*)value);
-	}
-	inline RuntimeObject * GetAtUnchecked(il2cpp_array_size_t index) const
-	{
-		return m_Items[index];
-	}
-	inline RuntimeObject ** GetAddressAtUnchecked(il2cpp_array_size_t index)
-	{
-		return m_Items + index;
-	}
-	inline void SetAtUnchecked(il2cpp_array_size_t index, RuntimeObject * value)
-	{
-		m_Items[index] = value;
-		Il2CppCodeGenWriteBarrier((void**)m_Items + index, (void*)value);
-	}
-};
 
 
 // !!0 UnityEngine.Component::GetComponent<System.Object>()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * Component_GetComponent_TisRuntimeObject_m69D9C576D6DD024C709E29EEADBC8041299A3AA7_gshared (Component_t62FBC8D2420DA4BE9037AFE430740F6B3EECA684 * __this, const RuntimeMethod* method);
-// !!0[] System.Array::Empty<System.Object>()
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR ObjectU5BU5D_tC1F4EE0DB0B7300255F5FD4AF64FE4C585CF5ADE* Array_Empty_TisRuntimeObject_m1FBC21243DF3542384C523801E8CA8A97606C747_gshared_inline (const RuntimeMethod* method);
 
 // System.Single UnityEngine.U2D.PixelPerfectCameraInternal::CorrectCinemachineOrthoSize(System.Single)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float PixelPerfectCameraInternal_CorrectCinemachineOrthoSize_mCE913421BC4294451DC3869F2EB052D3B3802ED1 (PixelPerfectCameraInternal_t95E6E3E3BDA1D90E9F4489ED6B43D1673E0818AB * __this, float ___targetOrthoSize0, const RuntimeMethod* method);
@@ -1627,39 +1371,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F196687
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Camera_ResetAspect_mC80AD4BC18EA0E1E05F9295B58B6E7A8DB9072C0 (Camera_tC44E094BAB53AFC8A014C6F9CFCE11F4FC38006C * __this, const RuntimeMethod* method);
 // System.Void UnityEngine.Camera::ResetWorldToCameraMatrix()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Camera_ResetWorldToCameraMatrix_mE1FBF18A65E9B66FA0609D8D3A8A13052772C9B7 (Camera_tC44E094BAB53AFC8A014C6F9CFCE11F4FC38006C * __this, const RuntimeMethod* method);
-// UnityEngine.Color UnityEngine.GUI::get_color()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Color_tF40DAF76C04FFECF3FE6024F85A294741C9CC659  GUI_get_color_m61B524C99DD85A0DF405540C6E7453600E816FD5 (const RuntimeMethod* method);
-// UnityEngine.Color UnityEngine.Color::get_red()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Color_tF40DAF76C04FFECF3FE6024F85A294741C9CC659  Color_get_red_m9BD55EBF7A74A515330FA5F7AC7A67C8A8913DD8 (const RuntimeMethod* method);
-// System.Void UnityEngine.GUI::set_color(UnityEngine.Color)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GUI_set_color_m627E2716FD33EF327E38EE0048CE44FAD77AB87F (Color_tF40DAF76C04FFECF3FE6024F85A294741C9CC659  ___value0, const RuntimeMethod* method);
-// UnityEngine.Vector2Int UnityEngine.Vector2Int::get_zero()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9  Vector2Int_get_zero_m89F24AE488182BAB38B381B445B8868B3DD5A2AE (const RuntimeMethod* method);
-// System.Int32 UnityEngine.Camera::get_pixelWidth()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Camera_get_pixelWidth_m7DC2EF816FA7AB52EEE991E054FC7B1F31982802 (Camera_tC44E094BAB53AFC8A014C6F9CFCE11F4FC38006C * __this, const RuntimeMethod* method);
-// System.Void UnityEngine.Vector2Int::set_x(System.Int32)
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Vector2Int_set_x_m58F3B1895453A0A4BC964CA331D56B7C3D873B7C_inline (Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9 * __this, int32_t ___value0, const RuntimeMethod* method);
-// System.Int32 UnityEngine.Camera::get_pixelHeight()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Camera_get_pixelHeight_m7A18CEE2D95835EB95156E88D4D27EA018404201 (Camera_tC44E094BAB53AFC8A014C6F9CFCE11F4FC38006C * __this, const RuntimeMethod* method);
-// System.Void UnityEngine.Vector2Int::set_y(System.Int32)
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Vector2Int_set_y_m55A40AE7AF833E31D968E0C515A5C773F251C21A_inline (Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9 * __this, int32_t ___value0, const RuntimeMethod* method);
-// System.Int32 UnityEngine.Vector2Int::get_x()
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t Vector2Int_get_x_mDBEFBCDF9C7924767344ED2CEE1307885AED947B_inline (Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9 * __this, const RuntimeMethod* method);
-// System.Int32 UnityEngine.Vector2Int::get_y()
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t Vector2Int_get_y_m282591DEB0E70B02F4F4DDFAB90116AEC8E6B86C_inline (Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9 * __this, const RuntimeMethod* method);
-// System.String System.String::Format(System.String,System.Object,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* String_Format_m8D1CB0410C35E052A53AE957C914C841E54BAB66 (String_t* ___format0, RuntimeObject * ___arg01, RuntimeObject * ___arg12, const RuntimeMethod* method);
-// !!0[] System.Array::Empty<UnityEngine.GUILayoutOption>()
-inline GUILayoutOptionU5BU5D_tA0F031CC36F88BBBD25D6841ADD3913446E6EA2B* Array_Empty_TisGUILayoutOption_t2D992ABCB62BEB24A6F4A826A5CBE7AE236071AB_m6EB599DF46848C50C5E2A836AF0BDA9C81B1A23A_inline (const RuntimeMethod* method)
-{
-	return ((  GUILayoutOptionU5BU5D_tA0F031CC36F88BBBD25D6841ADD3913446E6EA2B* (*) (const RuntimeMethod*))Array_Empty_TisRuntimeObject_m1FBC21243DF3542384C523801E8CA8A97606C747_gshared_inline)(method);
-}
-// System.Void UnityEngine.GUILayout::Box(System.String,UnityEngine.GUILayoutOption[])
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GUILayout_Box_m0EECE38EC754153D8414151BA4B11BA3E756861D (String_t* ___text0, GUILayoutOptionU5BU5D_tA0F031CC36F88BBBD25D6841ADD3913446E6EA2B* ___options1, const RuntimeMethod* method);
-// System.Int32 UnityEngine.U2D.PixelPerfectCamera::get_refResolutionX()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t PixelPerfectCamera_get_refResolutionX_mD8E1DCEE1434AAC6761DEE8B73D4D163B858FE58 (PixelPerfectCamera_tAEEA2988EBDE91F2C7D260CDA6B65FB24261CFE8 * __this, const RuntimeMethod* method);
-// System.Int32 UnityEngine.U2D.PixelPerfectCamera::get_refResolutionY()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t PixelPerfectCamera_get_refResolutionY_m8C37A3DBC9014F034A78F9E921A11BAA113CB24F (PixelPerfectCamera_tAEEA2988EBDE91F2C7D260CDA6B65FB24261CFE8 * __this, const RuntimeMethod* method);
 // System.Void UnityEngine.MonoBehaviour::.ctor()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MonoBehaviour__ctor_mC0995D847F6A95B1A553652636C38A2AA8B13BED (MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A * __this, const RuntimeMethod* method);
 // System.Void System.Object::.ctor()
@@ -1700,19 +1411,10 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Mathf_RoundToInt_m56850BDF60FF9E3441C
 // System.Int32 UnityEngine.U2D.PixelPerfectCamera::get_assetsPPU()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t PixelPerfectCamera_get_assetsPPU_mF294CEA88ED86AF12C3B288A32454145E655081D (PixelPerfectCamera_tAEEA2988EBDE91F2C7D260CDA6B65FB24261CFE8 * __this, const RuntimeMethod* method)
 {
-	int32_t V_0 = 0;
 	{
 		// public int assetsPPU { get { return m_AssetsPPU; } set { m_AssetsPPU = value > 0 ? value : 1; } }
 		int32_t L_0 = __this->get_m_AssetsPPU_4();
-		V_0 = L_0;
-		goto IL_000a;
-	}
-
-IL_000a:
-	{
-		// public int assetsPPU { get { return m_AssetsPPU; } set { m_AssetsPPU = value > 0 ? value : 1; } }
-		int32_t L_1 = V_0;
-		return L_1;
+		return L_0;
 	}
 }
 // System.Void UnityEngine.U2D.PixelPerfectCamera::set_assetsPPU(System.Int32)
@@ -1729,23 +1431,23 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PixelPerfectCamera_set_assetsPPU_mAF321B
 		if ((((int32_t)L_0) > ((int32_t)0)))
 		{
 			G_B2_0 = __this;
-			goto IL_0009;
+			goto IL_0008;
 		}
 	}
 	{
 		G_B3_0 = 1;
 		G_B3_1 = G_B1_0;
-		goto IL_000a;
+		goto IL_0009;
 	}
 
-IL_0009:
+IL_0008:
 	{
 		int32_t L_1 = ___value0;
 		G_B3_0 = L_1;
 		G_B3_1 = G_B2_0;
 	}
 
-IL_000a:
+IL_0009:
 	{
 		G_B3_1->set_m_AssetsPPU_4(G_B3_0);
 		// public int assetsPPU { get { return m_AssetsPPU; } set { m_AssetsPPU = value > 0 ? value : 1; } }
@@ -1755,19 +1457,10 @@ IL_000a:
 // System.Int32 UnityEngine.U2D.PixelPerfectCamera::get_refResolutionX()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t PixelPerfectCamera_get_refResolutionX_mD8E1DCEE1434AAC6761DEE8B73D4D163B858FE58 (PixelPerfectCamera_tAEEA2988EBDE91F2C7D260CDA6B65FB24261CFE8 * __this, const RuntimeMethod* method)
 {
-	int32_t V_0 = 0;
 	{
 		// public int refResolutionX { get { return m_RefResolutionX; } set { m_RefResolutionX = value > 0 ? value : 1; } }
 		int32_t L_0 = __this->get_m_RefResolutionX_5();
-		V_0 = L_0;
-		goto IL_000a;
-	}
-
-IL_000a:
-	{
-		// public int refResolutionX { get { return m_RefResolutionX; } set { m_RefResolutionX = value > 0 ? value : 1; } }
-		int32_t L_1 = V_0;
-		return L_1;
+		return L_0;
 	}
 }
 // System.Void UnityEngine.U2D.PixelPerfectCamera::set_refResolutionX(System.Int32)
@@ -1784,23 +1477,23 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PixelPerfectCamera_set_refResolutionX_mD
 		if ((((int32_t)L_0) > ((int32_t)0)))
 		{
 			G_B2_0 = __this;
-			goto IL_0009;
+			goto IL_0008;
 		}
 	}
 	{
 		G_B3_0 = 1;
 		G_B3_1 = G_B1_0;
-		goto IL_000a;
+		goto IL_0009;
 	}
 
-IL_0009:
+IL_0008:
 	{
 		int32_t L_1 = ___value0;
 		G_B3_0 = L_1;
 		G_B3_1 = G_B2_0;
 	}
 
-IL_000a:
+IL_0009:
 	{
 		G_B3_1->set_m_RefResolutionX_5(G_B3_0);
 		// public int refResolutionX { get { return m_RefResolutionX; } set { m_RefResolutionX = value > 0 ? value : 1; } }
@@ -1810,19 +1503,10 @@ IL_000a:
 // System.Int32 UnityEngine.U2D.PixelPerfectCamera::get_refResolutionY()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t PixelPerfectCamera_get_refResolutionY_m8C37A3DBC9014F034A78F9E921A11BAA113CB24F (PixelPerfectCamera_tAEEA2988EBDE91F2C7D260CDA6B65FB24261CFE8 * __this, const RuntimeMethod* method)
 {
-	int32_t V_0 = 0;
 	{
 		// public int refResolutionY { get { return m_RefResolutionY; } set { m_RefResolutionY = value > 0 ? value : 1; } }
 		int32_t L_0 = __this->get_m_RefResolutionY_6();
-		V_0 = L_0;
-		goto IL_000a;
-	}
-
-IL_000a:
-	{
-		// public int refResolutionY { get { return m_RefResolutionY; } set { m_RefResolutionY = value > 0 ? value : 1; } }
-		int32_t L_1 = V_0;
-		return L_1;
+		return L_0;
 	}
 }
 // System.Void UnityEngine.U2D.PixelPerfectCamera::set_refResolutionY(System.Int32)
@@ -1839,23 +1523,23 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PixelPerfectCamera_set_refResolutionY_mD
 		if ((((int32_t)L_0) > ((int32_t)0)))
 		{
 			G_B2_0 = __this;
-			goto IL_0009;
+			goto IL_0008;
 		}
 	}
 	{
 		G_B3_0 = 1;
 		G_B3_1 = G_B1_0;
-		goto IL_000a;
+		goto IL_0009;
 	}
 
-IL_0009:
+IL_0008:
 	{
 		int32_t L_1 = ___value0;
 		G_B3_0 = L_1;
 		G_B3_1 = G_B2_0;
 	}
 
-IL_000a:
+IL_0009:
 	{
 		G_B3_1->set_m_RefResolutionY_6(G_B3_0);
 		// public int refResolutionY { get { return m_RefResolutionY; } set { m_RefResolutionY = value > 0 ? value : 1; } }
@@ -1865,19 +1549,10 @@ IL_000a:
 // System.Boolean UnityEngine.U2D.PixelPerfectCamera::get_upscaleRT()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool PixelPerfectCamera_get_upscaleRT_m36326F6B11D8D2CC33971B805344F2C6458E54C0 (PixelPerfectCamera_tAEEA2988EBDE91F2C7D260CDA6B65FB24261CFE8 * __this, const RuntimeMethod* method)
 {
-	bool V_0 = false;
 	{
 		// public bool upscaleRT { get { return m_UpscaleRT; } set { m_UpscaleRT = value; } }
 		bool L_0 = __this->get_m_UpscaleRT_7();
-		V_0 = L_0;
-		goto IL_000a;
-	}
-
-IL_000a:
-	{
-		// public bool upscaleRT { get { return m_UpscaleRT; } set { m_UpscaleRT = value; } }
-		bool L_1 = V_0;
-		return L_1;
+		return L_0;
 	}
 }
 // System.Void UnityEngine.U2D.PixelPerfectCamera::set_upscaleRT(System.Boolean)
@@ -1894,19 +1569,10 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PixelPerfectCamera_set_upscaleRT_m870AC1
 // System.Boolean UnityEngine.U2D.PixelPerfectCamera::get_pixelSnapping()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool PixelPerfectCamera_get_pixelSnapping_mF550795A64EA5FF77DECD748CA5FB21C00D9A121 (PixelPerfectCamera_tAEEA2988EBDE91F2C7D260CDA6B65FB24261CFE8 * __this, const RuntimeMethod* method)
 {
-	bool V_0 = false;
 	{
 		// public bool pixelSnapping { get { return m_PixelSnapping; } set { m_PixelSnapping = value; } }
 		bool L_0 = __this->get_m_PixelSnapping_8();
-		V_0 = L_0;
-		goto IL_000a;
-	}
-
-IL_000a:
-	{
-		// public bool pixelSnapping { get { return m_PixelSnapping; } set { m_PixelSnapping = value; } }
-		bool L_1 = V_0;
-		return L_1;
+		return L_0;
 	}
 }
 // System.Void UnityEngine.U2D.PixelPerfectCamera::set_pixelSnapping(System.Boolean)
@@ -1923,19 +1589,10 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PixelPerfectCamera_set_pixelSnapping_m9B
 // System.Boolean UnityEngine.U2D.PixelPerfectCamera::get_cropFrameX()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool PixelPerfectCamera_get_cropFrameX_mB81332B181CC77B077B48EC5B7B96CBA73912FA6 (PixelPerfectCamera_tAEEA2988EBDE91F2C7D260CDA6B65FB24261CFE8 * __this, const RuntimeMethod* method)
 {
-	bool V_0 = false;
 	{
 		// public bool cropFrameX { get { return m_CropFrameX; } set { m_CropFrameX = value; } }
 		bool L_0 = __this->get_m_CropFrameX_9();
-		V_0 = L_0;
-		goto IL_000a;
-	}
-
-IL_000a:
-	{
-		// public bool cropFrameX { get { return m_CropFrameX; } set { m_CropFrameX = value; } }
-		bool L_1 = V_0;
-		return L_1;
+		return L_0;
 	}
 }
 // System.Void UnityEngine.U2D.PixelPerfectCamera::set_cropFrameX(System.Boolean)
@@ -1952,19 +1609,10 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PixelPerfectCamera_set_cropFrameX_m2E647
 // System.Boolean UnityEngine.U2D.PixelPerfectCamera::get_cropFrameY()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool PixelPerfectCamera_get_cropFrameY_m4DBB6A286AC29B2213E61B6397754C38E799A5D1 (PixelPerfectCamera_tAEEA2988EBDE91F2C7D260CDA6B65FB24261CFE8 * __this, const RuntimeMethod* method)
 {
-	bool V_0 = false;
 	{
 		// public bool cropFrameY { get { return m_CropFrameY; } set { m_CropFrameY = value; } }
 		bool L_0 = __this->get_m_CropFrameY_10();
-		V_0 = L_0;
-		goto IL_000a;
-	}
-
-IL_000a:
-	{
-		// public bool cropFrameY { get { return m_CropFrameY; } set { m_CropFrameY = value; } }
-		bool L_1 = V_0;
-		return L_1;
+		return L_0;
 	}
 }
 // System.Void UnityEngine.U2D.PixelPerfectCamera::set_cropFrameY(System.Boolean)
@@ -1981,19 +1629,10 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PixelPerfectCamera_set_cropFrameY_m3EAE3
 // System.Boolean UnityEngine.U2D.PixelPerfectCamera::get_stretchFill()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool PixelPerfectCamera_get_stretchFill_m959164B6C59CB30C7EDDFFE93808C2CEEDFC3847 (PixelPerfectCamera_tAEEA2988EBDE91F2C7D260CDA6B65FB24261CFE8 * __this, const RuntimeMethod* method)
 {
-	bool V_0 = false;
 	{
 		// public bool stretchFill { get { return m_StretchFill; } set { m_StretchFill = value; } }
 		bool L_0 = __this->get_m_StretchFill_11();
-		V_0 = L_0;
-		goto IL_000a;
-	}
-
-IL_000a:
-	{
-		// public bool stretchFill { get { return m_StretchFill; } set { m_StretchFill = value; } }
-		bool L_1 = V_0;
-		return L_1;
+		return L_0;
 	}
 }
 // System.Void UnityEngine.U2D.PixelPerfectCamera::set_stretchFill(System.Boolean)
@@ -2010,62 +1649,45 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PixelPerfectCamera_set_stretchFill_m82F1
 // System.Int32 UnityEngine.U2D.PixelPerfectCamera::get_pixelRatio()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t PixelPerfectCamera_get_pixelRatio_m8E1DC329C0C7551837F4AE0E1B70B9730042C96F (PixelPerfectCamera_tAEEA2988EBDE91F2C7D260CDA6B65FB24261CFE8 * __this, const RuntimeMethod* method)
 {
-	bool V_0 = false;
-	bool V_1 = false;
-	int32_t V_2 = 0;
 	{
 		// if (m_CinemachineCompatibilityMode)
 		bool L_0 = __this->get_m_CinemachineCompatibilityMode_14();
-		V_0 = L_0;
-		bool L_1 = V_0;
-		if (!L_1)
+		if (!L_0)
 		{
-			goto IL_003e;
+			goto IL_0034;
 		}
 	}
 	{
 		// if (m_UpscaleRT)
-		bool L_2 = __this->get_m_UpscaleRT_7();
-		V_1 = L_2;
-		bool L_3 = V_1;
-		if (!L_3)
+		bool L_1 = __this->get_m_UpscaleRT_7();
+		if (!L_1)
 		{
-			goto IL_0030;
+			goto IL_0028;
 		}
 	}
 	{
 		// return m_Internal.zoom * m_Internal.cinemachineVCamZoom;
+		PixelPerfectCameraInternal_t95E6E3E3BDA1D90E9F4489ED6B43D1673E0818AB * L_2 = __this->get_m_Internal_13();
+		int32_t L_3 = L_2->get_zoom_7();
 		PixelPerfectCameraInternal_t95E6E3E3BDA1D90E9F4489ED6B43D1673E0818AB * L_4 = __this->get_m_Internal_13();
-		int32_t L_5 = L_4->get_zoom_7();
-		PixelPerfectCameraInternal_t95E6E3E3BDA1D90E9F4489ED6B43D1673E0818AB * L_6 = __this->get_m_Internal_13();
-		int32_t L_7 = L_6->get_cinemachineVCamZoom_14();
-		V_2 = ((int32_t)il2cpp_codegen_multiply((int32_t)L_5, (int32_t)L_7));
-		goto IL_004d;
+		int32_t L_5 = L_4->get_cinemachineVCamZoom_14();
+		return ((int32_t)il2cpp_codegen_multiply((int32_t)L_3, (int32_t)L_5));
 	}
 
-IL_0030:
+IL_0028:
 	{
 		// return m_Internal.cinemachineVCamZoom;
-		PixelPerfectCameraInternal_t95E6E3E3BDA1D90E9F4489ED6B43D1673E0818AB * L_8 = __this->get_m_Internal_13();
-		int32_t L_9 = L_8->get_cinemachineVCamZoom_14();
-		V_2 = L_9;
-		goto IL_004d;
+		PixelPerfectCameraInternal_t95E6E3E3BDA1D90E9F4489ED6B43D1673E0818AB * L_6 = __this->get_m_Internal_13();
+		int32_t L_7 = L_6->get_cinemachineVCamZoom_14();
+		return L_7;
 	}
 
-IL_003e:
+IL_0034:
 	{
 		// return m_Internal.zoom;
-		PixelPerfectCameraInternal_t95E6E3E3BDA1D90E9F4489ED6B43D1673E0818AB * L_10 = __this->get_m_Internal_13();
-		int32_t L_11 = L_10->get_zoom_7();
-		V_2 = L_11;
-		goto IL_004d;
-	}
-
-IL_004d:
-	{
-		// }
-		int32_t L_12 = V_2;
-		return L_12;
+		PixelPerfectCameraInternal_t95E6E3E3BDA1D90E9F4489ED6B43D1673E0818AB * L_8 = __this->get_m_Internal_13();
+		int32_t L_9 = L_8->get_zoom_7();
+		return L_9;
 	}
 }
 // UnityEngine.Vector3 UnityEngine.U2D.PixelPerfectCamera::RoundToPixel(UnityEngine.Vector3)
@@ -2074,9 +1696,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90
 	float V_0 = 0.0f;
 	Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  V_1;
 	memset((&V_1), 0, sizeof(V_1));
-	bool V_2 = false;
-	Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  V_3;
-	memset((&V_3), 0, sizeof(V_3));
 	{
 		// float unitsPerPixel = m_Internal.unitsPerPixel;
 		PixelPerfectCameraInternal_t95E6E3E3BDA1D90E9F4489ED6B43D1673E0818AB * L_0 = __this->get_m_Internal_13();
@@ -2084,99 +1703,75 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90
 		V_0 = L_1;
 		// if (unitsPerPixel == 0.0f)
 		float L_2 = V_0;
-		V_2 = (bool)((((float)L_2) == ((float)(0.0f)))? 1 : 0);
-		bool L_3 = V_2;
-		if (!L_3)
+		if ((!(((float)L_2) == ((float)(0.0f)))))
 		{
-			goto IL_001d;
+			goto IL_0016;
 		}
 	}
 	{
 		// return position;
-		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_4 = ___position0;
-		V_3 = L_4;
-		goto IL_0063;
+		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_3 = ___position0;
+		return L_3;
 	}
 
-IL_001d:
+IL_0016:
 	{
 		// result.x = Mathf.Round(position.x / unitsPerPixel) * unitsPerPixel;
-		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_5 = ___position0;
-		float L_6 = L_5.get_x_2();
-		float L_7 = V_0;
-		float L_8;
-		L_8 = bankers_roundf(((float)((float)L_6/(float)L_7)));
-		float L_9 = V_0;
-		(&V_1)->set_x_2(((float)il2cpp_codegen_multiply((float)L_8, (float)L_9)));
+		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_4 = ___position0;
+		float L_5 = L_4.get_x_2();
+		float L_6 = V_0;
+		float L_7;
+		L_7 = bankers_roundf(((float)((float)L_5/(float)L_6)));
+		float L_8 = V_0;
+		(&V_1)->set_x_2(((float)il2cpp_codegen_multiply((float)L_7, (float)L_8)));
 		// result.y = Mathf.Round(position.y / unitsPerPixel) * unitsPerPixel;
-		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_10 = ___position0;
-		float L_11 = L_10.get_y_3();
-		float L_12 = V_0;
-		float L_13;
-		L_13 = bankers_roundf(((float)((float)L_11/(float)L_12)));
-		float L_14 = V_0;
-		(&V_1)->set_y_3(((float)il2cpp_codegen_multiply((float)L_13, (float)L_14)));
+		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_9 = ___position0;
+		float L_10 = L_9.get_y_3();
+		float L_11 = V_0;
+		float L_12;
+		L_12 = bankers_roundf(((float)((float)L_10/(float)L_11)));
+		float L_13 = V_0;
+		(&V_1)->set_y_3(((float)il2cpp_codegen_multiply((float)L_12, (float)L_13)));
 		// result.z = Mathf.Round(position.z / unitsPerPixel) * unitsPerPixel;
-		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_15 = ___position0;
-		float L_16 = L_15.get_z_4();
-		float L_17 = V_0;
-		float L_18;
-		L_18 = bankers_roundf(((float)((float)L_16/(float)L_17)));
-		float L_19 = V_0;
-		(&V_1)->set_z_4(((float)il2cpp_codegen_multiply((float)L_18, (float)L_19)));
+		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_14 = ___position0;
+		float L_15 = L_14.get_z_4();
+		float L_16 = V_0;
+		float L_17;
+		L_17 = bankers_roundf(((float)((float)L_15/(float)L_16)));
+		float L_18 = V_0;
+		(&V_1)->set_z_4(((float)il2cpp_codegen_multiply((float)L_17, (float)L_18)));
 		// return result;
-		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_20 = V_1;
-		V_3 = L_20;
-		goto IL_0063;
-	}
-
-IL_0063:
-	{
-		// }
-		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_21 = V_3;
-		return L_21;
+		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_19 = V_1;
+		return L_19;
 	}
 }
 // System.Single UnityEngine.U2D.PixelPerfectCamera::CorrectCinemachineOrthoSize(System.Single)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float PixelPerfectCamera_CorrectCinemachineOrthoSize_m7187509929924F1A1DFEEAD8178161D7036A5CA3 (PixelPerfectCamera_tAEEA2988EBDE91F2C7D260CDA6B65FB24261CFE8 * __this, float ___targetOrthoSize0, const RuntimeMethod* method)
 {
-	bool V_0 = false;
-	float V_1 = 0.0f;
 	{
 		// m_CinemachineCompatibilityMode = true;
 		__this->set_m_CinemachineCompatibilityMode_14((bool)1);
 		// if (m_Internal == null)
 		PixelPerfectCameraInternal_t95E6E3E3BDA1D90E9F4489ED6B43D1673E0818AB * L_0 = __this->get_m_Internal_13();
-		V_0 = (bool)((((RuntimeObject*)(PixelPerfectCameraInternal_t95E6E3E3BDA1D90E9F4489ED6B43D1673E0818AB *)L_0) == ((RuntimeObject*)(RuntimeObject *)NULL))? 1 : 0);
-		bool L_1 = V_0;
-		if (!L_1)
+		if (L_0)
 		{
-			goto IL_0019;
+			goto IL_0011;
 		}
 	}
 	{
 		// return targetOrthoSize;
-		float L_2 = ___targetOrthoSize0;
-		V_1 = L_2;
-		goto IL_0028;
+		float L_1 = ___targetOrthoSize0;
+		return L_1;
 	}
 
-IL_0019:
+IL_0011:
 	{
 		// return m_Internal.CorrectCinemachineOrthoSize(targetOrthoSize);
-		PixelPerfectCameraInternal_t95E6E3E3BDA1D90E9F4489ED6B43D1673E0818AB * L_3 = __this->get_m_Internal_13();
-		float L_4 = ___targetOrthoSize0;
-		float L_5;
-		L_5 = PixelPerfectCameraInternal_CorrectCinemachineOrthoSize_mCE913421BC4294451DC3869F2EB052D3B3802ED1(L_3, L_4, /*hidden argument*/NULL);
-		V_1 = L_5;
-		goto IL_0028;
-	}
-
-IL_0028:
-	{
-		// }
-		float L_6 = V_1;
-		return L_6;
+		PixelPerfectCameraInternal_t95E6E3E3BDA1D90E9F4489ED6B43D1673E0818AB * L_2 = __this->get_m_Internal_13();
+		float L_3 = ___targetOrthoSize0;
+		float L_4;
+		L_4 = PixelPerfectCameraInternal_CorrectCinemachineOrthoSize_mCE913421BC4294451DC3869F2EB052D3B3802ED1(L_2, L_3, /*hidden argument*/NULL);
+		return L_4;
 	}
 }
 // System.Void UnityEngine.U2D.PixelPerfectCamera::PixelSnap()
@@ -2186,10 +1781,8 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PixelPerfectCamera_PixelSnap_m91DD09A7F8
 	memset((&V_0), 0, sizeof(V_0));
 	Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  V_1;
 	memset((&V_1), 0, sizeof(V_1));
-	Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  V_2;
+	Matrix4x4_tDE7FF4F2E2EA284F6EFE00D627789D0E5B8B4461  V_2;
 	memset((&V_2), 0, sizeof(V_2));
-	Matrix4x4_tDE7FF4F2E2EA284F6EFE00D627789D0E5B8B4461  V_3;
-	memset((&V_3), 0, sizeof(V_3));
 	{
 		// Vector3 cameraPosition = m_Camera.transform.position;
 		Camera_tC44E094BAB53AFC8A014C6F9CFCE11F4FC38006C * L_0 = __this->get_m_Camera_12();
@@ -2202,40 +1795,38 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PixelPerfectCamera_PixelSnap_m91DD09A7F8
 		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_3 = V_0;
 		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_4;
 		L_4 = PixelPerfectCamera_RoundToPixel_m53B7AE007CD7E21B1B7DFD76A1F330364369C2D8(__this, L_3, /*hidden argument*/NULL);
-		V_1 = L_4;
 		// Vector3 offset = roundedCameraPosition - cameraPosition;
-		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_5 = V_1;
-		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_6 = V_0;
-		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_7;
-		L_7 = Vector3_op_Subtraction_m2725C96965D5C0B1F9715797E51762B13A5FED58_inline(L_5, L_6, /*hidden argument*/NULL);
-		V_2 = L_7;
+		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_5 = V_0;
+		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_6;
+		L_6 = Vector3_op_Subtraction_m2725C96965D5C0B1F9715797E51762B13A5FED58_inline(L_4, L_5, /*hidden argument*/NULL);
+		V_1 = L_6;
 		// offset.z = -offset.z;
-		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_8 = V_2;
-		float L_9 = L_8.get_z_4();
-		(&V_2)->set_z_4(((-L_9)));
+		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_7 = V_1;
+		float L_8 = L_7.get_z_4();
+		(&V_1)->set_z_4(((-L_8)));
 		// Matrix4x4 offsetMatrix = Matrix4x4.TRS(-offset, Quaternion.identity, new Vector3(1.0f, 1.0f, -1.0f));
-		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_10 = V_2;
-		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_11;
-		L_11 = Vector3_op_UnaryNegation_m362EA356F4CADEDB39F965A0DBDED6EA890925F7_inline(L_10, /*hidden argument*/NULL);
-		Quaternion_t6D28618CF65156D4A0AD747370DDFD0C514A31B4  L_12;
-		L_12 = Quaternion_get_identity_mF2E565DBCE793A1AE6208056D42CA7C59D83A702(/*hidden argument*/NULL);
-		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_13;
-		memset((&L_13), 0, sizeof(L_13));
-		Vector3__ctor_m57495F692C6CE1CEF278CAD9A98221165D37E636_inline((&L_13), (1.0f), (1.0f), (-1.0f), /*hidden argument*/NULL);
-		Matrix4x4_tDE7FF4F2E2EA284F6EFE00D627789D0E5B8B4461  L_14;
-		L_14 = Matrix4x4_TRS_m0CBC696D0BDF58DCEC40B99BC32C716FAD024CE5(L_11, L_12, L_13, /*hidden argument*/NULL);
-		V_3 = L_14;
+		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_9 = V_1;
+		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_10;
+		L_10 = Vector3_op_UnaryNegation_m362EA356F4CADEDB39F965A0DBDED6EA890925F7_inline(L_9, /*hidden argument*/NULL);
+		Quaternion_t6D28618CF65156D4A0AD747370DDFD0C514A31B4  L_11;
+		L_11 = Quaternion_get_identity_mF2E565DBCE793A1AE6208056D42CA7C59D83A702(/*hidden argument*/NULL);
+		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_12;
+		memset((&L_12), 0, sizeof(L_12));
+		Vector3__ctor_m57495F692C6CE1CEF278CAD9A98221165D37E636_inline((&L_12), (1.0f), (1.0f), (-1.0f), /*hidden argument*/NULL);
+		Matrix4x4_tDE7FF4F2E2EA284F6EFE00D627789D0E5B8B4461  L_13;
+		L_13 = Matrix4x4_TRS_m0CBC696D0BDF58DCEC40B99BC32C716FAD024CE5(L_10, L_11, L_12, /*hidden argument*/NULL);
+		V_2 = L_13;
 		// m_Camera.worldToCameraMatrix = offsetMatrix * m_Camera.transform.worldToLocalMatrix;
-		Camera_tC44E094BAB53AFC8A014C6F9CFCE11F4FC38006C * L_15 = __this->get_m_Camera_12();
-		Matrix4x4_tDE7FF4F2E2EA284F6EFE00D627789D0E5B8B4461  L_16 = V_3;
-		Camera_tC44E094BAB53AFC8A014C6F9CFCE11F4FC38006C * L_17 = __this->get_m_Camera_12();
-		Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * L_18;
-		L_18 = Component_get_transform_mE8496EBC45BEB1BADB5F314960F1DF1C952FA11F(L_17, /*hidden argument*/NULL);
+		Camera_tC44E094BAB53AFC8A014C6F9CFCE11F4FC38006C * L_14 = __this->get_m_Camera_12();
+		Matrix4x4_tDE7FF4F2E2EA284F6EFE00D627789D0E5B8B4461  L_15 = V_2;
+		Camera_tC44E094BAB53AFC8A014C6F9CFCE11F4FC38006C * L_16 = __this->get_m_Camera_12();
+		Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * L_17;
+		L_17 = Component_get_transform_mE8496EBC45BEB1BADB5F314960F1DF1C952FA11F(L_16, /*hidden argument*/NULL);
+		Matrix4x4_tDE7FF4F2E2EA284F6EFE00D627789D0E5B8B4461  L_18;
+		L_18 = Transform_get_worldToLocalMatrix_mE22FDE24767E1DE402D3E7A1C9803379B2E8399D(L_17, /*hidden argument*/NULL);
 		Matrix4x4_tDE7FF4F2E2EA284F6EFE00D627789D0E5B8B4461  L_19;
-		L_19 = Transform_get_worldToLocalMatrix_mE22FDE24767E1DE402D3E7A1C9803379B2E8399D(L_18, /*hidden argument*/NULL);
-		Matrix4x4_tDE7FF4F2E2EA284F6EFE00D627789D0E5B8B4461  L_20;
-		L_20 = Matrix4x4_op_Multiply_mC2B30D333D4399C1693414F1A73D87FB3450F39F(L_16, L_19, /*hidden argument*/NULL);
-		Camera_set_worldToCameraMatrix_mD9E982CC4F356AC310C5B3145FC59FD73C420BE3(L_15, L_20, /*hidden argument*/NULL);
+		L_19 = Matrix4x4_op_Multiply_mC2B30D333D4399C1693414F1A73D87FB3450F39F(L_15, L_18, /*hidden argument*/NULL);
+		Camera_set_worldToCameraMatrix_mD9E982CC4F356AC310C5B3145FC59FD73C420BE3(L_14, L_19, /*hidden argument*/NULL);
 		// }
 		return;
 	}
@@ -2254,7 +1845,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PixelPerfectCamera_Awake_m0EEA0D8C24DDBF
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral6E3C394542AFDC0953291817DE5BAA9A9329CF27);
 		s_Il2CppMethodInitialized = true;
 	}
-	bool V_0 = false;
 	{
 		// m_Camera = GetComponent<Camera>();
 		Camera_tC44E094BAB53AFC8A014C6F9CFCE11F4FC38006C * L_0;
@@ -2284,21 +1874,19 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PixelPerfectCamera_Awake_m0EEA0D8C24DDBF
 		L_9 = Camera_get_targetTexture_m1DF637F05FF945625231DED8F3071795755DD4BF(L_8, /*hidden argument*/NULL);
 		bool L_10;
 		L_10 = Object_op_Inequality_mE1F187520BD83FB7D86A6D850710C4D42B864E90(L_9, (Object_tF2F3778131EFF286AF62B7B013A170F95A91571A *)NULL, /*hidden argument*/NULL);
-		V_0 = L_10;
-		bool L_11 = V_0;
-		if (!L_11)
+		if (!L_10)
 		{
-			goto IL_0071;
+			goto IL_006d;
 		}
 	}
 	{
 		// Debug.LogWarning("Render to texture is not supported by Pixel Perfect Camera.", m_Camera);
-		Camera_tC44E094BAB53AFC8A014C6F9CFCE11F4FC38006C * L_12 = __this->get_m_Camera_12();
+		Camera_tC44E094BAB53AFC8A014C6F9CFCE11F4FC38006C * L_11 = __this->get_m_Camera_12();
 		IL2CPP_RUNTIME_CLASS_INIT(Debug_tEB68BCBEB8EFD60F8043C67146DC05E7F50F374B_il2cpp_TypeInfo_var);
-		Debug_LogWarning_mE6AF3EFCF84F2296622CD42FBF9EEAF07244C0A8(_stringLiteral6E3C394542AFDC0953291817DE5BAA9A9329CF27, L_12, /*hidden argument*/NULL);
+		Debug_LogWarning_mE6AF3EFCF84F2296622CD42FBF9EEAF07244C0A8(_stringLiteral6E3C394542AFDC0953291817DE5BAA9A9329CF27, L_11, /*hidden argument*/NULL);
 	}
 
-IL_0071:
+IL_006d:
 	{
 		// }
 		return;
@@ -2327,7 +1915,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PixelPerfectCamera_LateUpdate_m38D630FA4
 		if (L_5)
 		{
 			G_B2_0 = L_3;
-			goto IL_0037;
+			goto IL_0035;
 		}
 	}
 	{
@@ -2335,16 +1923,16 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PixelPerfectCamera_LateUpdate_m38D630FA4
 		bool L_7 = L_6->get_useOffscreenRT_8();
 		G_B3_0 = ((int32_t)(L_7));
 		G_B3_1 = G_B1_0;
-		goto IL_0038;
+		goto IL_0036;
 	}
 
-IL_0037:
+IL_0035:
 	{
 		G_B3_0 = 1;
 		G_B3_1 = G_B2_0;
 	}
 
-IL_0038:
+IL_0036:
 	{
 		Camera_set_forceIntoRenderTexture_m44C397F4C0E630B9AE3D153768FC771D759AB348(G_B3_1, (bool)G_B3_0, /*hidden argument*/NULL);
 		// }
@@ -2354,8 +1942,6 @@ IL_0038:
 // System.Void UnityEngine.U2D.PixelPerfectCamera::OnPreCull()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PixelPerfectCamera_OnPreCull_m6E8A8435E206B526BFF26828025289409A981AB6 (PixelPerfectCamera_tAEEA2988EBDE91F2C7D260CDA6B65FB24261CFE8 * __this, const RuntimeMethod* method)
 {
-	bool V_0 = false;
-	bool V_1 = false;
 	{
 		// PixelSnap();
 		PixelPerfectCamera_PixelSnap_m91DD09A7F8EC7047E95D2853591589120C632549(__this, /*hidden argument*/NULL);
@@ -2366,52 +1952,48 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PixelPerfectCamera_OnPreCull_m6E8A8435E2
 		L_2 = Rect_get_zero_m4F738804E40698120CC691AB45A6416C4FF52589(/*hidden argument*/NULL);
 		bool L_3;
 		L_3 = Rect_op_Inequality_m6D87EE93EB6C68B78B8C044217EAFCE33EE12B66(L_1, L_2, /*hidden argument*/NULL);
-		V_0 = L_3;
-		bool L_4 = V_0;
-		if (!L_4)
+		if (!L_3)
 		{
-			goto IL_003a;
+			goto IL_0035;
 		}
 	}
 	{
 		// m_Camera.pixelRect = m_Internal.pixelRect;
-		Camera_tC44E094BAB53AFC8A014C6F9CFCE11F4FC38006C * L_5 = __this->get_m_Camera_12();
-		PixelPerfectCameraInternal_t95E6E3E3BDA1D90E9F4489ED6B43D1673E0818AB * L_6 = __this->get_m_Internal_13();
-		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878  L_7 = L_6->get_pixelRect_11();
-		Camera_set_pixelRect_mB1BFC3EE5DB87F9A66ED0EBFC10B9F80DF1CC61B(L_5, L_7, /*hidden argument*/NULL);
-		goto IL_005f;
+		Camera_tC44E094BAB53AFC8A014C6F9CFCE11F4FC38006C * L_4 = __this->get_m_Camera_12();
+		PixelPerfectCameraInternal_t95E6E3E3BDA1D90E9F4489ED6B43D1673E0818AB * L_5 = __this->get_m_Internal_13();
+		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878  L_6 = L_5->get_pixelRect_11();
+		Camera_set_pixelRect_mB1BFC3EE5DB87F9A66ED0EBFC10B9F80DF1CC61B(L_4, L_6, /*hidden argument*/NULL);
+		goto IL_0059;
 	}
 
-IL_003a:
+IL_0035:
 	{
 		// m_Camera.rect = new Rect(0.0f, 0.0f, 1.0f, 1.0f);
-		Camera_tC44E094BAB53AFC8A014C6F9CFCE11F4FC38006C * L_8 = __this->get_m_Camera_12();
-		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878  L_9;
-		memset((&L_9), 0, sizeof(L_9));
-		Rect__ctor_m12075526A02B55B680716A34AD5287B223122B70((&L_9), (0.0f), (0.0f), (1.0f), (1.0f), /*hidden argument*/NULL);
-		Camera_set_rect_m556222CD5D4975EF672DC33D979611405A173F79(L_8, L_9, /*hidden argument*/NULL);
+		Camera_tC44E094BAB53AFC8A014C6F9CFCE11F4FC38006C * L_7 = __this->get_m_Camera_12();
+		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878  L_8;
+		memset((&L_8), 0, sizeof(L_8));
+		Rect__ctor_m12075526A02B55B680716A34AD5287B223122B70((&L_8), (0.0f), (0.0f), (1.0f), (1.0f), /*hidden argument*/NULL);
+		Camera_set_rect_m556222CD5D4975EF672DC33D979611405A173F79(L_7, L_8, /*hidden argument*/NULL);
 	}
 
-IL_005f:
+IL_0059:
 	{
 		// if (!m_CinemachineCompatibilityMode)
-		bool L_10 = __this->get_m_CinemachineCompatibilityMode_14();
-		V_1 = (bool)((((int32_t)L_10) == ((int32_t)0))? 1 : 0);
-		bool L_11 = V_1;
-		if (!L_11)
+		bool L_9 = __this->get_m_CinemachineCompatibilityMode_14();
+		if (L_9)
 		{
-			goto IL_0085;
+			goto IL_0077;
 		}
 	}
 	{
 		// m_Camera.orthographicSize = m_Internal.orthoSize;
-		Camera_tC44E094BAB53AFC8A014C6F9CFCE11F4FC38006C * L_12 = __this->get_m_Camera_12();
-		PixelPerfectCameraInternal_t95E6E3E3BDA1D90E9F4489ED6B43D1673E0818AB * L_13 = __this->get_m_Internal_13();
-		float L_14 = L_13->get_orthoSize_12();
-		Camera_set_orthographicSize_mFC4BBB0BB0097A5FE13E99D8388DF3008971085F(L_12, L_14, /*hidden argument*/NULL);
+		Camera_tC44E094BAB53AFC8A014C6F9CFCE11F4FC38006C * L_10 = __this->get_m_Camera_12();
+		PixelPerfectCameraInternal_t95E6E3E3BDA1D90E9F4489ED6B43D1673E0818AB * L_11 = __this->get_m_Internal_13();
+		float L_12 = L_11->get_orthoSize_12();
+		Camera_set_orthographicSize_mFC4BBB0BB0097A5FE13E99D8388DF3008971085F(L_10, L_12, /*hidden argument*/NULL);
 	}
 
-IL_0085:
+IL_0077:
 	{
 		// }
 		return;
@@ -2420,15 +2002,13 @@ IL_0085:
 // System.Void UnityEngine.U2D.PixelPerfectCamera::OnPreRender()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PixelPerfectCamera_OnPreRender_mF532865494E97AE563AEBE9B4496C9C1B55E87F4 (PixelPerfectCamera_tAEEA2988EBDE91F2C7D260CDA6B65FB24261CFE8 * __this, const RuntimeMethod* method)
 {
-	bool V_0 = false;
-	int32_t G_B4_0 = 0;
 	{
 		// if (m_Internal.cropFrameXOrY && !m_Camera.forceIntoRenderTexture && !m_Camera.allowMSAA)
 		PixelPerfectCameraInternal_t95E6E3E3BDA1D90E9F4489ED6B43D1673E0818AB * L_0 = __this->get_m_Internal_13();
 		bool L_1 = L_0->get_cropFrameXOrY_5();
 		if (!L_1)
 		{
-			goto IL_002b;
+			goto IL_0033;
 		}
 	}
 	{
@@ -2437,44 +2017,31 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PixelPerfectCamera_OnPreRender_mF5328654
 		L_3 = Camera_get_forceIntoRenderTexture_mEB70D7C2721A8AB9FA61439DEC708A7A357EED12(L_2, /*hidden argument*/NULL);
 		if (L_3)
 		{
-			goto IL_002b;
+			goto IL_0033;
 		}
 	}
 	{
 		Camera_tC44E094BAB53AFC8A014C6F9CFCE11F4FC38006C * L_4 = __this->get_m_Camera_12();
 		bool L_5;
 		L_5 = Camera_get_allowMSAA_m67C4EA3BF9AC0B742B4C34ED395D946502BCE10C(L_4, /*hidden argument*/NULL);
-		G_B4_0 = ((((int32_t)L_5) == ((int32_t)0))? 1 : 0);
-		goto IL_002c;
-	}
-
-IL_002b:
-	{
-		G_B4_0 = 0;
-	}
-
-IL_002c:
-	{
-		V_0 = (bool)G_B4_0;
-		bool L_6 = V_0;
-		if (!L_6)
+		if (L_5)
 		{
-			goto IL_003d;
+			goto IL_0033;
 		}
 	}
 	{
 		// GL.Clear(false, true, Color.black);
-		Color_tF40DAF76C04FFECF3FE6024F85A294741C9CC659  L_7;
-		L_7 = Color_get_black_m67E91EB7017FC74D9AB5ADEF6B6929B7EFC9A982(/*hidden argument*/NULL);
-		GL_Clear_mF5FCE24D7F60731D6D88AA3DC98B0E88A644CD93((bool)0, (bool)1, L_7, /*hidden argument*/NULL);
+		Color_tF40DAF76C04FFECF3FE6024F85A294741C9CC659  L_6;
+		L_6 = Color_get_black_m67E91EB7017FC74D9AB5ADEF6B6929B7EFC9A982(/*hidden argument*/NULL);
+		GL_Clear_mF5FCE24D7F60731D6D88AA3DC98B0E88A644CD93((bool)0, (bool)1, L_6, /*hidden argument*/NULL);
 	}
 
-IL_003d:
+IL_0033:
 	{
 		// PixelPerfectRendering.pixelSnapSpacing = m_Internal.unitsPerPixel;
-		PixelPerfectCameraInternal_t95E6E3E3BDA1D90E9F4489ED6B43D1673E0818AB * L_8 = __this->get_m_Internal_13();
-		float L_9 = L_8->get_unitsPerPixel_13();
-		PixelPerfectRendering_set_pixelSnapSpacing_m2294835A1D269249C71ACE16384E668369FF4919(L_9, /*hidden argument*/NULL);
+		PixelPerfectCameraInternal_t95E6E3E3BDA1D90E9F4489ED6B43D1673E0818AB * L_7 = __this->get_m_Internal_13();
+		float L_8 = L_7->get_unitsPerPixel_13();
+		PixelPerfectRendering_set_pixelSnapSpacing_m2294835A1D269249C71ACE16384E668369FF4919(L_8, /*hidden argument*/NULL);
 		// }
 		return;
 	}
@@ -2490,9 +2057,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PixelPerfectCamera_OnPostRender_m38D6AE9
 		s_Il2CppMethodInitialized = true;
 	}
 	RenderTexture_t5FE7A5B47EF962A0E8D7BEBA05E9FC87D49A1849 * V_0 = NULL;
-	bool V_1 = false;
-	bool V_2 = false;
-	bool V_3 = false;
 	RenderTexture_t5FE7A5B47EF962A0E8D7BEBA05E9FC87D49A1849 * G_B7_0 = NULL;
 	RenderTexture_t5FE7A5B47EF962A0E8D7BEBA05E9FC87D49A1849 * G_B6_0 = NULL;
 	int32_t G_B8_0 = 0;
@@ -2507,11 +2071,9 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PixelPerfectCamera_OnPostRender_m38D6AE9
 		IL2CPP_RUNTIME_CLASS_INIT(Object_tF2F3778131EFF286AF62B7B013A170F95A91571A_il2cpp_TypeInfo_var);
 		bool L_2;
 		L_2 = Object_op_Inequality_mE1F187520BD83FB7D86A6D850710C4D42B864E90(L_1, (Object_tF2F3778131EFF286AF62B7B013A170F95A91571A *)NULL, /*hidden argument*/NULL);
-		V_1 = L_2;
-		bool L_3 = V_1;
-		if (!L_3)
+		if (!L_2)
 		{
-			goto IL_0058;
+			goto IL_004f;
 		}
 	}
 	{
@@ -2519,104 +2081,96 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PixelPerfectCamera_OnPostRender_m38D6AE9
 		IL2CPP_RUNTIME_CLASS_INIT(Graphics_t97FAEBE964F3F622D4865E7EC62717FE94D1F56D_il2cpp_TypeInfo_var);
 		Graphics_SetRenderTarget_m78AE234327CCDBCEA288FBEFB53D6CEAD3EFC939((RenderTexture_t5FE7A5B47EF962A0E8D7BEBA05E9FC87D49A1849 *)NULL, /*hidden argument*/NULL);
 		// GL.Viewport(new Rect(0.0f, 0.0f, Screen.width, Screen.height));
+		int32_t L_3;
+		L_3 = Screen_get_width_m52188F76E8AAF57BE373018CB14083BB74C43C1C(/*hidden argument*/NULL);
 		int32_t L_4;
-		L_4 = Screen_get_width_m52188F76E8AAF57BE373018CB14083BB74C43C1C(/*hidden argument*/NULL);
-		int32_t L_5;
-		L_5 = Screen_get_height_m110C90A573EE67895DC4F59E9165235EA22039EE(/*hidden argument*/NULL);
-		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878  L_6;
-		memset((&L_6), 0, sizeof(L_6));
-		Rect__ctor_m12075526A02B55B680716A34AD5287B223122B70((&L_6), (0.0f), (0.0f), ((float)((float)L_4)), ((float)((float)L_5)), /*hidden argument*/NULL);
-		GL_Viewport_m461F6FF104488EF63474450B79D3A5107BCFC34B(L_6, /*hidden argument*/NULL);
+		L_4 = Screen_get_height_m110C90A573EE67895DC4F59E9165235EA22039EE(/*hidden argument*/NULL);
+		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878  L_5;
+		memset((&L_5), 0, sizeof(L_5));
+		Rect__ctor_m12075526A02B55B680716A34AD5287B223122B70((&L_5), (0.0f), (0.0f), ((float)((float)L_3)), ((float)((float)L_4)), /*hidden argument*/NULL);
+		GL_Viewport_m461F6FF104488EF63474450B79D3A5107BCFC34B(L_5, /*hidden argument*/NULL);
 		// GL.Clear(false, true, Color.black);
-		Color_tF40DAF76C04FFECF3FE6024F85A294741C9CC659  L_7;
-		L_7 = Color_get_black_m67E91EB7017FC74D9AB5ADEF6B6929B7EFC9A982(/*hidden argument*/NULL);
-		GL_Clear_mF5FCE24D7F60731D6D88AA3DC98B0E88A644CD93((bool)0, (bool)1, L_7, /*hidden argument*/NULL);
+		Color_tF40DAF76C04FFECF3FE6024F85A294741C9CC659  L_6;
+		L_6 = Color_get_black_m67E91EB7017FC74D9AB5ADEF6B6929B7EFC9A982(/*hidden argument*/NULL);
+		GL_Clear_mF5FCE24D7F60731D6D88AA3DC98B0E88A644CD93((bool)0, (bool)1, L_6, /*hidden argument*/NULL);
 	}
 
-IL_0058:
+IL_004f:
 	{
 		// if (!m_Internal.useOffscreenRT)
-		PixelPerfectCameraInternal_t95E6E3E3BDA1D90E9F4489ED6B43D1673E0818AB * L_8 = __this->get_m_Internal_13();
-		bool L_9 = L_8->get_useOffscreenRT_8();
-		V_2 = (bool)((((int32_t)L_9) == ((int32_t)0))? 1 : 0);
-		bool L_10 = V_2;
-		if (!L_10)
+		PixelPerfectCameraInternal_t95E6E3E3BDA1D90E9F4489ED6B43D1673E0818AB * L_7 = __this->get_m_Internal_13();
+		bool L_8 = L_7->get_useOffscreenRT_8();
+		if (L_8)
 		{
-			goto IL_006c;
+			goto IL_005d;
 		}
 	}
 	{
 		// return;
-		goto IL_00c7;
+		return;
 	}
 
-IL_006c:
+IL_005d:
 	{
 		// RenderTexture activeRT = m_Camera.activeTexture;
-		Camera_tC44E094BAB53AFC8A014C6F9CFCE11F4FC38006C * L_11 = __this->get_m_Camera_12();
-		RenderTexture_t5FE7A5B47EF962A0E8D7BEBA05E9FC87D49A1849 * L_12;
-		L_12 = Camera_get_activeTexture_mD7F968C4D92DF00DB6568A3D7B56DF9C5FEFF15A(L_11, /*hidden argument*/NULL);
-		V_0 = L_12;
+		Camera_tC44E094BAB53AFC8A014C6F9CFCE11F4FC38006C * L_9 = __this->get_m_Camera_12();
+		RenderTexture_t5FE7A5B47EF962A0E8D7BEBA05E9FC87D49A1849 * L_10;
+		L_10 = Camera_get_activeTexture_mD7F968C4D92DF00DB6568A3D7B56DF9C5FEFF15A(L_9, /*hidden argument*/NULL);
+		V_0 = L_10;
 		// if (activeRT != null)
-		RenderTexture_t5FE7A5B47EF962A0E8D7BEBA05E9FC87D49A1849 * L_13 = V_0;
+		RenderTexture_t5FE7A5B47EF962A0E8D7BEBA05E9FC87D49A1849 * L_11 = V_0;
 		IL2CPP_RUNTIME_CLASS_INIT(Object_tF2F3778131EFF286AF62B7B013A170F95A91571A_il2cpp_TypeInfo_var);
-		bool L_14;
-		L_14 = Object_op_Inequality_mE1F187520BD83FB7D86A6D850710C4D42B864E90(L_13, (Object_tF2F3778131EFF286AF62B7B013A170F95A91571A *)NULL, /*hidden argument*/NULL);
-		V_3 = L_14;
-		bool L_15 = V_3;
-		if (!L_15)
+		bool L_12;
+		L_12 = Object_op_Inequality_mE1F187520BD83FB7D86A6D850710C4D42B864E90(L_11, (Object_tF2F3778131EFF286AF62B7B013A170F95A91571A *)NULL, /*hidden argument*/NULL);
+		if (!L_12)
 		{
-			goto IL_009b;
+			goto IL_0089;
 		}
 	}
 	{
 		// activeRT.filterMode = m_Internal.useStretchFill ? FilterMode.Bilinear : FilterMode.Point;
-		RenderTexture_t5FE7A5B47EF962A0E8D7BEBA05E9FC87D49A1849 * L_16 = V_0;
-		PixelPerfectCameraInternal_t95E6E3E3BDA1D90E9F4489ED6B43D1673E0818AB * L_17 = __this->get_m_Internal_13();
-		bool L_18 = L_17->get_useStretchFill_6();
-		G_B6_0 = L_16;
-		if (L_18)
+		RenderTexture_t5FE7A5B47EF962A0E8D7BEBA05E9FC87D49A1849 * L_13 = V_0;
+		PixelPerfectCameraInternal_t95E6E3E3BDA1D90E9F4489ED6B43D1673E0818AB * L_14 = __this->get_m_Internal_13();
+		bool L_15 = L_14->get_useStretchFill_6();
+		G_B6_0 = L_13;
+		if (L_15)
 		{
-			G_B7_0 = L_16;
-			goto IL_0094;
+			G_B7_0 = L_13;
+			goto IL_0083;
 		}
 	}
 	{
 		G_B8_0 = 0;
 		G_B8_1 = G_B6_0;
-		goto IL_0095;
+		goto IL_0084;
 	}
 
-IL_0094:
+IL_0083:
 	{
 		G_B8_0 = 1;
 		G_B8_1 = G_B7_0;
 	}
 
-IL_0095:
+IL_0084:
 	{
 		Texture_set_filterMode_m045141DB0FEFE496885D45F5F23B15BC0E77C8D0(G_B8_1, G_B8_0, /*hidden argument*/NULL);
 	}
 
-IL_009b:
+IL_0089:
 	{
 		// m_Camera.pixelRect = m_Internal.CalculatePostRenderPixelRect(m_Camera.aspect, Screen.width, Screen.height);
-		Camera_tC44E094BAB53AFC8A014C6F9CFCE11F4FC38006C * L_19 = __this->get_m_Camera_12();
-		PixelPerfectCameraInternal_t95E6E3E3BDA1D90E9F4489ED6B43D1673E0818AB * L_20 = __this->get_m_Internal_13();
-		Camera_tC44E094BAB53AFC8A014C6F9CFCE11F4FC38006C * L_21 = __this->get_m_Camera_12();
-		float L_22;
-		L_22 = Camera_get_aspect_mD0A1FC8F998473DA08866FF9CD61C02E6D5F4987(L_21, /*hidden argument*/NULL);
-		int32_t L_23;
-		L_23 = Screen_get_width_m52188F76E8AAF57BE373018CB14083BB74C43C1C(/*hidden argument*/NULL);
-		int32_t L_24;
-		L_24 = Screen_get_height_m110C90A573EE67895DC4F59E9165235EA22039EE(/*hidden argument*/NULL);
-		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878  L_25;
-		L_25 = PixelPerfectCameraInternal_CalculatePostRenderPixelRect_mB3065A3B8D92AA9C1C21D38B0B4301C7E814C45E(L_20, L_22, L_23, L_24, /*hidden argument*/NULL);
-		Camera_set_pixelRect_mB1BFC3EE5DB87F9A66ED0EBFC10B9F80DF1CC61B(L_19, L_25, /*hidden argument*/NULL);
-	}
-
-IL_00c7:
-	{
+		Camera_tC44E094BAB53AFC8A014C6F9CFCE11F4FC38006C * L_16 = __this->get_m_Camera_12();
+		PixelPerfectCameraInternal_t95E6E3E3BDA1D90E9F4489ED6B43D1673E0818AB * L_17 = __this->get_m_Internal_13();
+		Camera_tC44E094BAB53AFC8A014C6F9CFCE11F4FC38006C * L_18 = __this->get_m_Camera_12();
+		float L_19;
+		L_19 = Camera_get_aspect_mD0A1FC8F998473DA08866FF9CD61C02E6D5F4987(L_18, /*hidden argument*/NULL);
+		int32_t L_20;
+		L_20 = Screen_get_width_m52188F76E8AAF57BE373018CB14083BB74C43C1C(/*hidden argument*/NULL);
+		int32_t L_21;
+		L_21 = Screen_get_height_m110C90A573EE67895DC4F59E9165235EA22039EE(/*hidden argument*/NULL);
+		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878  L_22;
+		L_22 = PixelPerfectCameraInternal_CalculatePostRenderPixelRect_mB3065A3B8D92AA9C1C21D38B0B4301C7E814C45E(L_17, L_19, L_20, L_21, /*hidden argument*/NULL);
+		Camera_set_pixelRect_mB1BFC3EE5DB87F9A66ED0EBFC10B9F80DF1CC61B(L_16, L_22, /*hidden argument*/NULL);
 		// }
 		return;
 	}
@@ -2661,211 +2215,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PixelPerfectCamera_OnDisable_m1ED518FBFC
 		return;
 	}
 }
-// System.Void UnityEngine.U2D.PixelPerfectCamera::OnGUI()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PixelPerfectCamera_OnGUI_m0BCE626AB1D215EDF29FBF6DFE7A3E83E8B36055 (PixelPerfectCamera_tAEEA2988EBDE91F2C7D260CDA6B65FB24261CFE8 * __this, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Array_Empty_TisGUILayoutOption_t2D992ABCB62BEB24A6F4A826A5CBE7AE236071AB_m6EB599DF46848C50C5E2A836AF0BDA9C81B1A23A_RuntimeMethod_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&GUI_tBCBBE29117D8093644C6E72B1CE3FB65C2CDCCC1_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Int32_tFDE5F8CD43D10453F6A2E0C77FE48C6CC7009046_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralDE99B9E7BE86471C3F4C7B45CBB12E54FC2E800F);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralE037EE9DA619F0B70848CAC7A20087491D3E123F);
-		s_Il2CppMethodInitialized = true;
-	}
-	Color_tF40DAF76C04FFECF3FE6024F85A294741C9CC659  V_0;
-	memset((&V_0), 0, sizeof(V_0));
-	Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9  V_1;
-	memset((&V_1), 0, sizeof(V_1));
-	bool V_2 = false;
-	String_t* V_3 = NULL;
-	bool V_4 = false;
-	Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9 * G_B2_0 = NULL;
-	Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9 * G_B1_0 = NULL;
-	int32_t G_B3_0 = 0;
-	Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9 * G_B3_1 = NULL;
-	Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9 * G_B5_0 = NULL;
-	Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9 * G_B4_0 = NULL;
-	int32_t G_B6_0 = 0;
-	Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9 * G_B6_1 = NULL;
-	int32_t G_B9_0 = 0;
-	int32_t G_B14_0 = 0;
-	{
-		// Color oldColor = GUI.color;
-		IL2CPP_RUNTIME_CLASS_INIT(GUI_tBCBBE29117D8093644C6E72B1CE3FB65C2CDCCC1_il2cpp_TypeInfo_var);
-		Color_tF40DAF76C04FFECF3FE6024F85A294741C9CC659  L_0;
-		L_0 = GUI_get_color_m61B524C99DD85A0DF405540C6E7453600E816FD5(/*hidden argument*/NULL);
-		V_0 = L_0;
-		// GUI.color = Color.red;
-		Color_tF40DAF76C04FFECF3FE6024F85A294741C9CC659  L_1;
-		L_1 = Color_get_red_m9BD55EBF7A74A515330FA5F7AC7A67C8A8913DD8(/*hidden argument*/NULL);
-		GUI_set_color_m627E2716FD33EF327E38EE0048CE44FAD77AB87F(L_1, /*hidden argument*/NULL);
-		// Vector2Int renderResolution = Vector2Int.zero;
-		Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9  L_2;
-		L_2 = Vector2Int_get_zero_m89F24AE488182BAB38B381B445B8868B3DD5A2AE(/*hidden argument*/NULL);
-		V_1 = L_2;
-		// renderResolution.x = m_Internal.useOffscreenRT ? m_Internal.offscreenRTWidth : m_Camera.pixelWidth;
-		PixelPerfectCameraInternal_t95E6E3E3BDA1D90E9F4489ED6B43D1673E0818AB * L_3 = __this->get_m_Internal_13();
-		bool L_4 = L_3->get_useOffscreenRT_8();
-		G_B1_0 = (&V_1);
-		if (L_4)
-		{
-			G_B2_0 = (&V_1);
-			goto IL_0034;
-		}
-	}
-	{
-		Camera_tC44E094BAB53AFC8A014C6F9CFCE11F4FC38006C * L_5 = __this->get_m_Camera_12();
-		int32_t L_6;
-		L_6 = Camera_get_pixelWidth_m7DC2EF816FA7AB52EEE991E054FC7B1F31982802(L_5, /*hidden argument*/NULL);
-		G_B3_0 = L_6;
-		G_B3_1 = G_B1_0;
-		goto IL_003f;
-	}
-
-IL_0034:
-	{
-		PixelPerfectCameraInternal_t95E6E3E3BDA1D90E9F4489ED6B43D1673E0818AB * L_7 = __this->get_m_Internal_13();
-		int32_t L_8 = L_7->get_offscreenRTWidth_9();
-		G_B3_0 = L_8;
-		G_B3_1 = G_B2_0;
-	}
-
-IL_003f:
-	{
-		Vector2Int_set_x_m58F3B1895453A0A4BC964CA331D56B7C3D873B7C_inline((Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9 *)G_B3_1, G_B3_0, /*hidden argument*/NULL);
-		// renderResolution.y = m_Internal.useOffscreenRT ? m_Internal.offscreenRTHeight : m_Camera.pixelHeight;
-		PixelPerfectCameraInternal_t95E6E3E3BDA1D90E9F4489ED6B43D1673E0818AB * L_9 = __this->get_m_Internal_13();
-		bool L_10 = L_9->get_useOffscreenRT_8();
-		G_B4_0 = (&V_1);
-		if (L_10)
-		{
-			G_B5_0 = (&V_1);
-			goto IL_0061;
-		}
-	}
-	{
-		Camera_tC44E094BAB53AFC8A014C6F9CFCE11F4FC38006C * L_11 = __this->get_m_Camera_12();
-		int32_t L_12;
-		L_12 = Camera_get_pixelHeight_m7A18CEE2D95835EB95156E88D4D27EA018404201(L_11, /*hidden argument*/NULL);
-		G_B6_0 = L_12;
-		G_B6_1 = G_B4_0;
-		goto IL_006c;
-	}
-
-IL_0061:
-	{
-		PixelPerfectCameraInternal_t95E6E3E3BDA1D90E9F4489ED6B43D1673E0818AB * L_13 = __this->get_m_Internal_13();
-		int32_t L_14 = L_13->get_offscreenRTHeight_10();
-		G_B6_0 = L_14;
-		G_B6_1 = G_B5_0;
-	}
-
-IL_006c:
-	{
-		Vector2Int_set_y_m55A40AE7AF833E31D968E0C515A5C773F251C21A_inline((Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9 *)G_B6_1, G_B6_0, /*hidden argument*/NULL);
-		// if (renderResolution.x % 2 != 0 || renderResolution.y % 2 != 0)
-		int32_t L_15;
-		L_15 = Vector2Int_get_x_mDBEFBCDF9C7924767344ED2CEE1307885AED947B_inline((Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9 *)(&V_1), /*hidden argument*/NULL);
-		if (((int32_t)((int32_t)L_15%(int32_t)2)))
-		{
-			goto IL_008b;
-		}
-	}
-	{
-		int32_t L_16;
-		L_16 = Vector2Int_get_y_m282591DEB0E70B02F4F4DDFAB90116AEC8E6B86C_inline((Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9 *)(&V_1), /*hidden argument*/NULL);
-		G_B9_0 = ((!(((uint32_t)((int32_t)((int32_t)L_16%(int32_t)2))) <= ((uint32_t)0)))? 1 : 0);
-		goto IL_008c;
-	}
-
-IL_008b:
-	{
-		G_B9_0 = 1;
-	}
-
-IL_008c:
-	{
-		V_2 = (bool)G_B9_0;
-		bool L_17 = V_2;
-		if (!L_17)
-		{
-			goto IL_00c1;
-		}
-	}
-	{
-		// string warning = string.Format("Rendering at an odd-numbered resolution ({0} * {1}). Pixel Perfect Camera may not work properly in this situation.", renderResolution.x, renderResolution.y);
-		int32_t L_18;
-		L_18 = Vector2Int_get_x_mDBEFBCDF9C7924767344ED2CEE1307885AED947B_inline((Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9 *)(&V_1), /*hidden argument*/NULL);
-		int32_t L_19 = L_18;
-		RuntimeObject * L_20 = Box(Int32_tFDE5F8CD43D10453F6A2E0C77FE48C6CC7009046_il2cpp_TypeInfo_var, &L_19);
-		int32_t L_21;
-		L_21 = Vector2Int_get_y_m282591DEB0E70B02F4F4DDFAB90116AEC8E6B86C_inline((Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9 *)(&V_1), /*hidden argument*/NULL);
-		int32_t L_22 = L_21;
-		RuntimeObject * L_23 = Box(Int32_tFDE5F8CD43D10453F6A2E0C77FE48C6CC7009046_il2cpp_TypeInfo_var, &L_22);
-		String_t* L_24;
-		L_24 = String_Format_m8D1CB0410C35E052A53AE957C914C841E54BAB66(_stringLiteralDE99B9E7BE86471C3F4C7B45CBB12E54FC2E800F, L_20, L_23, /*hidden argument*/NULL);
-		V_3 = L_24;
-		// GUILayout.Box(warning);
-		String_t* L_25 = V_3;
-		GUILayoutOptionU5BU5D_tA0F031CC36F88BBBD25D6841ADD3913446E6EA2B* L_26;
-		L_26 = Array_Empty_TisGUILayoutOption_t2D992ABCB62BEB24A6F4A826A5CBE7AE236071AB_m6EB599DF46848C50C5E2A836AF0BDA9C81B1A23A_inline(/*hidden argument*/Array_Empty_TisGUILayoutOption_t2D992ABCB62BEB24A6F4A826A5CBE7AE236071AB_m6EB599DF46848C50C5E2A836AF0BDA9C81B1A23A_RuntimeMethod_var);
-		GUILayout_Box_m0EECE38EC754153D8414151BA4B11BA3E756861D(L_25, L_26, /*hidden argument*/NULL);
-	}
-
-IL_00c1:
-	{
-		// if (Screen.width < refResolutionX || Screen.height < refResolutionY)
-		int32_t L_27;
-		L_27 = Screen_get_width_m52188F76E8AAF57BE373018CB14083BB74C43C1C(/*hidden argument*/NULL);
-		int32_t L_28;
-		L_28 = PixelPerfectCamera_get_refResolutionX_mD8E1DCEE1434AAC6761DEE8B73D4D163B858FE58(__this, /*hidden argument*/NULL);
-		if ((((int32_t)L_27) < ((int32_t)L_28)))
-		{
-			goto IL_00dd;
-		}
-	}
-	{
-		int32_t L_29;
-		L_29 = Screen_get_height_m110C90A573EE67895DC4F59E9165235EA22039EE(/*hidden argument*/NULL);
-		int32_t L_30;
-		L_30 = PixelPerfectCamera_get_refResolutionY_m8C37A3DBC9014F034A78F9E921A11BAA113CB24F(__this, /*hidden argument*/NULL);
-		G_B14_0 = ((((int32_t)L_29) < ((int32_t)L_30))? 1 : 0);
-		goto IL_00de;
-	}
-
-IL_00dd:
-	{
-		G_B14_0 = 1;
-	}
-
-IL_00de:
-	{
-		V_4 = (bool)G_B14_0;
-		bool L_31 = V_4;
-		if (!L_31)
-		{
-			goto IL_00f6;
-		}
-	}
-	{
-		// GUILayout.Box("Screen resolution is smaller than the reference resolution. Image may appear stretched or cropped.");
-		GUILayoutOptionU5BU5D_tA0F031CC36F88BBBD25D6841ADD3913446E6EA2B* L_32;
-		L_32 = Array_Empty_TisGUILayoutOption_t2D992ABCB62BEB24A6F4A826A5CBE7AE236071AB_m6EB599DF46848C50C5E2A836AF0BDA9C81B1A23A_inline(/*hidden argument*/Array_Empty_TisGUILayoutOption_t2D992ABCB62BEB24A6F4A826A5CBE7AE236071AB_m6EB599DF46848C50C5E2A836AF0BDA9C81B1A23A_RuntimeMethod_var);
-		GUILayout_Box_m0EECE38EC754153D8414151BA4B11BA3E756861D(_stringLiteralE037EE9DA619F0B70848CAC7A20087491D3E123F, L_32, /*hidden argument*/NULL);
-	}
-
-IL_00f6:
-	{
-		// GUI.color = oldColor;
-		Color_tF40DAF76C04FFECF3FE6024F85A294741C9CC659  L_33 = V_0;
-		IL2CPP_RUNTIME_CLASS_INIT(GUI_tBCBBE29117D8093644C6E72B1CE3FB65C2CDCCC1_il2cpp_TypeInfo_var);
-		GUI_set_color_m627E2716FD33EF327E38EE0048CE44FAD77AB87F(L_33, /*hidden argument*/NULL);
-		// }
-		return;
-	}
-}
 // System.Void UnityEngine.U2D.PixelPerfectCamera::.ctor()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PixelPerfectCamera__ctor_mFBF09FC28EF3435A09273EF69AE9D085698F36DF (PixelPerfectCamera_tAEEA2988EBDE91F2C7D260CDA6B65FB24261CFE8 * __this, const RuntimeMethod* method)
 {
@@ -2876,16 +2225,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PixelPerfectCamera__ctor_mFBF09FC28EF343
 		__this->set_m_RefResolutionX_5(((int32_t)320));
 		// int m_RefResolutionY = 180;
 		__this->set_m_RefResolutionY_6(((int32_t)180));
-		// bool m_UpscaleRT = false;
-		__this->set_m_UpscaleRT_7((bool)0);
-		// bool m_PixelSnapping = false;
-		__this->set_m_PixelSnapping_8((bool)0);
-		// bool m_CropFrameX = false;
-		__this->set_m_CropFrameX_9((bool)0);
-		// bool m_CropFrameY = false;
-		__this->set_m_CropFrameY_10((bool)0);
-		// bool m_StretchFill = false;
-		__this->set_m_StretchFill_11((bool)0);
 		MonoBehaviour__ctor_mC0995D847F6A95B1A553652636C38A2AA8B13BED(__this, /*hidden argument*/NULL);
 		return;
 	}
@@ -2902,28 +2241,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PixelPerfectCamera__ctor_mFBF09FC28EF343
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PixelPerfectCameraInternal__ctor_m8BED9192421CD4B18053B0FEAEF480CE303ABA5C (PixelPerfectCameraInternal_t95E6E3E3BDA1D90E9F4489ED6B43D1673E0818AB * __this, RuntimeObject* ___component0, const RuntimeMethod* method)
 {
 	{
-		// internal bool cropFrameXAndY = false;
-		__this->set_cropFrameXAndY_4((bool)0);
-		// internal bool cropFrameXOrY = false;
-		__this->set_cropFrameXOrY_5((bool)0);
-		// internal bool useStretchFill = false;
-		__this->set_useStretchFill_6((bool)0);
 		// internal int zoom = 1;
 		__this->set_zoom_7(1);
-		// internal bool useOffscreenRT = false;
-		__this->set_useOffscreenRT_8((bool)0);
-		// internal int offscreenRTWidth = 0;
-		__this->set_offscreenRTWidth_9(0);
-		// internal int offscreenRTHeight = 0;
-		__this->set_offscreenRTHeight_10(0);
 		// internal Rect pixelRect = Rect.zero;
 		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878  L_0;
 		L_0 = Rect_get_zero_m4F738804E40698120CC691AB45A6416C4FF52589(/*hidden argument*/NULL);
 		__this->set_pixelRect_11(L_0);
 		// internal float orthoSize = 1.0f;
 		__this->set_orthoSize_12((1.0f));
-		// internal float unitsPerPixel = 0.0f;
-		__this->set_unitsPerPixel_13((0.0f));
 		// internal int cinemachineVCamZoom = 1;
 		__this->set_cinemachineVCamZoom_14(1);
 		// internal PixelPerfectCameraInternal(IPixelPerfectCamera component)
@@ -2961,27 +2286,24 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PixelPerfectCameraInternal_OnAfterDeseri
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tF2F3778131EFF286AF62B7B013A170F95A91571A_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
-	bool V_0 = false;
 	{
 		// if (m_SerializableComponent != null)
 		PixelPerfectCamera_tAEEA2988EBDE91F2C7D260CDA6B65FB24261CFE8 * L_0 = __this->get_m_SerializableComponent_1();
 		IL2CPP_RUNTIME_CLASS_INIT(Object_tF2F3778131EFF286AF62B7B013A170F95A91571A_il2cpp_TypeInfo_var);
 		bool L_1;
 		L_1 = Object_op_Inequality_mE1F187520BD83FB7D86A6D850710C4D42B864E90(L_0, (Object_tF2F3778131EFF286AF62B7B013A170F95A91571A *)NULL, /*hidden argument*/NULL);
-		V_0 = L_1;
-		bool L_2 = V_0;
-		if (!L_2)
+		if (!L_1)
 		{
-			goto IL_001d;
+			goto IL_001a;
 		}
 	}
 	{
 		// m_Component = m_SerializableComponent;
-		PixelPerfectCamera_tAEEA2988EBDE91F2C7D260CDA6B65FB24261CFE8 * L_3 = __this->get_m_SerializableComponent_1();
-		__this->set_m_Component_0(L_3);
+		PixelPerfectCamera_tAEEA2988EBDE91F2C7D260CDA6B65FB24261CFE8 * L_2 = __this->get_m_SerializableComponent_1();
+		__this->set_m_Component_0(L_2);
 	}
 
-IL_001d:
+IL_001a:
 	{
 		// }
 		return;
@@ -3007,28 +2329,10 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PixelPerfectCameraInternal_CalculateCame
 	bool V_7 = false;
 	int32_t V_8 = 0;
 	int32_t V_9 = 0;
-	bool V_10 = false;
-	bool V_11 = false;
-	bool V_12 = false;
-	bool V_13 = false;
-	bool V_14 = false;
-	bool V_15 = false;
-	bool V_16 = false;
-	bool V_17 = false;
-	bool V_18 = false;
-	bool V_19 = false;
-	bool V_20 = false;
-	bool V_21 = false;
-	float V_22 = 0.0f;
-	bool V_23 = false;
-	float V_24 = 0.0f;
-	bool V_25 = false;
-	int32_t G_B15_0 = 0;
-	int32_t G_B21_0 = 0;
+	float V_10 = 0.0f;
+	float V_11 = 0.0f;
+	float G_B29_0 = 0.0f;
 	float G_B36_0 = 0.0f;
-	int32_t G_B40_0 = 0;
-	float G_B45_0 = 0.0f;
-	int32_t G_B49_0 = 0;
 	{
 		// int assetsPPU = m_Component.assetsPPU;
 		RuntimeObject* L_0 = __this->get_m_Component_0();
@@ -3107,491 +2411,413 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PixelPerfectCameraInternal_CalculateCame
 		__this->set_offscreenRTHeight_10(0);
 		// if (cropFrameXOrY)
 		bool L_30 = __this->get_cropFrameXOrY_5();
-		V_10 = L_30;
-		bool L_31 = V_10;
-		if (!L_31)
+		if (!L_30)
 		{
-			goto IL_0177;
+			goto IL_0157;
 		}
 	}
 	{
 		// if (!upscaleRT)
-		bool L_32 = V_3;
-		V_11 = (bool)((((int32_t)L_32) == ((int32_t)0))? 1 : 0);
-		bool L_33 = V_11;
-		if (!L_33)
+		bool L_31 = V_3;
+		if (L_31)
 		{
-			goto IL_010d;
+			goto IL_00fe;
 		}
 	}
 	{
 		// if (useStretchFill)
-		bool L_34 = __this->get_useStretchFill_6();
-		V_12 = L_34;
-		bool L_35 = V_12;
-		if (!L_35)
+		bool L_32 = __this->get_useStretchFill_6();
+		if (!L_32)
 		{
-			goto IL_010a;
+			goto IL_018e;
 		}
 	}
 	{
 		// useOffscreenRT = true;
 		__this->set_useOffscreenRT_8((bool)1);
 		// offscreenRTWidth = zoom * refResolutionX;
-		int32_t L_36 = __this->get_zoom_7();
-		int32_t L_37 = V_1;
-		__this->set_offscreenRTWidth_9(((int32_t)il2cpp_codegen_multiply((int32_t)L_36, (int32_t)L_37)));
+		int32_t L_33 = __this->get_zoom_7();
+		int32_t L_34 = V_1;
+		__this->set_offscreenRTWidth_9(((int32_t)il2cpp_codegen_multiply((int32_t)L_33, (int32_t)L_34)));
 		// offscreenRTHeight = zoom * refResolutionY;
-		int32_t L_38 = __this->get_zoom_7();
-		int32_t L_39 = V_2;
-		__this->set_offscreenRTHeight_10(((int32_t)il2cpp_codegen_multiply((int32_t)L_38, (int32_t)L_39)));
+		int32_t L_35 = __this->get_zoom_7();
+		int32_t L_36 = V_2;
+		__this->set_offscreenRTHeight_10(((int32_t)il2cpp_codegen_multiply((int32_t)L_35, (int32_t)L_36)));
+		// }
+		goto IL_018e;
 	}
 
-IL_010a:
-	{
-		goto IL_0174;
-	}
-
-IL_010d:
+IL_00fe:
 	{
 		// useOffscreenRT = true;
 		__this->set_useOffscreenRT_8((bool)1);
 		// if (cropFrameXAndY)
-		bool L_40 = __this->get_cropFrameXAndY_4();
-		V_13 = L_40;
-		bool L_41 = V_13;
-		if (!L_41)
+		bool L_37 = __this->get_cropFrameXAndY_4();
+		if (!L_37)
 		{
-			goto IL_0133;
+			goto IL_011d;
 		}
 	}
 	{
 		// offscreenRTWidth = refResolutionX;
-		int32_t L_42 = V_1;
-		__this->set_offscreenRTWidth_9(L_42);
+		int32_t L_38 = V_1;
+		__this->set_offscreenRTWidth_9(L_38);
 		// offscreenRTHeight = refResolutionY;
-		int32_t L_43 = V_2;
-		__this->set_offscreenRTHeight_10(L_43);
-		goto IL_0173;
+		int32_t L_39 = V_2;
+		__this->set_offscreenRTHeight_10(L_39);
+		// }
+		goto IL_018e;
 	}
 
-IL_0133:
+IL_011d:
 	{
 		// else if (cropFrameY)
-		bool L_44 = V_6;
-		V_14 = L_44;
-		bool L_45 = V_14;
-		if (!L_45)
+		bool L_40 = V_6;
+		if (!L_40)
 		{
-			goto IL_0158;
+			goto IL_013c;
 		}
 	}
 	{
 		// offscreenRTWidth = screenWidth / zoom / 2 * 2;   // Make sure it's an even number by / 2 * 2.
-		int32_t L_46 = ___screenWidth0;
-		int32_t L_47 = __this->get_zoom_7();
-		__this->set_offscreenRTWidth_9(((int32_t)il2cpp_codegen_multiply((int32_t)((int32_t)((int32_t)((int32_t)((int32_t)L_46/(int32_t)L_47))/(int32_t)2)), (int32_t)2)));
+		int32_t L_41 = ___screenWidth0;
+		int32_t L_42 = __this->get_zoom_7();
+		__this->set_offscreenRTWidth_9(((int32_t)il2cpp_codegen_multiply((int32_t)((int32_t)((int32_t)((int32_t)((int32_t)L_41/(int32_t)L_42))/(int32_t)2)), (int32_t)2)));
 		// offscreenRTHeight = refResolutionY;
-		int32_t L_48 = V_2;
-		__this->set_offscreenRTHeight_10(L_48);
-		goto IL_0173;
+		int32_t L_43 = V_2;
+		__this->set_offscreenRTHeight_10(L_43);
+		// }
+		goto IL_018e;
 	}
 
-IL_0158:
+IL_013c:
 	{
 		// offscreenRTWidth = refResolutionX;
-		int32_t L_49 = V_1;
-		__this->set_offscreenRTWidth_9(L_49);
+		int32_t L_44 = V_1;
+		__this->set_offscreenRTWidth_9(L_44);
 		// offscreenRTHeight = screenHeight / zoom / 2 * 2;   // Make sure it's an even number by / 2 * 2.
-		int32_t L_50 = ___screenHeight1;
-		int32_t L_51 = __this->get_zoom_7();
-		__this->set_offscreenRTHeight_10(((int32_t)il2cpp_codegen_multiply((int32_t)((int32_t)((int32_t)((int32_t)((int32_t)L_50/(int32_t)L_51))/(int32_t)2)), (int32_t)2)));
+		int32_t L_45 = ___screenHeight1;
+		int32_t L_46 = __this->get_zoom_7();
+		__this->set_offscreenRTHeight_10(((int32_t)il2cpp_codegen_multiply((int32_t)((int32_t)((int32_t)((int32_t)((int32_t)L_45/(int32_t)L_46))/(int32_t)2)), (int32_t)2)));
+		// }
+		goto IL_018e;
 	}
 
-IL_0173:
-	{
-	}
-
-IL_0174:
-	{
-		goto IL_01b9;
-	}
-
-IL_0177:
+IL_0157:
 	{
 		// else if (upscaleRT && zoom > 1)
-		bool L_52 = V_3;
-		if (!L_52)
+		bool L_47 = V_3;
+		if (!L_47)
 		{
-			goto IL_0185;
+			goto IL_018e;
 		}
 	}
 	{
-		int32_t L_53 = __this->get_zoom_7();
-		G_B15_0 = ((((int32_t)L_53) > ((int32_t)1))? 1 : 0);
-		goto IL_0186;
-	}
-
-IL_0185:
-	{
-		G_B15_0 = 0;
-	}
-
-IL_0186:
-	{
-		V_15 = (bool)G_B15_0;
-		bool L_54 = V_15;
-		if (!L_54)
+		int32_t L_48 = __this->get_zoom_7();
+		if ((((int32_t)L_48) <= ((int32_t)1)))
 		{
-			goto IL_01b9;
+			goto IL_018e;
 		}
 	}
 	{
 		// useOffscreenRT = true;
 		__this->set_useOffscreenRT_8((bool)1);
 		// offscreenRTWidth = screenWidth / zoom / 2 * 2;        // Make sure it's an even number by / 2 * 2.
-		int32_t L_55 = ___screenWidth0;
-		int32_t L_56 = __this->get_zoom_7();
-		__this->set_offscreenRTWidth_9(((int32_t)il2cpp_codegen_multiply((int32_t)((int32_t)((int32_t)((int32_t)((int32_t)L_55/(int32_t)L_56))/(int32_t)2)), (int32_t)2)));
+		int32_t L_49 = ___screenWidth0;
+		int32_t L_50 = __this->get_zoom_7();
+		__this->set_offscreenRTWidth_9(((int32_t)il2cpp_codegen_multiply((int32_t)((int32_t)((int32_t)((int32_t)((int32_t)L_49/(int32_t)L_50))/(int32_t)2)), (int32_t)2)));
 		// offscreenRTHeight = screenHeight / zoom / 2 * 2;
-		int32_t L_57 = ___screenHeight1;
-		int32_t L_58 = __this->get_zoom_7();
-		__this->set_offscreenRTHeight_10(((int32_t)il2cpp_codegen_multiply((int32_t)((int32_t)((int32_t)((int32_t)((int32_t)L_57/(int32_t)L_58))/(int32_t)2)), (int32_t)2)));
+		int32_t L_51 = ___screenHeight1;
+		int32_t L_52 = __this->get_zoom_7();
+		__this->set_offscreenRTHeight_10(((int32_t)il2cpp_codegen_multiply((int32_t)((int32_t)((int32_t)((int32_t)((int32_t)L_51/(int32_t)L_52))/(int32_t)2)), (int32_t)2)));
 	}
 
-IL_01b9:
+IL_018e:
 	{
 		// pixelRect = Rect.zero;
-		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878  L_59;
-		L_59 = Rect_get_zero_m4F738804E40698120CC691AB45A6416C4FF52589(/*hidden argument*/NULL);
-		__this->set_pixelRect_11(L_59);
+		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878  L_53;
+		L_53 = Rect_get_zero_m4F738804E40698120CC691AB45A6416C4FF52589(/*hidden argument*/NULL);
+		__this->set_pixelRect_11(L_53);
 		// if (cropFrameXOrY && !upscaleRT && !useStretchFill)
-		bool L_60 = __this->get_cropFrameXOrY_5();
-		if (!L_60)
+		bool L_54 = __this->get_cropFrameXOrY_5();
+		if (!L_54)
 		{
-			goto IL_01da;
+			goto IL_0269;
 		}
 	}
 	{
-		bool L_61 = V_3;
-		if (L_61)
+		bool L_55 = V_3;
+		if (L_55)
 		{
-			goto IL_01da;
+			goto IL_0269;
 		}
 	}
 	{
-		bool L_62 = __this->get_useStretchFill_6();
-		G_B21_0 = ((((int32_t)L_62) == ((int32_t)0))? 1 : 0);
-		goto IL_01db;
-	}
-
-IL_01da:
-	{
-		G_B21_0 = 0;
-	}
-
-IL_01db:
-	{
-		V_16 = (bool)G_B21_0;
-		bool L_63 = V_16;
-		if (!L_63)
+		bool L_56 = __this->get_useStretchFill_6();
+		if (L_56)
 		{
-			goto IL_02b0;
+			goto IL_0269;
 		}
 	}
 	{
 		// if (cropFrameXAndY)
-		bool L_64 = __this->get_cropFrameXAndY_4();
-		V_17 = L_64;
-		bool L_65 = V_17;
-		if (!L_65)
+		bool L_57 = __this->get_cropFrameXAndY_4();
+		if (!L_57)
 		{
-			goto IL_021f;
+			goto IL_01e7;
 		}
 	}
 	{
 		// pixelRect.width = zoom * refResolutionX;
-		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 * L_66 = __this->get_address_of_pixelRect_11();
-		int32_t L_67 = __this->get_zoom_7();
-		int32_t L_68 = V_1;
-		Rect_set_width_m07D84AD7C7093EDCCD94A7B93A9447CA9917DD9D((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)L_66, ((float)((float)((int32_t)il2cpp_codegen_multiply((int32_t)L_67, (int32_t)L_68)))), /*hidden argument*/NULL);
+		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 * L_58 = __this->get_address_of_pixelRect_11();
+		int32_t L_59 = __this->get_zoom_7();
+		int32_t L_60 = V_1;
+		Rect_set_width_m07D84AD7C7093EDCCD94A7B93A9447CA9917DD9D((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)L_58, ((float)((float)((int32_t)il2cpp_codegen_multiply((int32_t)L_59, (int32_t)L_60)))), /*hidden argument*/NULL);
 		// pixelRect.height = zoom * refResolutionY;
-		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 * L_69 = __this->get_address_of_pixelRect_11();
-		int32_t L_70 = __this->get_zoom_7();
-		int32_t L_71 = V_2;
-		Rect_set_height_m4A00B16C122F44FEF4BA074386F3DC11FF4B4D23((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)L_69, ((float)((float)((int32_t)il2cpp_codegen_multiply((int32_t)L_70, (int32_t)L_71)))), /*hidden argument*/NULL);
-		goto IL_0273;
+		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 * L_61 = __this->get_address_of_pixelRect_11();
+		int32_t L_62 = __this->get_zoom_7();
+		int32_t L_63 = V_2;
+		Rect_set_height_m4A00B16C122F44FEF4BA074386F3DC11FF4B4D23((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)L_61, ((float)((float)((int32_t)il2cpp_codegen_multiply((int32_t)L_62, (int32_t)L_63)))), /*hidden argument*/NULL);
+		// }
+		goto IL_022f;
 	}
 
-IL_021f:
+IL_01e7:
 	{
 		// else if (cropFrameY)
-		bool L_72 = V_6;
-		V_18 = L_72;
-		bool L_73 = V_18;
-		if (!L_73)
+		bool L_64 = V_6;
+		if (!L_64)
 		{
-			goto IL_024e;
+			goto IL_020e;
 		}
 	}
 	{
 		// pixelRect.width = screenWidth;
-		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 * L_74 = __this->get_address_of_pixelRect_11();
-		int32_t L_75 = ___screenWidth0;
-		Rect_set_width_m07D84AD7C7093EDCCD94A7B93A9447CA9917DD9D((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)L_74, ((float)((float)L_75)), /*hidden argument*/NULL);
+		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 * L_65 = __this->get_address_of_pixelRect_11();
+		int32_t L_66 = ___screenWidth0;
+		Rect_set_width_m07D84AD7C7093EDCCD94A7B93A9447CA9917DD9D((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)L_65, ((float)((float)L_66)), /*hidden argument*/NULL);
 		// pixelRect.height = zoom * refResolutionY;
-		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 * L_76 = __this->get_address_of_pixelRect_11();
-		int32_t L_77 = __this->get_zoom_7();
-		int32_t L_78 = V_2;
-		Rect_set_height_m4A00B16C122F44FEF4BA074386F3DC11FF4B4D23((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)L_76, ((float)((float)((int32_t)il2cpp_codegen_multiply((int32_t)L_77, (int32_t)L_78)))), /*hidden argument*/NULL);
-		goto IL_0273;
+		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 * L_67 = __this->get_address_of_pixelRect_11();
+		int32_t L_68 = __this->get_zoom_7();
+		int32_t L_69 = V_2;
+		Rect_set_height_m4A00B16C122F44FEF4BA074386F3DC11FF4B4D23((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)L_67, ((float)((float)((int32_t)il2cpp_codegen_multiply((int32_t)L_68, (int32_t)L_69)))), /*hidden argument*/NULL);
+		// }
+		goto IL_022f;
 	}
 
-IL_024e:
+IL_020e:
 	{
 		// pixelRect.width = zoom * refResolutionX;
-		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 * L_79 = __this->get_address_of_pixelRect_11();
-		int32_t L_80 = __this->get_zoom_7();
-		int32_t L_81 = V_1;
-		Rect_set_width_m07D84AD7C7093EDCCD94A7B93A9447CA9917DD9D((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)L_79, ((float)((float)((int32_t)il2cpp_codegen_multiply((int32_t)L_80, (int32_t)L_81)))), /*hidden argument*/NULL);
+		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 * L_70 = __this->get_address_of_pixelRect_11();
+		int32_t L_71 = __this->get_zoom_7();
+		int32_t L_72 = V_1;
+		Rect_set_width_m07D84AD7C7093EDCCD94A7B93A9447CA9917DD9D((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)L_70, ((float)((float)((int32_t)il2cpp_codegen_multiply((int32_t)L_71, (int32_t)L_72)))), /*hidden argument*/NULL);
 		// pixelRect.height = screenHeight;
-		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 * L_82 = __this->get_address_of_pixelRect_11();
-		int32_t L_83 = ___screenHeight1;
-		Rect_set_height_m4A00B16C122F44FEF4BA074386F3DC11FF4B4D23((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)L_82, ((float)((float)L_83)), /*hidden argument*/NULL);
+		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 * L_73 = __this->get_address_of_pixelRect_11();
+		int32_t L_74 = ___screenHeight1;
+		Rect_set_height_m4A00B16C122F44FEF4BA074386F3DC11FF4B4D23((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)L_73, ((float)((float)L_74)), /*hidden argument*/NULL);
 	}
 
-IL_0273:
+IL_022f:
 	{
 		// pixelRect.x = (screenWidth - (int)pixelRect.width) / 2;
-		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 * L_84 = __this->get_address_of_pixelRect_11();
-		int32_t L_85 = ___screenWidth0;
-		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 * L_86 = __this->get_address_of_pixelRect_11();
-		float L_87;
-		L_87 = Rect_get_width_m4A0500D95CA84917787A8E90D26E66D49DFA90EF((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)L_86, /*hidden argument*/NULL);
-		Rect_set_x_m1147A05B5046E1D4427E8EC99B9DFA4A32EEDEE6((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)L_84, ((float)((float)((int32_t)((int32_t)((int32_t)il2cpp_codegen_subtract((int32_t)L_85, (int32_t)il2cpp_codegen_cast_double_to_int<int32_t>(L_87)))/(int32_t)2)))), /*hidden argument*/NULL);
+		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 * L_75 = __this->get_address_of_pixelRect_11();
+		int32_t L_76 = ___screenWidth0;
+		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 * L_77 = __this->get_address_of_pixelRect_11();
+		float L_78;
+		L_78 = Rect_get_width_m4A0500D95CA84917787A8E90D26E66D49DFA90EF((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)L_77, /*hidden argument*/NULL);
+		Rect_set_x_m1147A05B5046E1D4427E8EC99B9DFA4A32EEDEE6((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)L_75, ((float)((float)((int32_t)((int32_t)((int32_t)il2cpp_codegen_subtract((int32_t)L_76, (int32_t)il2cpp_codegen_cast_double_to_int<int32_t>(L_78)))/(int32_t)2)))), /*hidden argument*/NULL);
 		// pixelRect.y = (screenHeight - (int)pixelRect.height) / 2;
-		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 * L_88 = __this->get_address_of_pixelRect_11();
-		int32_t L_89 = ___screenHeight1;
-		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 * L_90 = __this->get_address_of_pixelRect_11();
-		float L_91;
-		L_91 = Rect_get_height_m42FEF31015A269E6E2B7E6F62E72E5BF6602302A((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)L_90, /*hidden argument*/NULL);
-		Rect_set_y_m015507262F8AC5AFF1B4E986B66307F31FB3A10E((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)L_88, ((float)((float)((int32_t)((int32_t)((int32_t)il2cpp_codegen_subtract((int32_t)L_89, (int32_t)il2cpp_codegen_cast_double_to_int<int32_t>(L_91)))/(int32_t)2)))), /*hidden argument*/NULL);
-		goto IL_02e1;
+		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 * L_79 = __this->get_address_of_pixelRect_11();
+		int32_t L_80 = ___screenHeight1;
+		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 * L_81 = __this->get_address_of_pixelRect_11();
+		float L_82;
+		L_82 = Rect_get_height_m42FEF31015A269E6E2B7E6F62E72E5BF6602302A((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)L_81, /*hidden argument*/NULL);
+		Rect_set_y_m015507262F8AC5AFF1B4E986B66307F31FB3A10E((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)L_79, ((float)((float)((int32_t)((int32_t)((int32_t)il2cpp_codegen_subtract((int32_t)L_80, (int32_t)il2cpp_codegen_cast_double_to_int<int32_t>(L_82)))/(int32_t)2)))), /*hidden argument*/NULL);
+		// }
+		goto IL_0294;
 	}
 
-IL_02b0:
+IL_0269:
 	{
 		// else if (useOffscreenRT)
-		bool L_92 = __this->get_useOffscreenRT_8();
-		V_19 = L_92;
-		bool L_93 = V_19;
-		if (!L_93)
+		bool L_83 = __this->get_useOffscreenRT_8();
+		if (!L_83)
 		{
-			goto IL_02e1;
+			goto IL_0294;
 		}
 	}
 	{
 		// pixelRect = new Rect(0.0f, 0.0f, offscreenRTWidth, offscreenRTHeight);
-		int32_t L_94 = __this->get_offscreenRTWidth_9();
-		int32_t L_95 = __this->get_offscreenRTHeight_10();
-		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878  L_96;
-		memset((&L_96), 0, sizeof(L_96));
-		Rect__ctor_m12075526A02B55B680716A34AD5287B223122B70((&L_96), (0.0f), (0.0f), ((float)((float)L_94)), ((float)((float)L_95)), /*hidden argument*/NULL);
-		__this->set_pixelRect_11(L_96);
+		int32_t L_84 = __this->get_offscreenRTWidth_9();
+		int32_t L_85 = __this->get_offscreenRTHeight_10();
+		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878  L_86;
+		memset((&L_86), 0, sizeof(L_86));
+		Rect__ctor_m12075526A02B55B680716A34AD5287B223122B70((&L_86), (0.0f), (0.0f), ((float)((float)L_84)), ((float)((float)L_85)), /*hidden argument*/NULL);
+		__this->set_pixelRect_11(L_86);
 	}
 
-IL_02e1:
+IL_0294:
 	{
 		// if (cropFrameY)
-		bool L_97 = V_6;
-		V_20 = L_97;
-		bool L_98 = V_20;
-		if (!L_98)
+		bool L_87 = V_6;
+		if (!L_87)
 		{
-			goto IL_02ff;
+			goto IL_02ae;
 		}
 	}
 	{
 		// orthoSize = (refResolutionY * 0.5f) / assetsPPU;
-		int32_t L_99 = V_2;
-		int32_t L_100 = V_0;
-		__this->set_orthoSize_12(((float)((float)((float)il2cpp_codegen_multiply((float)((float)((float)L_99)), (float)(0.5f)))/(float)((float)((float)L_100)))));
-		goto IL_03bb;
+		int32_t L_88 = V_2;
+		int32_t L_89 = V_0;
+		__this->set_orthoSize_12(((float)((float)((float)il2cpp_codegen_multiply((float)((float)((float)L_88)), (float)(0.5f)))/(float)((float)((float)L_89)))));
+		goto IL_0359;
 	}
 
-IL_02ff:
+IL_02ae:
 	{
 		// else if (cropFrameX)
-		bool L_101 = V_5;
-		V_21 = L_101;
-		bool L_102 = V_21;
-		if (!L_102)
+		bool L_90 = V_5;
+		if (!L_90)
 		{
-			goto IL_0351;
+			goto IL_02fa;
 		}
 	}
 	{
 		// float aspect = (pixelRect == Rect.zero) ? (float)screenWidth / screenHeight : pixelRect.width / pixelRect.height;
-		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878  L_103 = __this->get_pixelRect_11();
-		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878  L_104;
-		L_104 = Rect_get_zero_m4F738804E40698120CC691AB45A6416C4FF52589(/*hidden argument*/NULL);
-		bool L_105;
-		L_105 = Rect_op_Equality_m17C955A4F85F01A7CF0B43EDE41463301E93F6C1(L_103, L_104, /*hidden argument*/NULL);
-		if (L_105)
+		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878  L_91 = __this->get_pixelRect_11();
+		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878  L_92;
+		L_92 = Rect_get_zero_m4F738804E40698120CC691AB45A6416C4FF52589(/*hidden argument*/NULL);
+		bool L_93;
+		L_93 = Rect_op_Equality_m17C955A4F85F01A7CF0B43EDE41463301E93F6C1(L_91, L_92, /*hidden argument*/NULL);
+		if (L_93)
 		{
-			goto IL_0333;
+			goto IL_02dd;
 		}
 	}
 	{
-		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 * L_106 = __this->get_address_of_pixelRect_11();
-		float L_107;
-		L_107 = Rect_get_width_m4A0500D95CA84917787A8E90D26E66D49DFA90EF((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)L_106, /*hidden argument*/NULL);
-		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 * L_108 = __this->get_address_of_pixelRect_11();
-		float L_109;
-		L_109 = Rect_get_height_m42FEF31015A269E6E2B7E6F62E72E5BF6602302A((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)L_108, /*hidden argument*/NULL);
-		G_B36_0 = ((float)((float)L_107/(float)L_109));
-		goto IL_0338;
+		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 * L_94 = __this->get_address_of_pixelRect_11();
+		float L_95;
+		L_95 = Rect_get_width_m4A0500D95CA84917787A8E90D26E66D49DFA90EF((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)L_94, /*hidden argument*/NULL);
+		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 * L_96 = __this->get_address_of_pixelRect_11();
+		float L_97;
+		L_97 = Rect_get_height_m42FEF31015A269E6E2B7E6F62E72E5BF6602302A((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)L_96, /*hidden argument*/NULL);
+		G_B29_0 = ((float)((float)L_95/(float)L_97));
+		goto IL_02e2;
 	}
 
-IL_0333:
+IL_02dd:
 	{
-		int32_t L_110 = ___screenWidth0;
-		int32_t L_111 = ___screenHeight1;
-		G_B36_0 = ((float)((float)((float)((float)L_110))/(float)((float)((float)L_111))));
+		int32_t L_98 = ___screenWidth0;
+		int32_t L_99 = ___screenHeight1;
+		G_B29_0 = ((float)((float)((float)((float)L_98))/(float)((float)((float)L_99))));
 	}
 
-IL_0338:
+IL_02e2:
 	{
-		V_22 = G_B36_0;
+		V_10 = G_B29_0;
 		// orthoSize = ((refResolutionX / aspect) * 0.5f) / assetsPPU;
-		int32_t L_112 = V_1;
-		float L_113 = V_22;
-		int32_t L_114 = V_0;
-		__this->set_orthoSize_12(((float)((float)((float)il2cpp_codegen_multiply((float)((float)((float)((float)((float)L_112))/(float)L_113)), (float)(0.5f)))/(float)((float)((float)L_114)))));
-		goto IL_03bb;
+		int32_t L_100 = V_1;
+		float L_101 = V_10;
+		int32_t L_102 = V_0;
+		__this->set_orthoSize_12(((float)((float)((float)il2cpp_codegen_multiply((float)((float)((float)((float)((float)L_100))/(float)L_101)), (float)(0.5f)))/(float)((float)((float)L_102)))));
+		// }
+		goto IL_0359;
 	}
 
-IL_0351:
+IL_02fa:
 	{
 		// else if (upscaleRT && zoom > 1)
-		bool L_115 = V_3;
-		if (!L_115)
+		bool L_103 = V_3;
+		if (!L_103)
 		{
-			goto IL_035f;
+			goto IL_031e;
 		}
 	}
 	{
-		int32_t L_116 = __this->get_zoom_7();
-		G_B40_0 = ((((int32_t)L_116) > ((int32_t)1))? 1 : 0);
-		goto IL_0360;
-	}
-
-IL_035f:
-	{
-		G_B40_0 = 0;
-	}
-
-IL_0360:
-	{
-		V_23 = (bool)G_B40_0;
-		bool L_117 = V_23;
-		if (!L_117)
+		int32_t L_104 = __this->get_zoom_7();
+		if ((((int32_t)L_104) <= ((int32_t)1)))
 		{
-			goto IL_037e;
+			goto IL_031e;
 		}
 	}
 	{
 		// orthoSize = (offscreenRTHeight * 0.5f) / assetsPPU;
-		int32_t L_118 = __this->get_offscreenRTHeight_10();
-		int32_t L_119 = V_0;
-		__this->set_orthoSize_12(((float)((float)((float)il2cpp_codegen_multiply((float)((float)((float)L_118)), (float)(0.5f)))/(float)((float)((float)L_119)))));
-		goto IL_03bb;
+		int32_t L_105 = __this->get_offscreenRTHeight_10();
+		int32_t L_106 = V_0;
+		__this->set_orthoSize_12(((float)((float)((float)il2cpp_codegen_multiply((float)((float)((float)L_105)), (float)(0.5f)))/(float)((float)((float)L_106)))));
+		goto IL_0359;
 	}
 
-IL_037e:
+IL_031e:
 	{
 		// float pixelHeight = (pixelRect == Rect.zero) ? screenHeight : pixelRect.height;
-		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878  L_120 = __this->get_pixelRect_11();
-		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878  L_121;
-		L_121 = Rect_get_zero_m4F738804E40698120CC691AB45A6416C4FF52589(/*hidden argument*/NULL);
-		bool L_122;
-		L_122 = Rect_op_Equality_m17C955A4F85F01A7CF0B43EDE41463301E93F6C1(L_120, L_121, /*hidden argument*/NULL);
-		if (L_122)
+		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878  L_107 = __this->get_pixelRect_11();
+		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878  L_108;
+		L_108 = Rect_get_zero_m4F738804E40698120CC691AB45A6416C4FF52589(/*hidden argument*/NULL);
+		bool L_109;
+		L_109 = Rect_op_Equality_m17C955A4F85F01A7CF0B43EDE41463301E93F6C1(L_107, L_108, /*hidden argument*/NULL);
+		if (L_109)
 		{
-			goto IL_039e;
+			goto IL_033d;
 		}
 	}
 	{
-		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 * L_123 = __this->get_address_of_pixelRect_11();
-		float L_124;
-		L_124 = Rect_get_height_m42FEF31015A269E6E2B7E6F62E72E5BF6602302A((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)L_123, /*hidden argument*/NULL);
-		G_B45_0 = L_124;
-		goto IL_03a0;
+		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 * L_110 = __this->get_address_of_pixelRect_11();
+		float L_111;
+		L_111 = Rect_get_height_m42FEF31015A269E6E2B7E6F62E72E5BF6602302A((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)L_110, /*hidden argument*/NULL);
+		G_B36_0 = L_111;
+		goto IL_033f;
 	}
 
-IL_039e:
+IL_033d:
 	{
-		int32_t L_125 = ___screenHeight1;
-		G_B45_0 = ((float)((float)L_125));
+		int32_t L_112 = ___screenHeight1;
+		G_B36_0 = ((float)((float)L_112));
 	}
 
-IL_03a0:
+IL_033f:
 	{
-		V_24 = G_B45_0;
+		V_11 = G_B36_0;
 		// orthoSize = (pixelHeight * 0.5f) / (zoom * assetsPPU);
-		float L_126 = V_24;
-		int32_t L_127 = __this->get_zoom_7();
-		int32_t L_128 = V_0;
-		__this->set_orthoSize_12(((float)((float)((float)il2cpp_codegen_multiply((float)L_126, (float)(0.5f)))/(float)((float)((float)((int32_t)il2cpp_codegen_multiply((int32_t)L_127, (int32_t)L_128)))))));
+		float L_113 = V_11;
+		int32_t L_114 = __this->get_zoom_7();
+		int32_t L_115 = V_0;
+		__this->set_orthoSize_12(((float)((float)((float)il2cpp_codegen_multiply((float)L_113, (float)(0.5f)))/(float)((float)((float)((int32_t)il2cpp_codegen_multiply((int32_t)L_114, (int32_t)L_115)))))));
 	}
 
-IL_03bb:
+IL_0359:
 	{
 		// if (upscaleRT || (!upscaleRT && pixelSnapping))
-		bool L_129 = V_3;
-		if (L_129)
+		bool L_116 = V_3;
+		if (L_116)
 		{
-			goto IL_03c7;
+			goto IL_0365;
 		}
 	}
 	{
-		bool L_130 = V_3;
-		bool L_131 = V_4;
-		G_B49_0 = ((int32_t)((int32_t)((((int32_t)L_130) == ((int32_t)0))? 1 : 0)&(int32_t)L_131));
-		goto IL_03c8;
-	}
-
-IL_03c7:
-	{
-		G_B49_0 = 1;
-	}
-
-IL_03c8:
-	{
-		V_25 = (bool)G_B49_0;
-		bool L_132 = V_25;
-		if (!L_132)
+		bool L_117 = V_3;
+		bool L_118 = V_4;
+		if (!((int32_t)((int32_t)((((int32_t)L_117) == ((int32_t)0))? 1 : 0)&(int32_t)L_118)))
 		{
-			goto IL_03de;
+			goto IL_0374;
 		}
 	}
+
+IL_0365:
 	{
 		// unitsPerPixel = 1.0f / assetsPPU;
-		int32_t L_133 = V_0;
-		__this->set_unitsPerPixel_13(((float)((float)(1.0f)/(float)((float)((float)L_133)))));
-		goto IL_03f3;
+		int32_t L_119 = V_0;
+		__this->set_unitsPerPixel_13(((float)((float)(1.0f)/(float)((float)((float)L_119)))));
+		return;
 	}
 
-IL_03de:
+IL_0374:
 	{
 		// unitsPerPixel = 1.0f / (zoom * assetsPPU);
-		int32_t L_134 = __this->get_zoom_7();
-		int32_t L_135 = V_0;
-		__this->set_unitsPerPixel_13(((float)((float)(1.0f)/(float)((float)((float)((int32_t)il2cpp_codegen_multiply((int32_t)L_134, (int32_t)L_135)))))));
-	}
-
-IL_03f3:
-	{
+		int32_t L_120 = __this->get_zoom_7();
+		int32_t L_121 = V_0;
+		__this->set_unitsPerPixel_13(((float)((float)(1.0f)/(float)((float)((float)((int32_t)il2cpp_codegen_multiply((int32_t)L_120, (int32_t)L_121)))))));
 		// }
 		return;
 	}
@@ -3601,114 +2827,93 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F196687
 {
 	Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878  V_0;
 	memset((&V_0), 0, sizeof(V_0));
-	bool V_1 = false;
-	float V_2 = 0.0f;
-	bool V_3 = false;
-	Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878  V_4;
-	memset((&V_4), 0, sizeof(V_4));
 	{
 		// Rect pixelRect = new Rect();
 		il2cpp_codegen_initobj((&V_0), sizeof(Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 ));
 		// if (useStretchFill)
 		bool L_0 = __this->get_useStretchFill_6();
-		V_1 = L_0;
-		bool L_1 = V_1;
-		if (!L_1)
+		if (!L_0)
 		{
-			goto IL_009e;
+			goto IL_0087;
 		}
 	}
 	{
 		// float screenAspect = (float)screenWidth / screenHeight;
-		int32_t L_2 = ___screenWidth1;
-		int32_t L_3 = ___screenHeight2;
-		V_2 = ((float)((float)((float)((float)L_2))/(float)((float)((float)L_3))));
+		int32_t L_1 = ___screenWidth1;
+		int32_t L_2 = ___screenHeight2;
 		// if (screenAspect > cameraAspect)
-		float L_4 = V_2;
-		float L_5 = ___cameraAspect0;
-		V_3 = (bool)((((float)L_4) > ((float)L_5))? 1 : 0);
-		bool L_6 = V_3;
-		if (!L_6)
+		float L_3 = ___cameraAspect0;
+		if ((!(((float)((float)((float)((float)((float)L_1))/(float)((float)((float)L_2))))) > ((float)L_3))))
 		{
-			goto IL_0061;
+			goto IL_0051;
 		}
 	}
 	{
 		// pixelRect.height = screenHeight;
-		int32_t L_7 = ___screenHeight2;
-		Rect_set_height_m4A00B16C122F44FEF4BA074386F3DC11FF4B4D23((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)(&V_0), ((float)((float)L_7)), /*hidden argument*/NULL);
+		int32_t L_4 = ___screenHeight2;
+		Rect_set_height_m4A00B16C122F44FEF4BA074386F3DC11FF4B4D23((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)(&V_0), ((float)((float)L_4)), /*hidden argument*/NULL);
 		// pixelRect.width = screenHeight * cameraAspect;
-		int32_t L_8 = ___screenHeight2;
-		float L_9 = ___cameraAspect0;
-		Rect_set_width_m07D84AD7C7093EDCCD94A7B93A9447CA9917DD9D((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)(&V_0), ((float)il2cpp_codegen_multiply((float)((float)((float)L_8)), (float)L_9)), /*hidden argument*/NULL);
+		int32_t L_5 = ___screenHeight2;
+		float L_6 = ___cameraAspect0;
+		Rect_set_width_m07D84AD7C7093EDCCD94A7B93A9447CA9917DD9D((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)(&V_0), ((float)il2cpp_codegen_multiply((float)((float)((float)L_5)), (float)L_6)), /*hidden argument*/NULL);
 		// pixelRect.x = (screenWidth - (int)pixelRect.width) / 2;
-		int32_t L_10 = ___screenWidth1;
-		float L_11;
-		L_11 = Rect_get_width_m4A0500D95CA84917787A8E90D26E66D49DFA90EF((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)(&V_0), /*hidden argument*/NULL);
-		Rect_set_x_m1147A05B5046E1D4427E8EC99B9DFA4A32EEDEE6((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)(&V_0), ((float)((float)((int32_t)((int32_t)((int32_t)il2cpp_codegen_subtract((int32_t)L_10, (int32_t)il2cpp_codegen_cast_double_to_int<int32_t>(L_11)))/(int32_t)2)))), /*hidden argument*/NULL);
+		int32_t L_7 = ___screenWidth1;
+		float L_8;
+		L_8 = Rect_get_width_m4A0500D95CA84917787A8E90D26E66D49DFA90EF((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)(&V_0), /*hidden argument*/NULL);
+		Rect_set_x_m1147A05B5046E1D4427E8EC99B9DFA4A32EEDEE6((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)(&V_0), ((float)((float)((int32_t)((int32_t)((int32_t)il2cpp_codegen_subtract((int32_t)L_7, (int32_t)il2cpp_codegen_cast_double_to_int<int32_t>(L_8)))/(int32_t)2)))), /*hidden argument*/NULL);
 		// pixelRect.y = 0;
 		Rect_set_y_m015507262F8AC5AFF1B4E986B66307F31FB3A10E((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)(&V_0), (0.0f), /*hidden argument*/NULL);
-		goto IL_009b;
+		// }
+		goto IL_00d9;
 	}
 
-IL_0061:
+IL_0051:
 	{
 		// pixelRect.width = screenWidth;
-		int32_t L_12 = ___screenWidth1;
-		Rect_set_width_m07D84AD7C7093EDCCD94A7B93A9447CA9917DD9D((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)(&V_0), ((float)((float)L_12)), /*hidden argument*/NULL);
+		int32_t L_9 = ___screenWidth1;
+		Rect_set_width_m07D84AD7C7093EDCCD94A7B93A9447CA9917DD9D((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)(&V_0), ((float)((float)L_9)), /*hidden argument*/NULL);
 		// pixelRect.height = screenWidth / cameraAspect;
-		int32_t L_13 = ___screenWidth1;
-		float L_14 = ___cameraAspect0;
-		Rect_set_height_m4A00B16C122F44FEF4BA074386F3DC11FF4B4D23((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)(&V_0), ((float)((float)((float)((float)L_13))/(float)L_14)), /*hidden argument*/NULL);
+		int32_t L_10 = ___screenWidth1;
+		float L_11 = ___cameraAspect0;
+		Rect_set_height_m4A00B16C122F44FEF4BA074386F3DC11FF4B4D23((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)(&V_0), ((float)((float)((float)((float)L_10))/(float)L_11)), /*hidden argument*/NULL);
 		// pixelRect.y = (screenHeight - (int)pixelRect.height) / 2;
-		int32_t L_15 = ___screenHeight2;
-		float L_16;
-		L_16 = Rect_get_height_m42FEF31015A269E6E2B7E6F62E72E5BF6602302A((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)(&V_0), /*hidden argument*/NULL);
-		Rect_set_y_m015507262F8AC5AFF1B4E986B66307F31FB3A10E((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)(&V_0), ((float)((float)((int32_t)((int32_t)((int32_t)il2cpp_codegen_subtract((int32_t)L_15, (int32_t)il2cpp_codegen_cast_double_to_int<int32_t>(L_16)))/(int32_t)2)))), /*hidden argument*/NULL);
+		int32_t L_12 = ___screenHeight2;
+		float L_13;
+		L_13 = Rect_get_height_m42FEF31015A269E6E2B7E6F62E72E5BF6602302A((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)(&V_0), /*hidden argument*/NULL);
+		Rect_set_y_m015507262F8AC5AFF1B4E986B66307F31FB3A10E((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)(&V_0), ((float)((float)((int32_t)((int32_t)((int32_t)il2cpp_codegen_subtract((int32_t)L_12, (int32_t)il2cpp_codegen_cast_double_to_int<int32_t>(L_13)))/(int32_t)2)))), /*hidden argument*/NULL);
 		// pixelRect.x = 0;
 		Rect_set_x_m1147A05B5046E1D4427E8EC99B9DFA4A32EEDEE6((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)(&V_0), (0.0f), /*hidden argument*/NULL);
+		// }
+		goto IL_00d9;
 	}
 
-IL_009b:
-	{
-		goto IL_00f6;
-	}
-
-IL_009e:
+IL_0087:
 	{
 		// pixelRect.height = zoom * offscreenRTHeight;
-		int32_t L_17 = __this->get_zoom_7();
-		int32_t L_18 = __this->get_offscreenRTHeight_10();
-		Rect_set_height_m4A00B16C122F44FEF4BA074386F3DC11FF4B4D23((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)(&V_0), ((float)((float)((int32_t)il2cpp_codegen_multiply((int32_t)L_17, (int32_t)L_18)))), /*hidden argument*/NULL);
+		int32_t L_14 = __this->get_zoom_7();
+		int32_t L_15 = __this->get_offscreenRTHeight_10();
+		Rect_set_height_m4A00B16C122F44FEF4BA074386F3DC11FF4B4D23((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)(&V_0), ((float)((float)((int32_t)il2cpp_codegen_multiply((int32_t)L_14, (int32_t)L_15)))), /*hidden argument*/NULL);
 		// pixelRect.width = zoom * offscreenRTWidth;
-		int32_t L_19 = __this->get_zoom_7();
-		int32_t L_20 = __this->get_offscreenRTWidth_9();
-		Rect_set_width_m07D84AD7C7093EDCCD94A7B93A9447CA9917DD9D((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)(&V_0), ((float)((float)((int32_t)il2cpp_codegen_multiply((int32_t)L_19, (int32_t)L_20)))), /*hidden argument*/NULL);
+		int32_t L_16 = __this->get_zoom_7();
+		int32_t L_17 = __this->get_offscreenRTWidth_9();
+		Rect_set_width_m07D84AD7C7093EDCCD94A7B93A9447CA9917DD9D((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)(&V_0), ((float)((float)((int32_t)il2cpp_codegen_multiply((int32_t)L_16, (int32_t)L_17)))), /*hidden argument*/NULL);
 		// pixelRect.x = (screenWidth - (int)pixelRect.width) / 2;
-		int32_t L_21 = ___screenWidth1;
-		float L_22;
-		L_22 = Rect_get_width_m4A0500D95CA84917787A8E90D26E66D49DFA90EF((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)(&V_0), /*hidden argument*/NULL);
-		Rect_set_x_m1147A05B5046E1D4427E8EC99B9DFA4A32EEDEE6((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)(&V_0), ((float)((float)((int32_t)((int32_t)((int32_t)il2cpp_codegen_subtract((int32_t)L_21, (int32_t)il2cpp_codegen_cast_double_to_int<int32_t>(L_22)))/(int32_t)2)))), /*hidden argument*/NULL);
+		int32_t L_18 = ___screenWidth1;
+		float L_19;
+		L_19 = Rect_get_width_m4A0500D95CA84917787A8E90D26E66D49DFA90EF((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)(&V_0), /*hidden argument*/NULL);
+		Rect_set_x_m1147A05B5046E1D4427E8EC99B9DFA4A32EEDEE6((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)(&V_0), ((float)((float)((int32_t)((int32_t)((int32_t)il2cpp_codegen_subtract((int32_t)L_18, (int32_t)il2cpp_codegen_cast_double_to_int<int32_t>(L_19)))/(int32_t)2)))), /*hidden argument*/NULL);
 		// pixelRect.y = (screenHeight - (int)pixelRect.height) / 2;
-		int32_t L_23 = ___screenHeight2;
-		float L_24;
-		L_24 = Rect_get_height_m42FEF31015A269E6E2B7E6F62E72E5BF6602302A((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)(&V_0), /*hidden argument*/NULL);
-		Rect_set_y_m015507262F8AC5AFF1B4E986B66307F31FB3A10E((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)(&V_0), ((float)((float)((int32_t)((int32_t)((int32_t)il2cpp_codegen_subtract((int32_t)L_23, (int32_t)il2cpp_codegen_cast_double_to_int<int32_t>(L_24)))/(int32_t)2)))), /*hidden argument*/NULL);
+		int32_t L_20 = ___screenHeight2;
+		float L_21;
+		L_21 = Rect_get_height_m42FEF31015A269E6E2B7E6F62E72E5BF6602302A((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)(&V_0), /*hidden argument*/NULL);
+		Rect_set_y_m015507262F8AC5AFF1B4E986B66307F31FB3A10E((Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 *)(&V_0), ((float)((float)((int32_t)((int32_t)((int32_t)il2cpp_codegen_subtract((int32_t)L_20, (int32_t)il2cpp_codegen_cast_double_to_int<int32_t>(L_21)))/(int32_t)2)))), /*hidden argument*/NULL);
 	}
 
-IL_00f6:
+IL_00d9:
 	{
 		// return pixelRect;
-		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878  L_25 = V_0;
-		V_4 = L_25;
-		goto IL_00fb;
-	}
-
-IL_00fb:
-	{
-		// }
-		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878  L_26 = V_4;
-		return L_26;
+		Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878  L_22 = V_0;
+		return L_22;
 	}
 }
 // System.Single UnityEngine.U2D.PixelPerfectCameraInternal::CorrectCinemachineOrthoSize(System.Single)
@@ -3722,113 +2927,87 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float PixelPerfectCameraInternal_CorrectCinem
 		s_Il2CppMethodInitialized = true;
 	}
 	float V_0 = 0.0f;
-	bool V_1 = false;
-	bool V_2 = false;
-	float V_3 = 0.0f;
-	int32_t G_B6_0 = 0;
 	{
 		// if (m_Component.upscaleRT)
 		RuntimeObject* L_0 = __this->get_m_Component_0();
 		bool L_1;
 		L_1 = InterfaceFuncInvoker0< bool >::Invoke(3 /* System.Boolean UnityEngine.U2D.IPixelPerfectCamera::get_upscaleRT() */, IPixelPerfectCamera_t9F0A1326B7A342C5BDF45EB98760E0E380CEEAB7_il2cpp_TypeInfo_var, L_0);
-		V_1 = L_1;
-		bool L_2 = V_1;
-		if (!L_2)
+		if (!L_1)
 		{
-			goto IL_003c;
+			goto IL_0037;
 		}
 	}
 	{
 		// cinemachineVCamZoom = Math.Max(1, Mathf.RoundToInt(orthoSize / targetOrthoSize));
-		float L_3 = __this->get_orthoSize_12();
-		float L_4 = ___targetOrthoSize0;
-		int32_t L_5;
-		L_5 = Mathf_RoundToInt_m56850BDF60FF9E3441CE57E5EFEFEF36EDCDE6DD(((float)((float)L_3/(float)L_4)), /*hidden argument*/NULL);
+		float L_2 = __this->get_orthoSize_12();
+		float L_3 = ___targetOrthoSize0;
+		int32_t L_4;
+		L_4 = Mathf_RoundToInt_m56850BDF60FF9E3441CE57E5EFEFEF36EDCDE6DD(((float)((float)L_2/(float)L_3)), /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(Math_tA269614262430118C9FC5C4D9EF4F61C812568F0_il2cpp_TypeInfo_var);
-		int32_t L_6;
-		L_6 = Math_Max_mD8AA27386BF012C65303FCDEA041B0CC65056E7B(1, L_5, /*hidden argument*/NULL);
-		__this->set_cinemachineVCamZoom_14(L_6);
+		int32_t L_5;
+		L_5 = Math_Max_mD8AA27386BF012C65303FCDEA041B0CC65056E7B(1, L_4, /*hidden argument*/NULL);
+		__this->set_cinemachineVCamZoom_14(L_5);
 		// correctedOrthoSize = orthoSize / cinemachineVCamZoom;
-		float L_7 = __this->get_orthoSize_12();
-		int32_t L_8 = __this->get_cinemachineVCamZoom_14();
-		V_0 = ((float)((float)L_7/(float)((float)((float)L_8))));
-		goto IL_0076;
+		float L_6 = __this->get_orthoSize_12();
+		int32_t L_7 = __this->get_cinemachineVCamZoom_14();
+		V_0 = ((float)((float)L_6/(float)((float)((float)L_7))));
+		// }
+		goto IL_006f;
 	}
 
-IL_003c:
+IL_0037:
 	{
 		// cinemachineVCamZoom = Math.Max(1, Mathf.RoundToInt(zoom * orthoSize / targetOrthoSize));
-		int32_t L_9 = __this->get_zoom_7();
-		float L_10 = __this->get_orthoSize_12();
-		float L_11 = ___targetOrthoSize0;
-		int32_t L_12;
-		L_12 = Mathf_RoundToInt_m56850BDF60FF9E3441CE57E5EFEFEF36EDCDE6DD(((float)((float)((float)il2cpp_codegen_multiply((float)((float)((float)L_9)), (float)L_10))/(float)L_11)), /*hidden argument*/NULL);
+		int32_t L_8 = __this->get_zoom_7();
+		float L_9 = __this->get_orthoSize_12();
+		float L_10 = ___targetOrthoSize0;
+		int32_t L_11;
+		L_11 = Mathf_RoundToInt_m56850BDF60FF9E3441CE57E5EFEFEF36EDCDE6DD(((float)((float)((float)il2cpp_codegen_multiply((float)((float)((float)L_8)), (float)L_9))/(float)L_10)), /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(Math_tA269614262430118C9FC5C4D9EF4F61C812568F0_il2cpp_TypeInfo_var);
-		int32_t L_13;
-		L_13 = Math_Max_mD8AA27386BF012C65303FCDEA041B0CC65056E7B(1, L_12, /*hidden argument*/NULL);
-		__this->set_cinemachineVCamZoom_14(L_13);
+		int32_t L_12;
+		L_12 = Math_Max_mD8AA27386BF012C65303FCDEA041B0CC65056E7B(1, L_11, /*hidden argument*/NULL);
+		__this->set_cinemachineVCamZoom_14(L_12);
 		// correctedOrthoSize = zoom * orthoSize / cinemachineVCamZoom;
-		int32_t L_14 = __this->get_zoom_7();
-		float L_15 = __this->get_orthoSize_12();
-		int32_t L_16 = __this->get_cinemachineVCamZoom_14();
-		V_0 = ((float)((float)((float)il2cpp_codegen_multiply((float)((float)((float)L_14)), (float)L_15))/(float)((float)((float)L_16))));
+		int32_t L_13 = __this->get_zoom_7();
+		float L_14 = __this->get_orthoSize_12();
+		int32_t L_15 = __this->get_cinemachineVCamZoom_14();
+		V_0 = ((float)((float)((float)il2cpp_codegen_multiply((float)((float)((float)L_13)), (float)L_14))/(float)((float)((float)L_15))));
 	}
 
-IL_0076:
+IL_006f:
 	{
 		// if (!m_Component.upscaleRT && !m_Component.pixelSnapping)
-		RuntimeObject* L_17 = __this->get_m_Component_0();
-		bool L_18;
-		L_18 = InterfaceFuncInvoker0< bool >::Invoke(3 /* System.Boolean UnityEngine.U2D.IPixelPerfectCamera::get_upscaleRT() */, IPixelPerfectCamera_t9F0A1326B7A342C5BDF45EB98760E0E380CEEAB7_il2cpp_TypeInfo_var, L_17);
-		if (L_18)
+		RuntimeObject* L_16 = __this->get_m_Component_0();
+		bool L_17;
+		L_17 = InterfaceFuncInvoker0< bool >::Invoke(3 /* System.Boolean UnityEngine.U2D.IPixelPerfectCamera::get_upscaleRT() */, IPixelPerfectCamera_t9F0A1326B7A342C5BDF45EB98760E0E380CEEAB7_il2cpp_TypeInfo_var, L_16);
+		if (L_17)
 		{
-			goto IL_0093;
+			goto IL_00a8;
 		}
 	}
 	{
-		RuntimeObject* L_19 = __this->get_m_Component_0();
-		bool L_20;
-		L_20 = InterfaceFuncInvoker0< bool >::Invoke(4 /* System.Boolean UnityEngine.U2D.IPixelPerfectCamera::get_pixelSnapping() */, IPixelPerfectCamera_t9F0A1326B7A342C5BDF45EB98760E0E380CEEAB7_il2cpp_TypeInfo_var, L_19);
-		G_B6_0 = ((((int32_t)L_20) == ((int32_t)0))? 1 : 0);
-		goto IL_0094;
-	}
-
-IL_0093:
-	{
-		G_B6_0 = 0;
-	}
-
-IL_0094:
-	{
-		V_2 = (bool)G_B6_0;
-		bool L_21 = V_2;
-		if (!L_21)
+		RuntimeObject* L_18 = __this->get_m_Component_0();
+		bool L_19;
+		L_19 = InterfaceFuncInvoker0< bool >::Invoke(4 /* System.Boolean UnityEngine.U2D.IPixelPerfectCamera::get_pixelSnapping() */, IPixelPerfectCamera_t9F0A1326B7A342C5BDF45EB98760E0E380CEEAB7_il2cpp_TypeInfo_var, L_18);
+		if (L_19)
 		{
-			goto IL_00b7;
+			goto IL_00a8;
 		}
 	}
 	{
 		// unitsPerPixel = 1.0f / (cinemachineVCamZoom * m_Component.assetsPPU);
-		int32_t L_22 = __this->get_cinemachineVCamZoom_14();
-		RuntimeObject* L_23 = __this->get_m_Component_0();
-		int32_t L_24;
-		L_24 = InterfaceFuncInvoker0< int32_t >::Invoke(0 /* System.Int32 UnityEngine.U2D.IPixelPerfectCamera::get_assetsPPU() */, IPixelPerfectCamera_t9F0A1326B7A342C5BDF45EB98760E0E380CEEAB7_il2cpp_TypeInfo_var, L_23);
-		__this->set_unitsPerPixel_13(((float)((float)(1.0f)/(float)((float)((float)((int32_t)il2cpp_codegen_multiply((int32_t)L_22, (int32_t)L_24)))))));
+		int32_t L_20 = __this->get_cinemachineVCamZoom_14();
+		RuntimeObject* L_21 = __this->get_m_Component_0();
+		int32_t L_22;
+		L_22 = InterfaceFuncInvoker0< int32_t >::Invoke(0 /* System.Int32 UnityEngine.U2D.IPixelPerfectCamera::get_assetsPPU() */, IPixelPerfectCamera_t9F0A1326B7A342C5BDF45EB98760E0E380CEEAB7_il2cpp_TypeInfo_var, L_21);
+		__this->set_unitsPerPixel_13(((float)((float)(1.0f)/(float)((float)((float)((int32_t)il2cpp_codegen_multiply((int32_t)L_20, (int32_t)L_22)))))));
 	}
 
-IL_00b7:
+IL_00a8:
 	{
 		// return correctedOrthoSize;
-		float L_25 = V_0;
-		V_3 = L_25;
-		goto IL_00bb;
-	}
-
-IL_00bb:
-	{
-		// }
-		float L_26 = V_3;
-		return L_26;
+		float L_23 = V_0;
+		return L_23;
 	}
 }
 #ifdef __clang__
@@ -3898,59 +3077,5 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Vector3__ctor_m57495F692C6CE
 		float L_2 = ___z2;
 		__this->set_z_4(L_2);
 		return;
-	}
-}
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Vector2Int_set_x_m58F3B1895453A0A4BC964CA331D56B7C3D873B7C_inline (Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9 * __this, int32_t ___value0, const RuntimeMethod* method)
-{
-	{
-		int32_t L_0 = ___value0;
-		__this->set_m_X_0(L_0);
-		return;
-	}
-}
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Vector2Int_set_y_m55A40AE7AF833E31D968E0C515A5C773F251C21A_inline (Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9 * __this, int32_t ___value0, const RuntimeMethod* method)
-{
-	{
-		int32_t L_0 = ___value0;
-		__this->set_m_Y_1(L_0);
-		return;
-	}
-}
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t Vector2Int_get_x_mDBEFBCDF9C7924767344ED2CEE1307885AED947B_inline (Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9 * __this, const RuntimeMethod* method)
-{
-	int32_t V_0 = 0;
-	{
-		int32_t L_0 = __this->get_m_X_0();
-		V_0 = L_0;
-		goto IL_000a;
-	}
-
-IL_000a:
-	{
-		int32_t L_1 = V_0;
-		return L_1;
-	}
-}
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t Vector2Int_get_y_m282591DEB0E70B02F4F4DDFAB90116AEC8E6B86C_inline (Vector2Int_tF49F5C2443670DE126D9EC8DBE81D8F480EAA6E9 * __this, const RuntimeMethod* method)
-{
-	int32_t V_0 = 0;
-	{
-		int32_t L_0 = __this->get_m_Y_1();
-		V_0 = L_0;
-		goto IL_000a;
-	}
-
-IL_000a:
-	{
-		int32_t L_1 = V_0;
-		return L_1;
-	}
-}
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR ObjectU5BU5D_tC1F4EE0DB0B7300255F5FD4AF64FE4C585CF5ADE* Array_Empty_TisRuntimeObject_m1FBC21243DF3542384C523801E8CA8A97606C747_gshared_inline (const RuntimeMethod* method)
-{
-	{
-		IL2CPP_RUNTIME_CLASS_INIT(IL2CPP_RGCTX_DATA(method->rgctx_data, 0));
-		ObjectU5BU5D_tC1F4EE0DB0B7300255F5FD4AF64FE4C585CF5ADE* L_0 = ((EmptyArray_1_tBF73225DFA890366D579424FE8F40073BF9FBAD4_StaticFields*)il2cpp_codegen_static_fields_for(IL2CPP_RGCTX_DATA(method->rgctx_data, 0)))->get_Value_0();
-		return (ObjectU5BU5D_tC1F4EE0DB0B7300255F5FD4AF64FE4C585CF5ADE*)L_0;
 	}
 }

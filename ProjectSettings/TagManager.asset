@@ -8,6 +8,7 @@ TagManager:
   - Dialog
   - Music
   - Portal
+  - Instructions
   layers:
   - Default
   - TransparentFX

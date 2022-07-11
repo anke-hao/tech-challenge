@@ -7,8 +7,6 @@ public class Dialogue : MonoBehaviour
 {
     public GameObject dialogBox;
     public Text dialogText;
-    public Text leftOption;
-    public Text rightOption;
     public string dialog;
     public bool playerInRange;
 

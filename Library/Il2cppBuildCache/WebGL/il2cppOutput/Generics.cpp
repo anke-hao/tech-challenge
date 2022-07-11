@@ -37381,7 +37381,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass17_0_1_U3CForWorker
 		il2cpp_codegen_initobj((&V_2), sizeof(RangeWorker_t05E7A836A2CEE75F886559C9A814F9D1289560F3 ));
 		Task_t804B25CFE3FC13AAEE16C8FA3BF52513F2A8DB60 * L_3 = V_0;
 		RuntimeObject * L_4;
-		L_4 = VirtFuncInvoker0< RuntimeObject * >::Invoke(16 /* System.Object System.Threading.Tasks.Task::get_SavedStateFromPreviousReplica() */, (Task_t804B25CFE3FC13AAEE16C8FA3BF52513F2A8DB60 *)L_3);
+		L_4 = VirtFuncInvoker0< RuntimeObject * >::Invoke(15 /* System.Object System.Threading.Tasks.Task::get_SavedStateFromPreviousReplica() */, (Task_t804B25CFE3FC13AAEE16C8FA3BF52513F2A8DB60 *)L_3);
 		V_3 = (RuntimeObject *)L_4;
 		RuntimeObject * L_5 = V_3;
 		if (!((RuntimeObject *)IsInst((RuntimeObject*)L_5, RangeWorker_t05E7A836A2CEE75F886559C9A814F9D1289560F3_il2cpp_TypeInfo_var)))
@@ -37712,7 +37712,7 @@ IL_01bb:
 				RangeWorker_t05E7A836A2CEE75F886559C9A814F9D1289560F3  L_72 = V_2;
 				RangeWorker_t05E7A836A2CEE75F886559C9A814F9D1289560F3  L_73 = (RangeWorker_t05E7A836A2CEE75F886559C9A814F9D1289560F3 )L_72;
 				RuntimeObject * L_74 = Box(RangeWorker_t05E7A836A2CEE75F886559C9A814F9D1289560F3_il2cpp_TypeInfo_var, &L_73);
-				VirtActionInvoker1< RuntimeObject * >::Invoke(15 /* System.Void System.Threading.Tasks.Task::set_SavedStateForNextReplica(System.Object) */, (Task_t804B25CFE3FC13AAEE16C8FA3BF52513F2A8DB60 *)L_71, (RuntimeObject *)L_74);
+				VirtActionInvoker1< RuntimeObject * >::Invoke(14 /* System.Void System.Threading.Tasks.Task::set_SavedStateForNextReplica(System.Object) */, (Task_t804B25CFE3FC13AAEE16C8FA3BF52513F2A8DB60 *)L_71, (RuntimeObject *)L_74);
 				goto IL_01fd;
 			}
 
@@ -40687,7 +40687,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass18_0_1_U3CForWorker
 		il2cpp_codegen_initobj((&V_2), sizeof(RangeWorker_t05E7A836A2CEE75F886559C9A814F9D1289560F3 ));
 		Task_t804B25CFE3FC13AAEE16C8FA3BF52513F2A8DB60 * L_3 = V_0;
 		RuntimeObject * L_4;
-		L_4 = VirtFuncInvoker0< RuntimeObject * >::Invoke(16 /* System.Object System.Threading.Tasks.Task::get_SavedStateFromPreviousReplica() */, (Task_t804B25CFE3FC13AAEE16C8FA3BF52513F2A8DB60 *)L_3);
+		L_4 = VirtFuncInvoker0< RuntimeObject * >::Invoke(15 /* System.Object System.Threading.Tasks.Task::get_SavedStateFromPreviousReplica() */, (Task_t804B25CFE3FC13AAEE16C8FA3BF52513F2A8DB60 *)L_3);
 		V_3 = (RuntimeObject *)L_4;
 		RuntimeObject * L_5 = V_3;
 		if (!((RuntimeObject *)IsInst((RuntimeObject*)L_5, RangeWorker_t05E7A836A2CEE75F886559C9A814F9D1289560F3_il2cpp_TypeInfo_var)))
@@ -41018,7 +41018,7 @@ IL_01be:
 				RangeWorker_t05E7A836A2CEE75F886559C9A814F9D1289560F3  L_72 = V_2;
 				RangeWorker_t05E7A836A2CEE75F886559C9A814F9D1289560F3  L_73 = (RangeWorker_t05E7A836A2CEE75F886559C9A814F9D1289560F3 )L_72;
 				RuntimeObject * L_74 = Box(RangeWorker_t05E7A836A2CEE75F886559C9A814F9D1289560F3_il2cpp_TypeInfo_var, &L_73);
-				VirtActionInvoker1< RuntimeObject * >::Invoke(15 /* System.Void System.Threading.Tasks.Task::set_SavedStateForNextReplica(System.Object) */, (Task_t804B25CFE3FC13AAEE16C8FA3BF52513F2A8DB60 *)L_71, (RuntimeObject *)L_74);
+				VirtActionInvoker1< RuntimeObject * >::Invoke(14 /* System.Void System.Threading.Tasks.Task::set_SavedStateForNextReplica(System.Object) */, (Task_t804B25CFE3FC13AAEE16C8FA3BF52513F2A8DB60 *)L_71, (RuntimeObject *)L_74);
 				goto IL_0200;
 			}
 
@@ -47470,14 +47470,14 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Span_1__ctor_m8DACE4445D895C
 	}
 	{
 		bool L_0;
-		L_0 = ((  bool (*) (const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 16)->methodPointer)(/*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 16));
+		L_0 = ((  bool (*) (const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 6)->methodPointer)(/*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 6));
 		if (!L_0)
 		{
 			goto IL_0016;
 		}
 	}
 	{
-		RuntimeTypeHandle_tC33965ADA3E041E0C94AF05E5CB527B56482CEF9  L_1 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(InitializedTypeInfo(method->klass)->rgctx_data, 17)) };
+		RuntimeTypeHandle_tC33965ADA3E041E0C94AF05E5CB527B56482CEF9  L_1 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(InitializedTypeInfo(method->klass)->rgctx_data, 7)) };
 		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
 		Type_t * L_2;
 		L_2 = Type_GetTypeFromHandle_m8BB57524FF7F9DB1803BC561D2B3A4DBACEB385E((RuntimeTypeHandle_tC33965ADA3E041E0C94AF05E5CB527B56482CEF9 )L_1, /*hidden argument*/NULL);

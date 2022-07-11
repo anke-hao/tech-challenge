@@ -1294,7 +1294,7 @@ ScriptsOnlyBuild:
     className: SignalEmitter
   - hash:
       serializedVersion: 2
-      Hash: 39057b0efdf3f6e83f5f36eed6817a36
+      Hash: 30b99584647c63f382a437f42665692e
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Dialogue
@@ -1362,4 +1362,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/Main.unity
   - Assets/Scenes/Reveal.unity
-  playerPath: C:/Users/anke_/UChicago CS/tech-challenge/Build9
+  playerPath: C:/Users/anke_/UChicago CS/tech-challenge/Build13

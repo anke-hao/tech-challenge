@@ -28,7 +28,7 @@ public class DialogNewScene : MonoBehaviour
     void Start()
     {
         phil = GameObject.FindGameObjectWithTag("Player");
-        result = phil.GetComponent<Algorithm>().result;
+        result = phil.GetComponent<Algorithm>().getKNN();
     }
 
     // Update is called once per frame

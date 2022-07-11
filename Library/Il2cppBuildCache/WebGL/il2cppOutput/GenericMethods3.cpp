@@ -276,6 +276,8 @@ struct Color32U5BU5D_t7FEB526973BF84608073B85CF2D581427F0235E2;
 struct DelegateU5BU5D_t677D8FE08A5F99E8EE49150B73966CD6E9BF7DB8;
 // UnityEngine.DisallowMultipleComponent[]
 struct DisallowMultipleComponentU5BU5D_t3729B6FD5B0047F32D8A81B9EF750AD70654053E;
+// System.Double[]
+struct DoubleU5BU5D_t8E1B42EB2ABB79FBD193A6B8C8D97A7CDE44A4FB;
 // UnityEngine.ExecuteInEditMode[]
 struct ExecuteInEditModeU5BU5D_t1913FB45D1BAF40B32F47108EE65D7DE7992AF08;
 // UnityEngine.TextCore.GlyphRect[]
@@ -284,6 +286,8 @@ struct GlyphRectU5BU5D_tD5D74BCDBD33C0E1CF2D67D5419C526C807D3BDA;
 struct Int32U5BU5D_t70F1BDC14B1786481B176D6139A5E3B87DC54C32;
 // System.Int32Enum[]
 struct Int32EnumU5BU5D_t9327F857579EE00EB201E1913599094BF837D3CD;
+// System.Int64[]
+struct Int64U5BU5D_tCA61E42872C63A4286B24EEE6E0650143B43DCE6;
 // System.IntPtr[]
 struct IntPtrU5BU5D_t27FC72B0409D75AAF33EC42498E8094E95FEE9A6;
 // UnityEngine.Timeline.IntervalTreeNode[]
@@ -348,6 +352,90 @@ struct WorkRequestU5BU5D_tFD014E941739D5AFA0353EDFE7D9CD61E8A43A3F;
 struct ItemU5BU5D_t1108E169C548FBD6E94B6418A98483F93C2FB3E8;
 // Cinemachine.TargetPositionCache/CacheEntry/RecordingItem[]
 struct RecordingItemU5BU5D_t519137B584A64E57F8188DDEE96C7A40220E40F5;
+// System.Boolean[,]
+struct BooleanU5BU2CU5D_t75EC6BD827E1CC43B9F2D7F7BC761DF072D990C4;
+// System.Byte[,]
+struct ByteU5BU2CU5D_tFFA7E7CA82D7396BFF316C4BDB83D307E0CBBE0D;
+// System.Double[,]
+struct DoubleU5BU2CU5D_t469708E84B24DAB3E509BDEC941060C69370193E;
+// System.Int32[,]
+struct Int32U5BU2CU5D_tE3A76A55C8E5F44FF4BA45CF035E89489936EE17;
+// System.Int64[,]
+struct Int64U5BU2CU5D_tEBB2AEAB267BE0C570FC32E17716C77AF3E75E4E;
+// System.Single[,]
+struct SingleU5BU2CU5D_tC8145CABE3D285E5B2969DB657D4DE43A135BB43;
+// System.Boolean[,,]
+struct BooleanU5BU2CU2CU5D_tB8F56EB24D5C42F188A3C72BFF48D9AC9B78E58B;
+// System.Byte[,,]
+struct ByteU5BU2CU2CU5D_tA5E8BC9B40EF8FB662F480D2F5E1C1E3BEF067FF;
+// System.Double[,,]
+struct DoubleU5BU2CU2CU5D_t46270102086706B9089737D9B8FACDFC5E892377;
+// System.Int32[,,]
+struct Int32U5BU2CU2CU5D_t258DA82DACC50C444F05FFD250E7360558AD322D;
+// System.Int64[,,]
+struct Int64U5BU2CU2CU5D_t34C292D62D950BE089875853215BD96E26865243;
+// System.Single[,,]
+struct SingleU5BU2CU2CU5D_t9FB63FBDE2078D789023A5352FF90CAE8934E087;
+// System.Boolean[,,,]
+struct BooleanU5BU2CU2CU2CU5D_t726941BA419881FF4F52693F9EA5204D8C8CE324;
+// System.Byte[,,,]
+struct ByteU5BU2CU2CU2CU5D_tD548A6977C7ABB540B3A99B8C83F186C11C2B369;
+// System.Double[,,,]
+struct DoubleU5BU2CU2CU2CU5D_t01887E3704746B4CDB6A8D9C5C4CBFE05B10E84E;
+// System.Int32[,,,]
+struct Int32U5BU2CU2CU2CU5D_tA9A143BF5A29BEAB00F094F71116FC298CE4B1AD;
+// System.Int64[,,,]
+struct Int64U5BU2CU2CU2CU5D_tF16B36C2FD740C253BD0438B1FD74E644CFB7F54;
+// System.Single[,,,]
+struct SingleU5BU2CU2CU2CU5D_tD86B5ADE096220CB8F90FCCCCD1F68D7EA758FBB;
+// System.Boolean[,,,,]
+struct BooleanU5BU2CU2CU2CU2CU5D_tFBF63C9984DC122A45C731EC4BDB96229AE2B30A;
+// System.Byte[,,,,]
+struct ByteU5BU2CU2CU2CU2CU5D_t15ABA1DF3C90C89DD4607E406B69CA1D8ECBEF14;
+// System.Double[,,,,]
+struct DoubleU5BU2CU2CU2CU2CU5D_tC2EDD14450E0DFA6D467FA1777F2B66C5A436781;
+// System.Int32[,,,,]
+struct Int32U5BU2CU2CU2CU2CU5D_t6E137D70D4DE6780D0B80222B602FD2988CC2CFF;
+// System.Int64[,,,,]
+struct Int64U5BU2CU2CU2CU2CU5D_tEFF0668944AC7054D82960F91924820AAE2A4204;
+// System.Single[,,,,]
+struct SingleU5BU2CU2CU2CU2CU5D_t3C5B14D791C6976B0E1A91CD65DEF34644CE379A;
+// System.Boolean[,,,,,]
+struct BooleanU5BU2CU2CU2CU2CU2CU5D_t8772F793C759B561BEC7C1251B73C3E692FEF88A;
+// System.Byte[,,,,,]
+struct ByteU5BU2CU2CU2CU2CU2CU5D_t373BDFD6F3DBD2AE92ACDEEC9DE0DBD4B1A8589D;
+// System.Double[,,,,,]
+struct DoubleU5BU2CU2CU2CU2CU2CU5D_t56EB2FD21C3A21D5CD6C97AA03E09495BCFDFA31;
+// System.Int32[,,,,,]
+struct Int32U5BU2CU2CU2CU2CU2CU5D_t2FDC7392B32CFE61709CCD947D2E62075C0D91D7;
+// System.Int64[,,,,,]
+struct Int64U5BU2CU2CU2CU2CU2CU5D_tB0B5DAE45B4D3104E4CF4470775BFD7208D52461;
+// System.Single[,,,,,]
+struct SingleU5BU2CU2CU2CU2CU2CU5D_t38B18D295C7EEA416AB71938640EE561B27D5C3D;
+// System.Boolean[,,,,,,]
+struct BooleanU5BU2CU2CU2CU2CU2CU2CU5D_t857ADE4AD2AD0C63A10FD2A9E51D219DB594B160;
+// System.Byte[,,,,,,]
+struct ByteU5BU2CU2CU2CU2CU2CU2CU5D_tA86163E75F1D8768AF7B70F8C5F928B28B1DA778;
+// System.Double[,,,,,,]
+struct DoubleU5BU2CU2CU2CU2CU2CU2CU5D_t703B2AC808F5D475B599111F63E5F026C7BAB69B;
+// System.Int32[,,,,,,]
+struct Int32U5BU2CU2CU2CU2CU2CU2CU5D_t78507BA1C9DCB8919945720537823CCD5EF2E60B;
+// System.Int64[,,,,,,]
+struct Int64U5BU2CU2CU2CU2CU2CU2CU5D_t432DAE5A8688B2E4A912E62E004BBE13593372A7;
+// System.Single[,,,,,,]
+struct SingleU5BU2CU2CU2CU2CU2CU2CU5D_tD52F6BE7884AEC6B76ADE1359786F26B8603F2C8;
+// System.Boolean[,,,,,,,]
+struct BooleanU5BU2CU2CU2CU2CU2CU2CU2CU5D_tBA4F384F835C86F2F58342EFD3BDE56DF7E7021A;
+// System.Byte[,,,,,,,]
+struct ByteU5BU2CU2CU2CU2CU2CU2CU2CU5D_t2CCF461DE8700E93D307D38605DC599C5D5C35EC;
+// System.Double[,,,,,,,]
+struct DoubleU5BU2CU2CU2CU2CU2CU2CU2CU5D_tA1C59214723196DEAD31B72F5D09C63FC9B032C0;
+// System.Int32[,,,,,,,]
+struct Int32U5BU2CU2CU2CU2CU2CU2CU2CU5D_t47AE6F9E41CB256086FFEC07ABC507E23CD38353;
+// System.Int64[,,,,,,,]
+struct Int64U5BU2CU2CU2CU2CU2CU2CU2CU5D_t3A44FD4E5DABA049CBFED0026C5E6C0270FC0815;
+// System.Single[,,,,,,,]
+struct SingleU5BU2CU2CU2CU2CU2CU2CU2CU5D_t011998ED7A6EB237BFDD3ADE4B7116B39E970F62;
 // System.ArgumentException
 struct ArgumentException_t505FA8C11E883F2D96C797AD9D396490794DEE00;
 // System.ArgumentNullException
@@ -625,12 +713,15 @@ struct KeyValuePair_2U5BU5D_t7A55D2FEB3F9BBFE7CC9322E7E8F00A4D1C77D4D;
 struct UnmanagedMemoryBlock_1U5BU5D_t6E6292FEDBBB2A8DDD044A1E030EBBBB3E9E0D28;
 struct AnimatorClipInfoU5BU5D_tCB3D927F30A1769FAEA216264EE98EFFDA4E5DF2;
 struct BooleanU5BU5D_tEC7BAF93C44F875016DAADC8696EE3A465644D3C;
+struct ByteU5BU5D_tDBBEB0E8362242FA7223000D978B0DD19D4B0726;
 struct CharU5BU5D_t7B7FC5BC8091AA3B9CB0B29CDD80B5EE9254AA34;
 struct CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC;
 struct Color32U5BU5D_t7FEB526973BF84608073B85CF2D581427F0235E2;
+struct DoubleU5BU5D_t8E1B42EB2ABB79FBD193A6B8C8D97A7CDE44A4FB;
 struct GlyphRectU5BU5D_tD5D74BCDBD33C0E1CF2D67D5419C526C807D3BDA;
 struct Int32U5BU5D_t70F1BDC14B1786481B176D6139A5E3B87DC54C32;
 struct Int32EnumU5BU5D_t9327F857579EE00EB201E1913599094BF837D3CD;
+struct Int64U5BU5D_tCA61E42872C63A4286B24EEE6E0650143B43DCE6;
 struct IntPtrU5BU5D_t27FC72B0409D75AAF33EC42498E8094E95FEE9A6;
 struct IntervalTreeNodeU5BU5D_tE6D2C5822CF028FBC06899DAFCB9124B94AC296A;
 struct ObjectU5BU5D_tC1F4EE0DB0B7300255F5FD4AF64FE4C585CF5ADE;
@@ -658,6 +749,48 @@ struct NotificationEntryU5BU5D_t09774245BA02F3982CECCBB4CB7E3DAC2CA8B345;
 struct WorkRequestU5BU5D_tFD014E941739D5AFA0353EDFE7D9CD61E8A43A3F;
 struct ItemU5BU5D_t1108E169C548FBD6E94B6418A98483F93C2FB3E8;
 struct RecordingItemU5BU5D_t519137B584A64E57F8188DDEE96C7A40220E40F5;
+struct BooleanU5BU2CU5D_t75EC6BD827E1CC43B9F2D7F7BC761DF072D990C4;
+struct ByteU5BU2CU5D_tFFA7E7CA82D7396BFF316C4BDB83D307E0CBBE0D;
+struct DoubleU5BU2CU5D_t469708E84B24DAB3E509BDEC941060C69370193E;
+struct Int32U5BU2CU5D_tE3A76A55C8E5F44FF4BA45CF035E89489936EE17;
+struct Int64U5BU2CU5D_tEBB2AEAB267BE0C570FC32E17716C77AF3E75E4E;
+struct SingleU5BU2CU5D_tC8145CABE3D285E5B2969DB657D4DE43A135BB43;
+struct BooleanU5BU2CU2CU5D_tB8F56EB24D5C42F188A3C72BFF48D9AC9B78E58B;
+struct ByteU5BU2CU2CU5D_tA5E8BC9B40EF8FB662F480D2F5E1C1E3BEF067FF;
+struct DoubleU5BU2CU2CU5D_t46270102086706B9089737D9B8FACDFC5E892377;
+struct Int32U5BU2CU2CU5D_t258DA82DACC50C444F05FFD250E7360558AD322D;
+struct Int64U5BU2CU2CU5D_t34C292D62D950BE089875853215BD96E26865243;
+struct SingleU5BU2CU2CU5D_t9FB63FBDE2078D789023A5352FF90CAE8934E087;
+struct BooleanU5BU2CU2CU2CU5D_t726941BA419881FF4F52693F9EA5204D8C8CE324;
+struct ByteU5BU2CU2CU2CU5D_tD548A6977C7ABB540B3A99B8C83F186C11C2B369;
+struct DoubleU5BU2CU2CU2CU5D_t01887E3704746B4CDB6A8D9C5C4CBFE05B10E84E;
+struct Int32U5BU2CU2CU2CU5D_tA9A143BF5A29BEAB00F094F71116FC298CE4B1AD;
+struct Int64U5BU2CU2CU2CU5D_tF16B36C2FD740C253BD0438B1FD74E644CFB7F54;
+struct SingleU5BU2CU2CU2CU5D_tD86B5ADE096220CB8F90FCCCCD1F68D7EA758FBB;
+struct BooleanU5BU2CU2CU2CU2CU5D_tFBF63C9984DC122A45C731EC4BDB96229AE2B30A;
+struct ByteU5BU2CU2CU2CU2CU5D_t15ABA1DF3C90C89DD4607E406B69CA1D8ECBEF14;
+struct DoubleU5BU2CU2CU2CU2CU5D_tC2EDD14450E0DFA6D467FA1777F2B66C5A436781;
+struct Int32U5BU2CU2CU2CU2CU5D_t6E137D70D4DE6780D0B80222B602FD2988CC2CFF;
+struct Int64U5BU2CU2CU2CU2CU5D_tEFF0668944AC7054D82960F91924820AAE2A4204;
+struct SingleU5BU2CU2CU2CU2CU5D_t3C5B14D791C6976B0E1A91CD65DEF34644CE379A;
+struct BooleanU5BU2CU2CU2CU2CU2CU5D_t8772F793C759B561BEC7C1251B73C3E692FEF88A;
+struct ByteU5BU2CU2CU2CU2CU2CU5D_t373BDFD6F3DBD2AE92ACDEEC9DE0DBD4B1A8589D;
+struct DoubleU5BU2CU2CU2CU2CU2CU5D_t56EB2FD21C3A21D5CD6C97AA03E09495BCFDFA31;
+struct Int32U5BU2CU2CU2CU2CU2CU5D_t2FDC7392B32CFE61709CCD947D2E62075C0D91D7;
+struct Int64U5BU2CU2CU2CU2CU2CU5D_tB0B5DAE45B4D3104E4CF4470775BFD7208D52461;
+struct SingleU5BU2CU2CU2CU2CU2CU5D_t38B18D295C7EEA416AB71938640EE561B27D5C3D;
+struct BooleanU5BU2CU2CU2CU2CU2CU2CU5D_t857ADE4AD2AD0C63A10FD2A9E51D219DB594B160;
+struct ByteU5BU2CU2CU2CU2CU2CU2CU5D_tA86163E75F1D8768AF7B70F8C5F928B28B1DA778;
+struct DoubleU5BU2CU2CU2CU2CU2CU2CU5D_t703B2AC808F5D475B599111F63E5F026C7BAB69B;
+struct Int32U5BU2CU2CU2CU2CU2CU2CU5D_t78507BA1C9DCB8919945720537823CCD5EF2E60B;
+struct Int64U5BU2CU2CU2CU2CU2CU2CU5D_t432DAE5A8688B2E4A912E62E004BBE13593372A7;
+struct SingleU5BU2CU2CU2CU2CU2CU2CU5D_tD52F6BE7884AEC6B76ADE1359786F26B8603F2C8;
+struct BooleanU5BU2CU2CU2CU2CU2CU2CU2CU5D_tBA4F384F835C86F2F58342EFD3BDE56DF7E7021A;
+struct ByteU5BU2CU2CU2CU2CU2CU2CU2CU5D_t2CCF461DE8700E93D307D38605DC599C5D5C35EC;
+struct DoubleU5BU2CU2CU2CU2CU2CU2CU2CU5D_tA1C59214723196DEAD31B72F5D09C63FC9B032C0;
+struct Int32U5BU2CU2CU2CU2CU2CU2CU2CU5D_t47AE6F9E41CB256086FFEC07ABC507E23CD38353;
+struct Int64U5BU2CU2CU2CU2CU2CU2CU2CU5D_t3A44FD4E5DABA049CBFED0026C5E6C0270FC0815;
+struct SingleU5BU2CU2CU2CU2CU2CU2CU2CU5D_t011998ED7A6EB237BFDD3ADE4B7116B39E970F62;
 
 IL2CPP_EXTERN_C_BEGIN
 IL2CPP_EXTERN_C_END
@@ -11394,6 +11527,797 @@ public:
 		m_Items[index] = value;
 	}
 };
+// System.Boolean[,,,,,,,]
+struct BooleanU5BU2CU2CU2CU2CU2CU2CU2CU5D_tBA4F384F835C86F2F58342EFD3BDE56DF7E7021A  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) bool m_Items[1];
+
+public:
+	inline bool GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline bool* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, bool value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline bool GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline bool* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, bool value)
+	{
+		m_Items[index] = value;
+	}
+	inline bool GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+		il2cpp_array_size_t pBound = bounds[7].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(p, pBound);
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		return m_Items[index];
+	}
+	inline bool* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+		il2cpp_array_size_t pBound = bounds[7].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(p, pBound);
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p, bool value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+		il2cpp_array_size_t pBound = bounds[7].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(p, pBound);
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		m_Items[index] = value;
+	}
+	inline bool GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+		il2cpp_array_size_t pBound = bounds[7].length;
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		return m_Items[index];
+	}
+	inline bool* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+		il2cpp_array_size_t pBound = bounds[7].length;
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p, bool value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+		il2cpp_array_size_t pBound = bounds[7].length;
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		m_Items[index] = value;
+	}
+};
+// System.Boolean[,,,,,,]
+struct BooleanU5BU2CU2CU2CU2CU2CU2CU5D_t857ADE4AD2AD0C63A10FD2A9E51D219DB594B160  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) bool m_Items[1];
+
+public:
+	inline bool GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline bool* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, bool value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline bool GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline bool* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, bool value)
+	{
+		m_Items[index] = value;
+	}
+	inline bool GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		return m_Items[index];
+	}
+	inline bool* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, bool value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		m_Items[index] = value;
+	}
+	inline bool GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		return m_Items[index];
+	}
+	inline bool* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, bool value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		m_Items[index] = value;
+	}
+};
+// System.Boolean[,,,,,]
+struct BooleanU5BU2CU2CU2CU2CU2CU5D_t8772F793C759B561BEC7C1251B73C3E692FEF88A  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) bool m_Items[1];
+
+public:
+	inline bool GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline bool* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, bool value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline bool GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline bool* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, bool value)
+	{
+		m_Items[index] = value;
+	}
+	inline bool GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		return m_Items[index];
+	}
+	inline bool* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, bool value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		m_Items[index] = value;
+	}
+	inline bool GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		return m_Items[index];
+	}
+	inline bool* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, bool value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		m_Items[index] = value;
+	}
+};
+// System.Boolean[,,,,]
+struct BooleanU5BU2CU2CU2CU2CU5D_tFBF63C9984DC122A45C731EC4BDB96229AE2B30A  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) bool m_Items[1];
+
+public:
+	inline bool GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline bool* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, bool value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline bool GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline bool* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, bool value)
+	{
+		m_Items[index] = value;
+	}
+	inline bool GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		return m_Items[index];
+	}
+	inline bool* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, bool value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		m_Items[index] = value;
+	}
+	inline bool GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		return m_Items[index];
+	}
+	inline bool* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, bool value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		m_Items[index] = value;
+	}
+};
+// System.Boolean[,,,]
+struct BooleanU5BU2CU2CU2CU5D_t726941BA419881FF4F52693F9EA5204D8C8CE324  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) bool m_Items[1];
+
+public:
+	inline bool GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline bool* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, bool value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline bool GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline bool* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, bool value)
+	{
+		m_Items[index] = value;
+	}
+	inline bool GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		return m_Items[index];
+	}
+	inline bool* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, bool value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		m_Items[index] = value;
+	}
+	inline bool GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		return m_Items[index];
+	}
+	inline bool* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, bool value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		m_Items[index] = value;
+	}
+};
+// System.Boolean[,,]
+struct BooleanU5BU2CU2CU5D_tB8F56EB24D5C42F188A3C72BFF48D9AC9B78E58B  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) bool m_Items[1];
+
+public:
+	inline bool GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline bool* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, bool value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline bool GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline bool* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, bool value)
+	{
+		m_Items[index] = value;
+	}
+	inline bool GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		return m_Items[index];
+	}
+	inline bool* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, bool value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		m_Items[index] = value;
+	}
+	inline bool GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		return m_Items[index];
+	}
+	inline bool* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, bool value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		m_Items[index] = value;
+	}
+};
+// System.Boolean[,]
+struct BooleanU5BU2CU5D_t75EC6BD827E1CC43B9F2D7F7BC761DF072D990C4  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) bool m_Items[1];
+
+public:
+	inline bool GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline bool* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, bool value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline bool GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline bool* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, bool value)
+	{
+		m_Items[index] = value;
+	}
+	inline bool GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+
+		il2cpp_array_size_t index = i * jBound + j;
+		return m_Items[index];
+	}
+	inline bool* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+
+		il2cpp_array_size_t index = i * jBound + j;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, bool value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+
+		il2cpp_array_size_t index = i * jBound + j;
+		m_Items[index] = value;
+	}
+	inline bool GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+
+		il2cpp_array_size_t index = i * jBound + j;
+		return m_Items[index];
+	}
+	inline bool* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+
+		il2cpp_array_size_t index = i * jBound + j;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, bool value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+
+		il2cpp_array_size_t index = i * jBound + j;
+		m_Items[index] = value;
+	}
+};
 // System.Boolean[]
 struct BooleanU5BU5D_tEC7BAF93C44F875016DAADC8696EE3A465644D3C  : public RuntimeArray
 {
@@ -11426,6 +12350,4066 @@ public:
 	}
 	inline void SetAtUnchecked(il2cpp_array_size_t index, bool value)
 	{
+		m_Items[index] = value;
+	}
+};
+// System.Byte[,,,,,,,]
+struct ByteU5BU2CU2CU2CU2CU2CU2CU2CU5D_t2CCF461DE8700E93D307D38605DC599C5D5C35EC  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) uint8_t m_Items[1];
+
+public:
+	inline uint8_t GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, uint8_t value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline uint8_t GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, uint8_t value)
+	{
+		m_Items[index] = value;
+	}
+	inline uint8_t GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+		il2cpp_array_size_t pBound = bounds[7].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(p, pBound);
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+		il2cpp_array_size_t pBound = bounds[7].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(p, pBound);
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p, uint8_t value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+		il2cpp_array_size_t pBound = bounds[7].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(p, pBound);
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		m_Items[index] = value;
+	}
+	inline uint8_t GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+		il2cpp_array_size_t pBound = bounds[7].length;
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+		il2cpp_array_size_t pBound = bounds[7].length;
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p, uint8_t value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+		il2cpp_array_size_t pBound = bounds[7].length;
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		m_Items[index] = value;
+	}
+};
+// System.Byte[,,,,,,]
+struct ByteU5BU2CU2CU2CU2CU2CU2CU5D_tA86163E75F1D8768AF7B70F8C5F928B28B1DA778  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) uint8_t m_Items[1];
+
+public:
+	inline uint8_t GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, uint8_t value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline uint8_t GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, uint8_t value)
+	{
+		m_Items[index] = value;
+	}
+	inline uint8_t GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, uint8_t value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		m_Items[index] = value;
+	}
+	inline uint8_t GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, uint8_t value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		m_Items[index] = value;
+	}
+};
+// System.Byte[,,,,,]
+struct ByteU5BU2CU2CU2CU2CU2CU5D_t373BDFD6F3DBD2AE92ACDEEC9DE0DBD4B1A8589D  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) uint8_t m_Items[1];
+
+public:
+	inline uint8_t GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, uint8_t value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline uint8_t GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, uint8_t value)
+	{
+		m_Items[index] = value;
+	}
+	inline uint8_t GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, uint8_t value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		m_Items[index] = value;
+	}
+	inline uint8_t GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, uint8_t value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		m_Items[index] = value;
+	}
+};
+// System.Byte[,,,,]
+struct ByteU5BU2CU2CU2CU2CU5D_t15ABA1DF3C90C89DD4607E406B69CA1D8ECBEF14  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) uint8_t m_Items[1];
+
+public:
+	inline uint8_t GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, uint8_t value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline uint8_t GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, uint8_t value)
+	{
+		m_Items[index] = value;
+	}
+	inline uint8_t GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, uint8_t value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		m_Items[index] = value;
+	}
+	inline uint8_t GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, uint8_t value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		m_Items[index] = value;
+	}
+};
+// System.Byte[,,,]
+struct ByteU5BU2CU2CU2CU5D_tD548A6977C7ABB540B3A99B8C83F186C11C2B369  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) uint8_t m_Items[1];
+
+public:
+	inline uint8_t GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, uint8_t value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline uint8_t GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, uint8_t value)
+	{
+		m_Items[index] = value;
+	}
+	inline uint8_t GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, uint8_t value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		m_Items[index] = value;
+	}
+	inline uint8_t GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, uint8_t value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		m_Items[index] = value;
+	}
+};
+// System.Byte[,,]
+struct ByteU5BU2CU2CU5D_tA5E8BC9B40EF8FB662F480D2F5E1C1E3BEF067FF  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) uint8_t m_Items[1];
+
+public:
+	inline uint8_t GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, uint8_t value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline uint8_t GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, uint8_t value)
+	{
+		m_Items[index] = value;
+	}
+	inline uint8_t GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, uint8_t value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		m_Items[index] = value;
+	}
+	inline uint8_t GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, uint8_t value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		m_Items[index] = value;
+	}
+};
+// System.Byte[,]
+struct ByteU5BU2CU5D_tFFA7E7CA82D7396BFF316C4BDB83D307E0CBBE0D  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) uint8_t m_Items[1];
+
+public:
+	inline uint8_t GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, uint8_t value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline uint8_t GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, uint8_t value)
+	{
+		m_Items[index] = value;
+	}
+	inline uint8_t GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+
+		il2cpp_array_size_t index = i * jBound + j;
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+
+		il2cpp_array_size_t index = i * jBound + j;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, uint8_t value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+
+		il2cpp_array_size_t index = i * jBound + j;
+		m_Items[index] = value;
+	}
+	inline uint8_t GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+
+		il2cpp_array_size_t index = i * jBound + j;
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+
+		il2cpp_array_size_t index = i * jBound + j;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, uint8_t value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+
+		il2cpp_array_size_t index = i * jBound + j;
+		m_Items[index] = value;
+	}
+};
+// System.Byte[]
+struct ByteU5BU5D_tDBBEB0E8362242FA7223000D978B0DD19D4B0726  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) uint8_t m_Items[1];
+
+public:
+	inline uint8_t GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, uint8_t value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline uint8_t GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, uint8_t value)
+	{
+		m_Items[index] = value;
+	}
+};
+// System.Double[,,,,,,,]
+struct DoubleU5BU2CU2CU2CU2CU2CU2CU2CU5D_tA1C59214723196DEAD31B72F5D09C63FC9B032C0  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) double m_Items[1];
+
+public:
+	inline double GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline double* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, double value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline double GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline double* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, double value)
+	{
+		m_Items[index] = value;
+	}
+	inline double GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+		il2cpp_array_size_t pBound = bounds[7].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(p, pBound);
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		return m_Items[index];
+	}
+	inline double* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+		il2cpp_array_size_t pBound = bounds[7].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(p, pBound);
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p, double value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+		il2cpp_array_size_t pBound = bounds[7].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(p, pBound);
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		m_Items[index] = value;
+	}
+	inline double GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+		il2cpp_array_size_t pBound = bounds[7].length;
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		return m_Items[index];
+	}
+	inline double* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+		il2cpp_array_size_t pBound = bounds[7].length;
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p, double value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+		il2cpp_array_size_t pBound = bounds[7].length;
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		m_Items[index] = value;
+	}
+};
+// System.Double[,,,,,,]
+struct DoubleU5BU2CU2CU2CU2CU2CU2CU5D_t703B2AC808F5D475B599111F63E5F026C7BAB69B  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) double m_Items[1];
+
+public:
+	inline double GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline double* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, double value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline double GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline double* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, double value)
+	{
+		m_Items[index] = value;
+	}
+	inline double GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		return m_Items[index];
+	}
+	inline double* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, double value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		m_Items[index] = value;
+	}
+	inline double GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		return m_Items[index];
+	}
+	inline double* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, double value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		m_Items[index] = value;
+	}
+};
+// System.Double[,,,,,]
+struct DoubleU5BU2CU2CU2CU2CU2CU5D_t56EB2FD21C3A21D5CD6C97AA03E09495BCFDFA31  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) double m_Items[1];
+
+public:
+	inline double GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline double* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, double value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline double GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline double* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, double value)
+	{
+		m_Items[index] = value;
+	}
+	inline double GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		return m_Items[index];
+	}
+	inline double* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, double value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		m_Items[index] = value;
+	}
+	inline double GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		return m_Items[index];
+	}
+	inline double* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, double value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		m_Items[index] = value;
+	}
+};
+// System.Double[,,,,]
+struct DoubleU5BU2CU2CU2CU2CU5D_tC2EDD14450E0DFA6D467FA1777F2B66C5A436781  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) double m_Items[1];
+
+public:
+	inline double GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline double* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, double value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline double GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline double* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, double value)
+	{
+		m_Items[index] = value;
+	}
+	inline double GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		return m_Items[index];
+	}
+	inline double* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, double value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		m_Items[index] = value;
+	}
+	inline double GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		return m_Items[index];
+	}
+	inline double* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, double value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		m_Items[index] = value;
+	}
+};
+// System.Double[,,,]
+struct DoubleU5BU2CU2CU2CU5D_t01887E3704746B4CDB6A8D9C5C4CBFE05B10E84E  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) double m_Items[1];
+
+public:
+	inline double GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline double* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, double value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline double GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline double* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, double value)
+	{
+		m_Items[index] = value;
+	}
+	inline double GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		return m_Items[index];
+	}
+	inline double* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, double value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		m_Items[index] = value;
+	}
+	inline double GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		return m_Items[index];
+	}
+	inline double* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, double value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		m_Items[index] = value;
+	}
+};
+// System.Double[,,]
+struct DoubleU5BU2CU2CU5D_t46270102086706B9089737D9B8FACDFC5E892377  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) double m_Items[1];
+
+public:
+	inline double GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline double* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, double value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline double GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline double* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, double value)
+	{
+		m_Items[index] = value;
+	}
+	inline double GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		return m_Items[index];
+	}
+	inline double* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, double value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		m_Items[index] = value;
+	}
+	inline double GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		return m_Items[index];
+	}
+	inline double* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, double value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		m_Items[index] = value;
+	}
+};
+// System.Double[,]
+struct DoubleU5BU2CU5D_t469708E84B24DAB3E509BDEC941060C69370193E  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) double m_Items[1];
+
+public:
+	inline double GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline double* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, double value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline double GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline double* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, double value)
+	{
+		m_Items[index] = value;
+	}
+	inline double GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+
+		il2cpp_array_size_t index = i * jBound + j;
+		return m_Items[index];
+	}
+	inline double* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+
+		il2cpp_array_size_t index = i * jBound + j;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, double value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+
+		il2cpp_array_size_t index = i * jBound + j;
+		m_Items[index] = value;
+	}
+	inline double GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+
+		il2cpp_array_size_t index = i * jBound + j;
+		return m_Items[index];
+	}
+	inline double* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+
+		il2cpp_array_size_t index = i * jBound + j;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, double value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+
+		il2cpp_array_size_t index = i * jBound + j;
+		m_Items[index] = value;
+	}
+};
+// System.Double[]
+struct DoubleU5BU5D_t8E1B42EB2ABB79FBD193A6B8C8D97A7CDE44A4FB  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) double m_Items[1];
+
+public:
+	inline double GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline double* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, double value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline double GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline double* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, double value)
+	{
+		m_Items[index] = value;
+	}
+};
+// System.Int32[,,,,,,,]
+struct Int32U5BU2CU2CU2CU2CU2CU2CU2CU5D_t47AE6F9E41CB256086FFEC07ABC507E23CD38353  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) int32_t m_Items[1];
+
+public:
+	inline int32_t GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline int32_t* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, int32_t value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline int32_t GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline int32_t* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, int32_t value)
+	{
+		m_Items[index] = value;
+	}
+	inline int32_t GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+		il2cpp_array_size_t pBound = bounds[7].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(p, pBound);
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		return m_Items[index];
+	}
+	inline int32_t* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+		il2cpp_array_size_t pBound = bounds[7].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(p, pBound);
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p, int32_t value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+		il2cpp_array_size_t pBound = bounds[7].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(p, pBound);
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		m_Items[index] = value;
+	}
+	inline int32_t GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+		il2cpp_array_size_t pBound = bounds[7].length;
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		return m_Items[index];
+	}
+	inline int32_t* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+		il2cpp_array_size_t pBound = bounds[7].length;
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p, int32_t value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+		il2cpp_array_size_t pBound = bounds[7].length;
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		m_Items[index] = value;
+	}
+};
+// System.Int32[,,,,,,]
+struct Int32U5BU2CU2CU2CU2CU2CU2CU5D_t78507BA1C9DCB8919945720537823CCD5EF2E60B  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) int32_t m_Items[1];
+
+public:
+	inline int32_t GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline int32_t* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, int32_t value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline int32_t GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline int32_t* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, int32_t value)
+	{
+		m_Items[index] = value;
+	}
+	inline int32_t GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		return m_Items[index];
+	}
+	inline int32_t* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, int32_t value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		m_Items[index] = value;
+	}
+	inline int32_t GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		return m_Items[index];
+	}
+	inline int32_t* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, int32_t value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		m_Items[index] = value;
+	}
+};
+// System.Int32[,,,,,]
+struct Int32U5BU2CU2CU2CU2CU2CU5D_t2FDC7392B32CFE61709CCD947D2E62075C0D91D7  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) int32_t m_Items[1];
+
+public:
+	inline int32_t GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline int32_t* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, int32_t value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline int32_t GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline int32_t* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, int32_t value)
+	{
+		m_Items[index] = value;
+	}
+	inline int32_t GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		return m_Items[index];
+	}
+	inline int32_t* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, int32_t value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		m_Items[index] = value;
+	}
+	inline int32_t GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		return m_Items[index];
+	}
+	inline int32_t* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, int32_t value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		m_Items[index] = value;
+	}
+};
+// System.Int32[,,,,]
+struct Int32U5BU2CU2CU2CU2CU5D_t6E137D70D4DE6780D0B80222B602FD2988CC2CFF  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) int32_t m_Items[1];
+
+public:
+	inline int32_t GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline int32_t* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, int32_t value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline int32_t GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline int32_t* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, int32_t value)
+	{
+		m_Items[index] = value;
+	}
+	inline int32_t GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		return m_Items[index];
+	}
+	inline int32_t* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, int32_t value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		m_Items[index] = value;
+	}
+	inline int32_t GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		return m_Items[index];
+	}
+	inline int32_t* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, int32_t value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		m_Items[index] = value;
+	}
+};
+// System.Int32[,,,]
+struct Int32U5BU2CU2CU2CU5D_tA9A143BF5A29BEAB00F094F71116FC298CE4B1AD  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) int32_t m_Items[1];
+
+public:
+	inline int32_t GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline int32_t* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, int32_t value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline int32_t GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline int32_t* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, int32_t value)
+	{
+		m_Items[index] = value;
+	}
+	inline int32_t GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		return m_Items[index];
+	}
+	inline int32_t* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, int32_t value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		m_Items[index] = value;
+	}
+	inline int32_t GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		return m_Items[index];
+	}
+	inline int32_t* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, int32_t value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		m_Items[index] = value;
+	}
+};
+// System.Int32[,,]
+struct Int32U5BU2CU2CU5D_t258DA82DACC50C444F05FFD250E7360558AD322D  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) int32_t m_Items[1];
+
+public:
+	inline int32_t GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline int32_t* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, int32_t value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline int32_t GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline int32_t* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, int32_t value)
+	{
+		m_Items[index] = value;
+	}
+	inline int32_t GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		return m_Items[index];
+	}
+	inline int32_t* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, int32_t value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		m_Items[index] = value;
+	}
+	inline int32_t GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		return m_Items[index];
+	}
+	inline int32_t* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, int32_t value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		m_Items[index] = value;
+	}
+};
+// System.Int32[,]
+struct Int32U5BU2CU5D_tE3A76A55C8E5F44FF4BA45CF035E89489936EE17  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) int32_t m_Items[1];
+
+public:
+	inline int32_t GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline int32_t* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, int32_t value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline int32_t GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline int32_t* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, int32_t value)
+	{
+		m_Items[index] = value;
+	}
+	inline int32_t GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+
+		il2cpp_array_size_t index = i * jBound + j;
+		return m_Items[index];
+	}
+	inline int32_t* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+
+		il2cpp_array_size_t index = i * jBound + j;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, int32_t value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+
+		il2cpp_array_size_t index = i * jBound + j;
+		m_Items[index] = value;
+	}
+	inline int32_t GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+
+		il2cpp_array_size_t index = i * jBound + j;
+		return m_Items[index];
+	}
+	inline int32_t* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+
+		il2cpp_array_size_t index = i * jBound + j;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, int32_t value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+
+		il2cpp_array_size_t index = i * jBound + j;
+		m_Items[index] = value;
+	}
+};
+// System.Int64[,,,,,,,]
+struct Int64U5BU2CU2CU2CU2CU2CU2CU2CU5D_t3A44FD4E5DABA049CBFED0026C5E6C0270FC0815  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) int64_t m_Items[1];
+
+public:
+	inline int64_t GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline int64_t* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, int64_t value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline int64_t GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline int64_t* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, int64_t value)
+	{
+		m_Items[index] = value;
+	}
+	inline int64_t GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+		il2cpp_array_size_t pBound = bounds[7].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(p, pBound);
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		return m_Items[index];
+	}
+	inline int64_t* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+		il2cpp_array_size_t pBound = bounds[7].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(p, pBound);
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p, int64_t value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+		il2cpp_array_size_t pBound = bounds[7].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(p, pBound);
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		m_Items[index] = value;
+	}
+	inline int64_t GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+		il2cpp_array_size_t pBound = bounds[7].length;
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		return m_Items[index];
+	}
+	inline int64_t* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+		il2cpp_array_size_t pBound = bounds[7].length;
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p, int64_t value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+		il2cpp_array_size_t pBound = bounds[7].length;
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		m_Items[index] = value;
+	}
+};
+// System.Int64[,,,,,,]
+struct Int64U5BU2CU2CU2CU2CU2CU2CU5D_t432DAE5A8688B2E4A912E62E004BBE13593372A7  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) int64_t m_Items[1];
+
+public:
+	inline int64_t GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline int64_t* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, int64_t value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline int64_t GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline int64_t* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, int64_t value)
+	{
+		m_Items[index] = value;
+	}
+	inline int64_t GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		return m_Items[index];
+	}
+	inline int64_t* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, int64_t value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		m_Items[index] = value;
+	}
+	inline int64_t GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		return m_Items[index];
+	}
+	inline int64_t* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, int64_t value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		m_Items[index] = value;
+	}
+};
+// System.Int64[,,,,,]
+struct Int64U5BU2CU2CU2CU2CU2CU5D_tB0B5DAE45B4D3104E4CF4470775BFD7208D52461  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) int64_t m_Items[1];
+
+public:
+	inline int64_t GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline int64_t* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, int64_t value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline int64_t GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline int64_t* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, int64_t value)
+	{
+		m_Items[index] = value;
+	}
+	inline int64_t GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		return m_Items[index];
+	}
+	inline int64_t* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, int64_t value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		m_Items[index] = value;
+	}
+	inline int64_t GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		return m_Items[index];
+	}
+	inline int64_t* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, int64_t value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		m_Items[index] = value;
+	}
+};
+// System.Int64[,,,,]
+struct Int64U5BU2CU2CU2CU2CU5D_tEFF0668944AC7054D82960F91924820AAE2A4204  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) int64_t m_Items[1];
+
+public:
+	inline int64_t GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline int64_t* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, int64_t value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline int64_t GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline int64_t* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, int64_t value)
+	{
+		m_Items[index] = value;
+	}
+	inline int64_t GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		return m_Items[index];
+	}
+	inline int64_t* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, int64_t value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		m_Items[index] = value;
+	}
+	inline int64_t GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		return m_Items[index];
+	}
+	inline int64_t* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, int64_t value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		m_Items[index] = value;
+	}
+};
+// System.Int64[,,,]
+struct Int64U5BU2CU2CU2CU5D_tF16B36C2FD740C253BD0438B1FD74E644CFB7F54  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) int64_t m_Items[1];
+
+public:
+	inline int64_t GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline int64_t* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, int64_t value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline int64_t GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline int64_t* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, int64_t value)
+	{
+		m_Items[index] = value;
+	}
+	inline int64_t GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		return m_Items[index];
+	}
+	inline int64_t* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, int64_t value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		m_Items[index] = value;
+	}
+	inline int64_t GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		return m_Items[index];
+	}
+	inline int64_t* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, int64_t value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		m_Items[index] = value;
+	}
+};
+// System.Int64[,,]
+struct Int64U5BU2CU2CU5D_t34C292D62D950BE089875853215BD96E26865243  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) int64_t m_Items[1];
+
+public:
+	inline int64_t GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline int64_t* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, int64_t value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline int64_t GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline int64_t* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, int64_t value)
+	{
+		m_Items[index] = value;
+	}
+	inline int64_t GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		return m_Items[index];
+	}
+	inline int64_t* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, int64_t value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		m_Items[index] = value;
+	}
+	inline int64_t GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		return m_Items[index];
+	}
+	inline int64_t* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, int64_t value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		m_Items[index] = value;
+	}
+};
+// System.Int64[,]
+struct Int64U5BU2CU5D_tEBB2AEAB267BE0C570FC32E17716C77AF3E75E4E  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) int64_t m_Items[1];
+
+public:
+	inline int64_t GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline int64_t* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, int64_t value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline int64_t GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline int64_t* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, int64_t value)
+	{
+		m_Items[index] = value;
+	}
+	inline int64_t GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+
+		il2cpp_array_size_t index = i * jBound + j;
+		return m_Items[index];
+	}
+	inline int64_t* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+
+		il2cpp_array_size_t index = i * jBound + j;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, int64_t value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+
+		il2cpp_array_size_t index = i * jBound + j;
+		m_Items[index] = value;
+	}
+	inline int64_t GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+
+		il2cpp_array_size_t index = i * jBound + j;
+		return m_Items[index];
+	}
+	inline int64_t* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+
+		il2cpp_array_size_t index = i * jBound + j;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, int64_t value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+
+		il2cpp_array_size_t index = i * jBound + j;
+		m_Items[index] = value;
+	}
+};
+// System.Int64[]
+struct Int64U5BU5D_tCA61E42872C63A4286B24EEE6E0650143B43DCE6  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) int64_t m_Items[1];
+
+public:
+	inline int64_t GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline int64_t* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, int64_t value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline int64_t GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline int64_t* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, int64_t value)
+	{
+		m_Items[index] = value;
+	}
+};
+// System.Single[,,,,,,,]
+struct SingleU5BU2CU2CU2CU2CU2CU2CU2CU5D_t011998ED7A6EB237BFDD3ADE4B7116B39E970F62  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) float m_Items[1];
+
+public:
+	inline float GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline float* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, float value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline float GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline float* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, float value)
+	{
+		m_Items[index] = value;
+	}
+	inline float GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+		il2cpp_array_size_t pBound = bounds[7].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(p, pBound);
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		return m_Items[index];
+	}
+	inline float* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+		il2cpp_array_size_t pBound = bounds[7].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(p, pBound);
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p, float value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+		il2cpp_array_size_t pBound = bounds[7].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(p, pBound);
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		m_Items[index] = value;
+	}
+	inline float GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+		il2cpp_array_size_t pBound = bounds[7].length;
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		return m_Items[index];
+	}
+	inline float* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+		il2cpp_array_size_t pBound = bounds[7].length;
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, il2cpp_array_size_t p, float value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+		il2cpp_array_size_t pBound = bounds[7].length;
+
+		il2cpp_array_size_t index = ((((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o) * pBound + p;
+		m_Items[index] = value;
+	}
+};
+// System.Single[,,,,,,]
+struct SingleU5BU2CU2CU2CU2CU2CU2CU5D_tD52F6BE7884AEC6B76ADE1359786F26B8603F2C8  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) float m_Items[1];
+
+public:
+	inline float GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline float* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, float value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline float GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline float* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, float value)
+	{
+		m_Items[index] = value;
+	}
+	inline float GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		return m_Items[index];
+	}
+	inline float* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, float value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+		il2cpp_array_size_t oBound = bounds[6].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(o, oBound);
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		m_Items[index] = value;
+	}
+	inline float GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		return m_Items[index];
+	}
+	inline float* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, il2cpp_array_size_t o, float value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+		il2cpp_array_size_t oBound = bounds[6].length;
+
+		il2cpp_array_size_t index = (((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n) * oBound + o;
+		m_Items[index] = value;
+	}
+};
+// System.Single[,,,,,]
+struct SingleU5BU2CU2CU2CU2CU2CU5D_t38B18D295C7EEA416AB71938640EE561B27D5C3D  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) float m_Items[1];
+
+public:
+	inline float GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline float* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, float value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline float GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline float* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, float value)
+	{
+		m_Items[index] = value;
+	}
+	inline float GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		return m_Items[index];
+	}
+	inline float* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, float value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+		il2cpp_array_size_t nBound = bounds[5].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(n, nBound);
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		m_Items[index] = value;
+	}
+	inline float GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		return m_Items[index];
+	}
+	inline float* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, il2cpp_array_size_t n, float value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+		il2cpp_array_size_t nBound = bounds[5].length;
+
+		il2cpp_array_size_t index = ((((i * jBound + j) * kBound + k) * lBound + l) * mBound + m) * nBound + n;
+		m_Items[index] = value;
+	}
+};
+// System.Single[,,,,]
+struct SingleU5BU2CU2CU2CU2CU5D_t3C5B14D791C6976B0E1A91CD65DEF34644CE379A  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) float m_Items[1];
+
+public:
+	inline float GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline float* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, float value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline float GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline float* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, float value)
+	{
+		m_Items[index] = value;
+	}
+	inline float GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		return m_Items[index];
+	}
+	inline float* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, float value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+		il2cpp_array_size_t mBound = bounds[4].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(m, mBound);
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		m_Items[index] = value;
+	}
+	inline float GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		return m_Items[index];
+	}
+	inline float* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, il2cpp_array_size_t m, float value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+		il2cpp_array_size_t mBound = bounds[4].length;
+
+		il2cpp_array_size_t index = (((i * jBound + j) * kBound + k) * lBound + l) * mBound + m;
+		m_Items[index] = value;
+	}
+};
+// System.Single[,,,]
+struct SingleU5BU2CU2CU2CU5D_tD86B5ADE096220CB8F90FCCCCD1F68D7EA758FBB  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) float m_Items[1];
+
+public:
+	inline float GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline float* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, float value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline float GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline float* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, float value)
+	{
+		m_Items[index] = value;
+	}
+	inline float GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		return m_Items[index];
+	}
+	inline float* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, float value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+		il2cpp_array_size_t lBound = bounds[3].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(l, lBound);
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		m_Items[index] = value;
+	}
+	inline float GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		return m_Items[index];
+	}
+	inline float* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, il2cpp_array_size_t l, float value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+		il2cpp_array_size_t lBound = bounds[3].length;
+
+		il2cpp_array_size_t index = ((i * jBound + j) * kBound + k) * lBound + l;
+		m_Items[index] = value;
+	}
+};
+// System.Single[,,]
+struct SingleU5BU2CU2CU5D_t9FB63FBDE2078D789023A5352FF90CAE8934E087  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) float m_Items[1];
+
+public:
+	inline float GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline float* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, float value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline float GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline float* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, float value)
+	{
+		m_Items[index] = value;
+	}
+	inline float GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		return m_Items[index];
+	}
+	inline float* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, float value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+		il2cpp_array_size_t kBound = bounds[2].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(k, kBound);
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		m_Items[index] = value;
+	}
+	inline float GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		return m_Items[index];
+	}
+	inline float* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, il2cpp_array_size_t k, float value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+		il2cpp_array_size_t kBound = bounds[2].length;
+
+		il2cpp_array_size_t index = (i * jBound + j) * kBound + k;
+		m_Items[index] = value;
+	}
+};
+// System.Single[,]
+struct SingleU5BU2CU5D_tC8145CABE3D285E5B2969DB657D4DE43A135BB43  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) float m_Items[1];
+
+public:
+	inline float GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline float* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, float value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline float GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline float* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, float value)
+	{
+		m_Items[index] = value;
+	}
+	inline float GetAt(il2cpp_array_size_t i, il2cpp_array_size_t j) const
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+
+		il2cpp_array_size_t index = i * jBound + j;
+		return m_Items[index];
+	}
+	inline float* GetAddressAt(il2cpp_array_size_t i, il2cpp_array_size_t j)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+
+		il2cpp_array_size_t index = i * jBound + j;
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t i, il2cpp_array_size_t j, float value)
+	{
+		il2cpp_array_size_t iBound = bounds[0].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(i, iBound);
+		il2cpp_array_size_t jBound = bounds[1].length;
+		IL2CPP_ARRAY_BOUNDS_CHECK(j, jBound);
+
+		il2cpp_array_size_t index = i * jBound + j;
+		m_Items[index] = value;
+	}
+	inline float GetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j) const
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+
+		il2cpp_array_size_t index = i * jBound + j;
+		return m_Items[index];
+	}
+	inline float* GetAddressAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+
+		il2cpp_array_size_t index = i * jBound + j;
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t i, il2cpp_array_size_t j, float value)
+	{
+		il2cpp_array_size_t jBound = bounds[1].length;
+
+		il2cpp_array_size_t index = i * jBound + j;
 		m_Items[index] = value;
 	}
 };
@@ -11470,12 +16454,18 @@ public:
 
 // System.Void NumSharp.Backends.Unmanaged.ArraySlice`1<System.Boolean>::.ctor(NumSharp.Backends.Unmanaged.UnmanagedMemoryBlock`1<T>)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ArraySlice_1__ctor_mB223EE258D802489DF3F7655514D75BB76370884_gshared (ArraySlice_1_tF0A699233DBEFA20C5CFAA929FE7B42F76F27A36 * __this, UnmanagedMemoryBlock_1_tE27806A4BDD914C5E213B1304BA255D685F11E97  ___memoryBlock0, const RuntimeMethod* method);
-// System.Void NumSharp.Backends.Unmanaged.ArraySlice`1<System.Int32>::.ctor(NumSharp.Backends.Unmanaged.UnmanagedMemoryBlock`1<T>)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ArraySlice_1__ctor_mF6C44B8E2FC9BE912CEFFA23A8377D6AC01D2D33_gshared (ArraySlice_1_t6797F8AB028DAD462B9DFD73032B56DF1D9C6A90 * __this, UnmanagedMemoryBlock_1_tE80266F90AA0609ADBBD1AC6780846208DD54163  ___memoryBlock0, const RuntimeMethod* method);
-// System.Void NumSharp.Backends.Unmanaged.ArraySlice`1<System.Boolean>::set_Item(System.Int32,T)
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void ArraySlice_1_set_Item_m850540AF3AF3D8B1E0835181EC5D67E1046E338E_gshared_inline (ArraySlice_1_tF0A699233DBEFA20C5CFAA929FE7B42F76F27A36 * __this, int32_t ___index0, bool ___value1, const RuntimeMethod* method);
+// System.Void NumSharp.Backends.Unmanaged.ArraySlice`1<System.Byte>::.ctor(NumSharp.Backends.Unmanaged.UnmanagedMemoryBlock`1<T>)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ArraySlice_1__ctor_m6A78CF7953CA293A19955CBAA85198C36D8E9C19_gshared (ArraySlice_1_t48D36CD750AD2239180B8034F22F9195152FC3E4 * __this, UnmanagedMemoryBlock_1_t0AD2E10DE36B3372ADFA6CC2CB6D3C5256D090CC  ___memoryBlock0, const RuntimeMethod* method);
 // System.Void NumSharp.Backends.Unmanaged.ArraySlice`1<System.Double>::.ctor(NumSharp.Backends.Unmanaged.UnmanagedMemoryBlock`1<T>)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ArraySlice_1__ctor_m7E73C363B7A5DEFF9636FE9E10770BF1BD455A9B_gshared (ArraySlice_1_tCD8BC72EA3819B9904C2C8EBF811BA4AEFF3E5B9 * __this, UnmanagedMemoryBlock_1_tD105C9B18EBD4DF1529888BE9023BA088EE7D368  ___memoryBlock0, const RuntimeMethod* method);
+// System.Void NumSharp.Backends.Unmanaged.ArraySlice`1<System.Int32>::.ctor(NumSharp.Backends.Unmanaged.UnmanagedMemoryBlock`1<T>)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ArraySlice_1__ctor_mF6C44B8E2FC9BE912CEFFA23A8377D6AC01D2D33_gshared (ArraySlice_1_t6797F8AB028DAD462B9DFD73032B56DF1D9C6A90 * __this, UnmanagedMemoryBlock_1_tE80266F90AA0609ADBBD1AC6780846208DD54163  ___memoryBlock0, const RuntimeMethod* method);
+// System.Void NumSharp.Backends.Unmanaged.ArraySlice`1<System.Int64>::.ctor(NumSharp.Backends.Unmanaged.UnmanagedMemoryBlock`1<T>)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ArraySlice_1__ctor_mF8C5B74CBD7E0951EB7464639D959BF63386D17E_gshared (ArraySlice_1_tEDE203995EEDF2900FADFB4629C0C8C9C8B8825B * __this, UnmanagedMemoryBlock_1_t0FCDD561A708D414BBBAF35E756BEC417C8A3CD0  ___memoryBlock0, const RuntimeMethod* method);
+// System.Void NumSharp.Backends.Unmanaged.ArraySlice`1<System.Single>::.ctor(NumSharp.Backends.Unmanaged.UnmanagedMemoryBlock`1<T>)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ArraySlice_1__ctor_mD528A2BFA88552262965515525F3841076FA9CAB_gshared (ArraySlice_1_tF8A960AFEC638F6BF9FDDED8E552B5D6E00F9520 * __this, UnmanagedMemoryBlock_1_t8CABF944C66E4CECFF865C637BD27B8DE0CCB97C  ___memoryBlock0, const RuntimeMethod* method);
+// System.Void NumSharp.Backends.Unmanaged.ArraySlice`1<System.Boolean>::set_Item(System.Int32,T)
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void ArraySlice_1_set_Item_m850540AF3AF3D8B1E0835181EC5D67E1046E338E_gshared_inline (ArraySlice_1_tF0A699233DBEFA20C5CFAA929FE7B42F76F27A36 * __this, int32_t ___index0, bool ___value1, const RuntimeMethod* method);
 // System.Void NumSharp.Backends.Unmanaged.ArraySlice`1<System.Double>::set_Item(System.Int32,T)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void ArraySlice_1_set_Item_mA3EA8248C647B47A06E7EF0F885F8EC8457B138B_gshared_inline (ArraySlice_1_tCD8BC72EA3819B9904C2C8EBF811BA4AEFF3E5B9 * __this, int32_t ___index0, double ___value1, const RuntimeMethod* method);
 // System.Void NumSharp.Backends.Unmanaged.ArraySlice`1<System.Int32>::set_Item(System.Int32,T)
@@ -11484,20 +16474,14 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void ArraySlice_1_set_Item_m7BA10
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UnmanagedMemoryBlock_1__ctor_m046C3A71635275C696B19820C6E49C441E5BADD7_gshared (UnmanagedMemoryBlock_1_tE27806A4BDD914C5E213B1304BA255D685F11E97 * __this, bool* ___ptr0, int64_t ___count1, const RuntimeMethod* method);
 // System.Void NumSharp.Backends.Unmanaged.UnmanagedMemoryBlock`1<System.Byte>::.ctor(T*,System.Int64)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UnmanagedMemoryBlock_1__ctor_m33BFB8FB6B81DC8815B2E0DC84880415EBF4BFB9_gshared (UnmanagedMemoryBlock_1_t0AD2E10DE36B3372ADFA6CC2CB6D3C5256D090CC * __this, uint8_t* ___ptr0, int64_t ___count1, const RuntimeMethod* method);
-// System.Void NumSharp.Backends.Unmanaged.ArraySlice`1<System.Byte>::.ctor(NumSharp.Backends.Unmanaged.UnmanagedMemoryBlock`1<T>)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ArraySlice_1__ctor_m6A78CF7953CA293A19955CBAA85198C36D8E9C19_gshared (ArraySlice_1_t48D36CD750AD2239180B8034F22F9195152FC3E4 * __this, UnmanagedMemoryBlock_1_t0AD2E10DE36B3372ADFA6CC2CB6D3C5256D090CC  ___memoryBlock0, const RuntimeMethod* method);
 // System.Void NumSharp.Backends.Unmanaged.UnmanagedMemoryBlock`1<System.Double>::.ctor(T*,System.Int64)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UnmanagedMemoryBlock_1__ctor_mB99E0D7957938B32891EB99D0FD884BC328A728B_gshared (UnmanagedMemoryBlock_1_tD105C9B18EBD4DF1529888BE9023BA088EE7D368 * __this, double* ___ptr0, int64_t ___count1, const RuntimeMethod* method);
 // System.Void NumSharp.Backends.Unmanaged.UnmanagedMemoryBlock`1<System.Int32>::.ctor(T*,System.Int64)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UnmanagedMemoryBlock_1__ctor_m327A54404BDC182BDB122D33C5B70F4257B23BF2_gshared (UnmanagedMemoryBlock_1_tE80266F90AA0609ADBBD1AC6780846208DD54163 * __this, int32_t* ___ptr0, int64_t ___count1, const RuntimeMethod* method);
 // System.Void NumSharp.Backends.Unmanaged.UnmanagedMemoryBlock`1<System.Int64>::.ctor(T*,System.Int64)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UnmanagedMemoryBlock_1__ctor_mF0C1DEEBB7F32413A4E57DBB21A8488E11AED846_gshared (UnmanagedMemoryBlock_1_t0FCDD561A708D414BBBAF35E756BEC417C8A3CD0 * __this, int64_t* ___ptr0, int64_t ___count1, const RuntimeMethod* method);
-// System.Void NumSharp.Backends.Unmanaged.ArraySlice`1<System.Int64>::.ctor(NumSharp.Backends.Unmanaged.UnmanagedMemoryBlock`1<T>)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ArraySlice_1__ctor_mF8C5B74CBD7E0951EB7464639D959BF63386D17E_gshared (ArraySlice_1_tEDE203995EEDF2900FADFB4629C0C8C9C8B8825B * __this, UnmanagedMemoryBlock_1_t0FCDD561A708D414BBBAF35E756BEC417C8A3CD0  ___memoryBlock0, const RuntimeMethod* method);
 // System.Void NumSharp.Backends.Unmanaged.UnmanagedMemoryBlock`1<System.Single>::.ctor(T*,System.Int64)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UnmanagedMemoryBlock_1__ctor_m4DD7B7FDBD1D877756755FA77BD769C95CE54D3E_gshared (UnmanagedMemoryBlock_1_t8CABF944C66E4CECFF865C637BD27B8DE0CCB97C * __this, float* ___ptr0, int64_t ___count1, const RuntimeMethod* method);
-// System.Void NumSharp.Backends.Unmanaged.ArraySlice`1<System.Single>::.ctor(NumSharp.Backends.Unmanaged.UnmanagedMemoryBlock`1<T>)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ArraySlice_1__ctor_mD528A2BFA88552262965515525F3841076FA9CAB_gshared (ArraySlice_1_tF8A960AFEC638F6BF9FDDED8E552B5D6E00F9520 * __this, UnmanagedMemoryBlock_1_t8CABF944C66E4CECFF865C637BD27B8DE0CCB97C  ___memoryBlock0, const RuntimeMethod* method);
 // System.Collections.Generic.Dictionary`2/Enumerator<!0,!1> System.Collections.Generic.Dictionary`2<System.Object,System.Object>::GetEnumerator()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Enumerator_tE4E91EE5578038530CF0C46227953BA787E7A0A0  Dictionary_2_GetEnumerator_mA44BBB15DFBD8E08B5E60E23AA5044D45C3F889F_gshared (Dictionary_2_tBD1E3221EBD04CEBDA49B84779912E91F56B958D * __this, const RuntimeMethod* method);
 // System.Collections.Generic.KeyValuePair`2<!0,!1> System.Collections.Generic.Dictionary`2/Enumerator<System.Object,System.Object>::get_Current()
@@ -11598,20 +16582,35 @@ inline void ArraySlice_1__ctor_mB223EE258D802489DF3F7655514D75BB76370884 (ArrayS
 {
 	((  void (*) (ArraySlice_1_tF0A699233DBEFA20C5CFAA929FE7B42F76F27A36 *, UnmanagedMemoryBlock_1_tE27806A4BDD914C5E213B1304BA255D685F11E97 , const RuntimeMethod*))ArraySlice_1__ctor_mB223EE258D802489DF3F7655514D75BB76370884_gshared)(__this, ___memoryBlock0, method);
 }
-// System.Void NumSharp.Backends.Unmanaged.ArraySlice`1<System.Int32>::.ctor(NumSharp.Backends.Unmanaged.UnmanagedMemoryBlock`1<T>)
-inline void ArraySlice_1__ctor_mF6C44B8E2FC9BE912CEFFA23A8377D6AC01D2D33 (ArraySlice_1_t6797F8AB028DAD462B9DFD73032B56DF1D9C6A90 * __this, UnmanagedMemoryBlock_1_tE80266F90AA0609ADBBD1AC6780846208DD54163  ___memoryBlock0, const RuntimeMethod* method)
+// System.Void NumSharp.Backends.Unmanaged.ArraySlice`1<System.Byte>::.ctor(NumSharp.Backends.Unmanaged.UnmanagedMemoryBlock`1<T>)
+inline void ArraySlice_1__ctor_m6A78CF7953CA293A19955CBAA85198C36D8E9C19 (ArraySlice_1_t48D36CD750AD2239180B8034F22F9195152FC3E4 * __this, UnmanagedMemoryBlock_1_t0AD2E10DE36B3372ADFA6CC2CB6D3C5256D090CC  ___memoryBlock0, const RuntimeMethod* method)
 {
-	((  void (*) (ArraySlice_1_t6797F8AB028DAD462B9DFD73032B56DF1D9C6A90 *, UnmanagedMemoryBlock_1_tE80266F90AA0609ADBBD1AC6780846208DD54163 , const RuntimeMethod*))ArraySlice_1__ctor_mF6C44B8E2FC9BE912CEFFA23A8377D6AC01D2D33_gshared)(__this, ___memoryBlock0, method);
-}
-// System.Void NumSharp.Backends.Unmanaged.ArraySlice`1<System.Boolean>::set_Item(System.Int32,T)
-inline void ArraySlice_1_set_Item_m850540AF3AF3D8B1E0835181EC5D67E1046E338E_inline (ArraySlice_1_tF0A699233DBEFA20C5CFAA929FE7B42F76F27A36 * __this, int32_t ___index0, bool ___value1, const RuntimeMethod* method)
-{
-	((  void (*) (ArraySlice_1_tF0A699233DBEFA20C5CFAA929FE7B42F76F27A36 *, int32_t, bool, const RuntimeMethod*))ArraySlice_1_set_Item_m850540AF3AF3D8B1E0835181EC5D67E1046E338E_gshared_inline)(__this, ___index0, ___value1, method);
+	((  void (*) (ArraySlice_1_t48D36CD750AD2239180B8034F22F9195152FC3E4 *, UnmanagedMemoryBlock_1_t0AD2E10DE36B3372ADFA6CC2CB6D3C5256D090CC , const RuntimeMethod*))ArraySlice_1__ctor_m6A78CF7953CA293A19955CBAA85198C36D8E9C19_gshared)(__this, ___memoryBlock0, method);
 }
 // System.Void NumSharp.Backends.Unmanaged.ArraySlice`1<System.Double>::.ctor(NumSharp.Backends.Unmanaged.UnmanagedMemoryBlock`1<T>)
 inline void ArraySlice_1__ctor_m7E73C363B7A5DEFF9636FE9E10770BF1BD455A9B (ArraySlice_1_tCD8BC72EA3819B9904C2C8EBF811BA4AEFF3E5B9 * __this, UnmanagedMemoryBlock_1_tD105C9B18EBD4DF1529888BE9023BA088EE7D368  ___memoryBlock0, const RuntimeMethod* method)
 {
 	((  void (*) (ArraySlice_1_tCD8BC72EA3819B9904C2C8EBF811BA4AEFF3E5B9 *, UnmanagedMemoryBlock_1_tD105C9B18EBD4DF1529888BE9023BA088EE7D368 , const RuntimeMethod*))ArraySlice_1__ctor_m7E73C363B7A5DEFF9636FE9E10770BF1BD455A9B_gshared)(__this, ___memoryBlock0, method);
+}
+// System.Void NumSharp.Backends.Unmanaged.ArraySlice`1<System.Int32>::.ctor(NumSharp.Backends.Unmanaged.UnmanagedMemoryBlock`1<T>)
+inline void ArraySlice_1__ctor_mF6C44B8E2FC9BE912CEFFA23A8377D6AC01D2D33 (ArraySlice_1_t6797F8AB028DAD462B9DFD73032B56DF1D9C6A90 * __this, UnmanagedMemoryBlock_1_tE80266F90AA0609ADBBD1AC6780846208DD54163  ___memoryBlock0, const RuntimeMethod* method)
+{
+	((  void (*) (ArraySlice_1_t6797F8AB028DAD462B9DFD73032B56DF1D9C6A90 *, UnmanagedMemoryBlock_1_tE80266F90AA0609ADBBD1AC6780846208DD54163 , const RuntimeMethod*))ArraySlice_1__ctor_mF6C44B8E2FC9BE912CEFFA23A8377D6AC01D2D33_gshared)(__this, ___memoryBlock0, method);
+}
+// System.Void NumSharp.Backends.Unmanaged.ArraySlice`1<System.Int64>::.ctor(NumSharp.Backends.Unmanaged.UnmanagedMemoryBlock`1<T>)
+inline void ArraySlice_1__ctor_mF8C5B74CBD7E0951EB7464639D959BF63386D17E (ArraySlice_1_tEDE203995EEDF2900FADFB4629C0C8C9C8B8825B * __this, UnmanagedMemoryBlock_1_t0FCDD561A708D414BBBAF35E756BEC417C8A3CD0  ___memoryBlock0, const RuntimeMethod* method)
+{
+	((  void (*) (ArraySlice_1_tEDE203995EEDF2900FADFB4629C0C8C9C8B8825B *, UnmanagedMemoryBlock_1_t0FCDD561A708D414BBBAF35E756BEC417C8A3CD0 , const RuntimeMethod*))ArraySlice_1__ctor_mF8C5B74CBD7E0951EB7464639D959BF63386D17E_gshared)(__this, ___memoryBlock0, method);
+}
+// System.Void NumSharp.Backends.Unmanaged.ArraySlice`1<System.Single>::.ctor(NumSharp.Backends.Unmanaged.UnmanagedMemoryBlock`1<T>)
+inline void ArraySlice_1__ctor_mD528A2BFA88552262965515525F3841076FA9CAB (ArraySlice_1_tF8A960AFEC638F6BF9FDDED8E552B5D6E00F9520 * __this, UnmanagedMemoryBlock_1_t8CABF944C66E4CECFF865C637BD27B8DE0CCB97C  ___memoryBlock0, const RuntimeMethod* method)
+{
+	((  void (*) (ArraySlice_1_tF8A960AFEC638F6BF9FDDED8E552B5D6E00F9520 *, UnmanagedMemoryBlock_1_t8CABF944C66E4CECFF865C637BD27B8DE0CCB97C , const RuntimeMethod*))ArraySlice_1__ctor_mD528A2BFA88552262965515525F3841076FA9CAB_gshared)(__this, ___memoryBlock0, method);
+}
+// System.Void NumSharp.Backends.Unmanaged.ArraySlice`1<System.Boolean>::set_Item(System.Int32,T)
+inline void ArraySlice_1_set_Item_m850540AF3AF3D8B1E0835181EC5D67E1046E338E_inline (ArraySlice_1_tF0A699233DBEFA20C5CFAA929FE7B42F76F27A36 * __this, int32_t ___index0, bool ___value1, const RuntimeMethod* method)
+{
+	((  void (*) (ArraySlice_1_tF0A699233DBEFA20C5CFAA929FE7B42F76F27A36 *, int32_t, bool, const RuntimeMethod*))ArraySlice_1_set_Item_m850540AF3AF3D8B1E0835181EC5D67E1046E338E_gshared_inline)(__this, ___index0, ___value1, method);
 }
 // System.Void NumSharp.Backends.Unmanaged.ArraySlice`1<System.Double>::set_Item(System.Int32,T)
 inline void ArraySlice_1_set_Item_mA3EA8248C647B47A06E7EF0F885F8EC8457B138B_inline (ArraySlice_1_tCD8BC72EA3819B9904C2C8EBF811BA4AEFF3E5B9 * __this, int32_t ___index0, double ___value1, const RuntimeMethod* method)
@@ -11633,11 +16632,6 @@ inline void UnmanagedMemoryBlock_1__ctor_m33BFB8FB6B81DC8815B2E0DC84880415EBF4BF
 {
 	((  void (*) (UnmanagedMemoryBlock_1_t0AD2E10DE36B3372ADFA6CC2CB6D3C5256D090CC *, uint8_t*, int64_t, const RuntimeMethod*))UnmanagedMemoryBlock_1__ctor_m33BFB8FB6B81DC8815B2E0DC84880415EBF4BFB9_gshared)(__this, ___ptr0, ___count1, method);
 }
-// System.Void NumSharp.Backends.Unmanaged.ArraySlice`1<System.Byte>::.ctor(NumSharp.Backends.Unmanaged.UnmanagedMemoryBlock`1<T>)
-inline void ArraySlice_1__ctor_m6A78CF7953CA293A19955CBAA85198C36D8E9C19 (ArraySlice_1_t48D36CD750AD2239180B8034F22F9195152FC3E4 * __this, UnmanagedMemoryBlock_1_t0AD2E10DE36B3372ADFA6CC2CB6D3C5256D090CC  ___memoryBlock0, const RuntimeMethod* method)
-{
-	((  void (*) (ArraySlice_1_t48D36CD750AD2239180B8034F22F9195152FC3E4 *, UnmanagedMemoryBlock_1_t0AD2E10DE36B3372ADFA6CC2CB6D3C5256D090CC , const RuntimeMethod*))ArraySlice_1__ctor_m6A78CF7953CA293A19955CBAA85198C36D8E9C19_gshared)(__this, ___memoryBlock0, method);
-}
 // System.Void NumSharp.Backends.Unmanaged.UnmanagedMemoryBlock`1<System.Double>::.ctor(T*,System.Int64)
 inline void UnmanagedMemoryBlock_1__ctor_mB99E0D7957938B32891EB99D0FD884BC328A728B (UnmanagedMemoryBlock_1_tD105C9B18EBD4DF1529888BE9023BA088EE7D368 * __this, double* ___ptr0, int64_t ___count1, const RuntimeMethod* method)
 {
@@ -11653,20 +16647,10 @@ inline void UnmanagedMemoryBlock_1__ctor_mF0C1DEEBB7F32413A4E57DBB21A8488E11AED8
 {
 	((  void (*) (UnmanagedMemoryBlock_1_t0FCDD561A708D414BBBAF35E756BEC417C8A3CD0 *, int64_t*, int64_t, const RuntimeMethod*))UnmanagedMemoryBlock_1__ctor_mF0C1DEEBB7F32413A4E57DBB21A8488E11AED846_gshared)(__this, ___ptr0, ___count1, method);
 }
-// System.Void NumSharp.Backends.Unmanaged.ArraySlice`1<System.Int64>::.ctor(NumSharp.Backends.Unmanaged.UnmanagedMemoryBlock`1<T>)
-inline void ArraySlice_1__ctor_mF8C5B74CBD7E0951EB7464639D959BF63386D17E (ArraySlice_1_tEDE203995EEDF2900FADFB4629C0C8C9C8B8825B * __this, UnmanagedMemoryBlock_1_t0FCDD561A708D414BBBAF35E756BEC417C8A3CD0  ___memoryBlock0, const RuntimeMethod* method)
-{
-	((  void (*) (ArraySlice_1_tEDE203995EEDF2900FADFB4629C0C8C9C8B8825B *, UnmanagedMemoryBlock_1_t0FCDD561A708D414BBBAF35E756BEC417C8A3CD0 , const RuntimeMethod*))ArraySlice_1__ctor_mF8C5B74CBD7E0951EB7464639D959BF63386D17E_gshared)(__this, ___memoryBlock0, method);
-}
 // System.Void NumSharp.Backends.Unmanaged.UnmanagedMemoryBlock`1<System.Single>::.ctor(T*,System.Int64)
 inline void UnmanagedMemoryBlock_1__ctor_m4DD7B7FDBD1D877756755FA77BD769C95CE54D3E (UnmanagedMemoryBlock_1_t8CABF944C66E4CECFF865C637BD27B8DE0CCB97C * __this, float* ___ptr0, int64_t ___count1, const RuntimeMethod* method)
 {
 	((  void (*) (UnmanagedMemoryBlock_1_t8CABF944C66E4CECFF865C637BD27B8DE0CCB97C *, float*, int64_t, const RuntimeMethod*))UnmanagedMemoryBlock_1__ctor_m4DD7B7FDBD1D877756755FA77BD769C95CE54D3E_gshared)(__this, ___ptr0, ___count1, method);
-}
-// System.Void NumSharp.Backends.Unmanaged.ArraySlice`1<System.Single>::.ctor(NumSharp.Backends.Unmanaged.UnmanagedMemoryBlock`1<T>)
-inline void ArraySlice_1__ctor_mD528A2BFA88552262965515525F3841076FA9CAB (ArraySlice_1_tF8A960AFEC638F6BF9FDDED8E552B5D6E00F9520 * __this, UnmanagedMemoryBlock_1_t8CABF944C66E4CECFF865C637BD27B8DE0CCB97C  ___memoryBlock0, const RuntimeMethod* method)
-{
-	((  void (*) (ArraySlice_1_tF8A960AFEC638F6BF9FDDED8E552B5D6E00F9520 *, UnmanagedMemoryBlock_1_t8CABF944C66E4CECFF865C637BD27B8DE0CCB97C , const RuntimeMethod*))ArraySlice_1__ctor_mD528A2BFA88552262965515525F3841076FA9CAB_gshared)(__this, ___memoryBlock0, method);
 }
 // System.Void System.Array::Copy(System.Array,System.Int32,System.Array,System.Int32,System.Int32)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Array_Copy_m3F127FFB5149532135043FFE285F9177C80CB877 (RuntimeArray * ___sourceArray0, int32_t ___sourceIndex1, RuntimeArray * ___destinationArray2, int32_t ___destinationIndex3, int32_t ___length4, const RuntimeMethod* method);
@@ -13915,6 +18899,104 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Array_UnsafeStore_TisRuntimeObject_m8149
 		return;
 	}
 }
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Boolean>(T[0...,0...,0...,0...,0...,0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_tF0A699233DBEFA20C5CFAA929FE7B42F76F27A36  ArraySlice_FromArray_TisBoolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37_mA701FFAD48D60A8AF2536AE829B74EB799CC385C_gshared (BooleanU5BU2CU2CU2CU2CU2CU2CU2CU5D_tBA4F384F835C86F2F58342EFD3BDE56DF7E7021A* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		BooleanU5BU2CU2CU2CU2CU2CU2CU2CU5D_tBA4F384F835C86F2F58342EFD3BDE56DF7E7021A* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_tE27806A4BDD914C5E213B1304BA255D685F11E97  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_tE27806A4BDD914C5E213B1304BA255D685F11E97  (*) (BooleanU5BU2CU2CU2CU2CU2CU2CU2CU5D_tBA4F384F835C86F2F58342EFD3BDE56DF7E7021A*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((BooleanU5BU2CU2CU2CU2CU2CU2CU2CU5D_tBA4F384F835C86F2F58342EFD3BDE56DF7E7021A*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_tF0A699233DBEFA20C5CFAA929FE7B42F76F27A36  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_mB223EE258D802489DF3F7655514D75BB76370884((&L_3), (UnmanagedMemoryBlock_1_tE27806A4BDD914C5E213B1304BA255D685F11E97 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_tF0A699233DBEFA20C5CFAA929FE7B42F76F27A36 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Boolean>(T[0...,0...,0...,0...,0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_tF0A699233DBEFA20C5CFAA929FE7B42F76F27A36  ArraySlice_FromArray_TisBoolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37_mB6C4BFFAA92710F4DCFAD11399415C353C87F937_gshared (BooleanU5BU2CU2CU2CU2CU2CU2CU5D_t857ADE4AD2AD0C63A10FD2A9E51D219DB594B160* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		BooleanU5BU2CU2CU2CU2CU2CU2CU5D_t857ADE4AD2AD0C63A10FD2A9E51D219DB594B160* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_tE27806A4BDD914C5E213B1304BA255D685F11E97  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_tE27806A4BDD914C5E213B1304BA255D685F11E97  (*) (BooleanU5BU2CU2CU2CU2CU2CU2CU5D_t857ADE4AD2AD0C63A10FD2A9E51D219DB594B160*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((BooleanU5BU2CU2CU2CU2CU2CU2CU5D_t857ADE4AD2AD0C63A10FD2A9E51D219DB594B160*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_tF0A699233DBEFA20C5CFAA929FE7B42F76F27A36  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_mB223EE258D802489DF3F7655514D75BB76370884((&L_3), (UnmanagedMemoryBlock_1_tE27806A4BDD914C5E213B1304BA255D685F11E97 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_tF0A699233DBEFA20C5CFAA929FE7B42F76F27A36 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Boolean>(T[0...,0...,0...,0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_tF0A699233DBEFA20C5CFAA929FE7B42F76F27A36  ArraySlice_FromArray_TisBoolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37_m7FA0ABD48330F2167AE0CECF0E6941DC45A00696_gshared (BooleanU5BU2CU2CU2CU2CU2CU5D_t8772F793C759B561BEC7C1251B73C3E692FEF88A* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		BooleanU5BU2CU2CU2CU2CU2CU5D_t8772F793C759B561BEC7C1251B73C3E692FEF88A* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_tE27806A4BDD914C5E213B1304BA255D685F11E97  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_tE27806A4BDD914C5E213B1304BA255D685F11E97  (*) (BooleanU5BU2CU2CU2CU2CU2CU5D_t8772F793C759B561BEC7C1251B73C3E692FEF88A*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((BooleanU5BU2CU2CU2CU2CU2CU5D_t8772F793C759B561BEC7C1251B73C3E692FEF88A*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_tF0A699233DBEFA20C5CFAA929FE7B42F76F27A36  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_mB223EE258D802489DF3F7655514D75BB76370884((&L_3), (UnmanagedMemoryBlock_1_tE27806A4BDD914C5E213B1304BA255D685F11E97 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_tF0A699233DBEFA20C5CFAA929FE7B42F76F27A36 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Boolean>(T[0...,0...,0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_tF0A699233DBEFA20C5CFAA929FE7B42F76F27A36  ArraySlice_FromArray_TisBoolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37_mB055C171B95D2D338E2941099F1E469C57F690DD_gshared (BooleanU5BU2CU2CU2CU2CU5D_tFBF63C9984DC122A45C731EC4BDB96229AE2B30A* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		BooleanU5BU2CU2CU2CU2CU5D_tFBF63C9984DC122A45C731EC4BDB96229AE2B30A* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_tE27806A4BDD914C5E213B1304BA255D685F11E97  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_tE27806A4BDD914C5E213B1304BA255D685F11E97  (*) (BooleanU5BU2CU2CU2CU2CU5D_tFBF63C9984DC122A45C731EC4BDB96229AE2B30A*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((BooleanU5BU2CU2CU2CU2CU5D_tFBF63C9984DC122A45C731EC4BDB96229AE2B30A*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_tF0A699233DBEFA20C5CFAA929FE7B42F76F27A36  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_mB223EE258D802489DF3F7655514D75BB76370884((&L_3), (UnmanagedMemoryBlock_1_tE27806A4BDD914C5E213B1304BA255D685F11E97 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_tF0A699233DBEFA20C5CFAA929FE7B42F76F27A36 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Boolean>(T[0...,0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_tF0A699233DBEFA20C5CFAA929FE7B42F76F27A36  ArraySlice_FromArray_TisBoolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37_m9B0BC4348DD66504753C77FA2F39DFCC58C205BC_gshared (BooleanU5BU2CU2CU2CU5D_t726941BA419881FF4F52693F9EA5204D8C8CE324* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		BooleanU5BU2CU2CU2CU5D_t726941BA419881FF4F52693F9EA5204D8C8CE324* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_tE27806A4BDD914C5E213B1304BA255D685F11E97  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_tE27806A4BDD914C5E213B1304BA255D685F11E97  (*) (BooleanU5BU2CU2CU2CU5D_t726941BA419881FF4F52693F9EA5204D8C8CE324*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((BooleanU5BU2CU2CU2CU5D_t726941BA419881FF4F52693F9EA5204D8C8CE324*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_tF0A699233DBEFA20C5CFAA929FE7B42F76F27A36  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_mB223EE258D802489DF3F7655514D75BB76370884((&L_3), (UnmanagedMemoryBlock_1_tE27806A4BDD914C5E213B1304BA255D685F11E97 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_tF0A699233DBEFA20C5CFAA929FE7B42F76F27A36 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Boolean>(T[0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_tF0A699233DBEFA20C5CFAA929FE7B42F76F27A36  ArraySlice_FromArray_TisBoolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37_mE218CF7753DD8A4C8FF23C9FFABF123DD6FE6A1F_gshared (BooleanU5BU2CU2CU5D_tB8F56EB24D5C42F188A3C72BFF48D9AC9B78E58B* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		BooleanU5BU2CU2CU5D_tB8F56EB24D5C42F188A3C72BFF48D9AC9B78E58B* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_tE27806A4BDD914C5E213B1304BA255D685F11E97  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_tE27806A4BDD914C5E213B1304BA255D685F11E97  (*) (BooleanU5BU2CU2CU5D_tB8F56EB24D5C42F188A3C72BFF48D9AC9B78E58B*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((BooleanU5BU2CU2CU5D_tB8F56EB24D5C42F188A3C72BFF48D9AC9B78E58B*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_tF0A699233DBEFA20C5CFAA929FE7B42F76F27A36  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_mB223EE258D802489DF3F7655514D75BB76370884((&L_3), (UnmanagedMemoryBlock_1_tE27806A4BDD914C5E213B1304BA255D685F11E97 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_tF0A699233DBEFA20C5CFAA929FE7B42F76F27A36 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Boolean>(T[0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_tF0A699233DBEFA20C5CFAA929FE7B42F76F27A36  ArraySlice_FromArray_TisBoolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37_mB198422D2E76E3301E0A644DB77CDD0C2521FCCE_gshared (BooleanU5BU2CU5D_t75EC6BD827E1CC43B9F2D7F7BC761DF072D990C4* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		BooleanU5BU2CU5D_t75EC6BD827E1CC43B9F2D7F7BC761DF072D990C4* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_tE27806A4BDD914C5E213B1304BA255D685F11E97  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_tE27806A4BDD914C5E213B1304BA255D685F11E97  (*) (BooleanU5BU2CU5D_t75EC6BD827E1CC43B9F2D7F7BC761DF072D990C4*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((BooleanU5BU2CU5D_t75EC6BD827E1CC43B9F2D7F7BC761DF072D990C4*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_tF0A699233DBEFA20C5CFAA929FE7B42F76F27A36  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_mB223EE258D802489DF3F7655514D75BB76370884((&L_3), (UnmanagedMemoryBlock_1_tE27806A4BDD914C5E213B1304BA255D685F11E97 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_tF0A699233DBEFA20C5CFAA929FE7B42F76F27A36 )L_3;
+	}
+}
 // NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Boolean>(T[],System.Boolean)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_tF0A699233DBEFA20C5CFAA929FE7B42F76F27A36  ArraySlice_FromArray_TisBoolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37_mAD4C6AC5853D7268D2D0AA948B58D8FF385927AA_gshared (BooleanU5BU5D_tEC7BAF93C44F875016DAADC8696EE3A465644D3C* ___array0, bool ___copy1, const RuntimeMethod* method)
 {
@@ -13929,6 +19011,328 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_tF0A699233DBEFA20C5CFAA929FE7B42
 		return (ArraySlice_1_tF0A699233DBEFA20C5CFAA929FE7B42F76F27A36 )L_3;
 	}
 }
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Byte>(T[0...,0...,0...,0...,0...,0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_t48D36CD750AD2239180B8034F22F9195152FC3E4  ArraySlice_FromArray_TisByte_t0111FAB8B8685667EDDAF77683F0D8F86B659056_m8E66FD0CD026F8F72FA36B14DAEFC110FF138597_gshared (ByteU5BU2CU2CU2CU2CU2CU2CU2CU5D_t2CCF461DE8700E93D307D38605DC599C5D5C35EC* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		ByteU5BU2CU2CU2CU2CU2CU2CU2CU5D_t2CCF461DE8700E93D307D38605DC599C5D5C35EC* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_t0AD2E10DE36B3372ADFA6CC2CB6D3C5256D090CC  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_t0AD2E10DE36B3372ADFA6CC2CB6D3C5256D090CC  (*) (ByteU5BU2CU2CU2CU2CU2CU2CU2CU5D_t2CCF461DE8700E93D307D38605DC599C5D5C35EC*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((ByteU5BU2CU2CU2CU2CU2CU2CU2CU5D_t2CCF461DE8700E93D307D38605DC599C5D5C35EC*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_t48D36CD750AD2239180B8034F22F9195152FC3E4  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_m6A78CF7953CA293A19955CBAA85198C36D8E9C19((&L_3), (UnmanagedMemoryBlock_1_t0AD2E10DE36B3372ADFA6CC2CB6D3C5256D090CC )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_t48D36CD750AD2239180B8034F22F9195152FC3E4 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Byte>(T[0...,0...,0...,0...,0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_t48D36CD750AD2239180B8034F22F9195152FC3E4  ArraySlice_FromArray_TisByte_t0111FAB8B8685667EDDAF77683F0D8F86B659056_m62BA8899A00A2133924049AF78D4ECEF96BD0F01_gshared (ByteU5BU2CU2CU2CU2CU2CU2CU5D_tA86163E75F1D8768AF7B70F8C5F928B28B1DA778* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		ByteU5BU2CU2CU2CU2CU2CU2CU5D_tA86163E75F1D8768AF7B70F8C5F928B28B1DA778* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_t0AD2E10DE36B3372ADFA6CC2CB6D3C5256D090CC  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_t0AD2E10DE36B3372ADFA6CC2CB6D3C5256D090CC  (*) (ByteU5BU2CU2CU2CU2CU2CU2CU5D_tA86163E75F1D8768AF7B70F8C5F928B28B1DA778*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((ByteU5BU2CU2CU2CU2CU2CU2CU5D_tA86163E75F1D8768AF7B70F8C5F928B28B1DA778*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_t48D36CD750AD2239180B8034F22F9195152FC3E4  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_m6A78CF7953CA293A19955CBAA85198C36D8E9C19((&L_3), (UnmanagedMemoryBlock_1_t0AD2E10DE36B3372ADFA6CC2CB6D3C5256D090CC )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_t48D36CD750AD2239180B8034F22F9195152FC3E4 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Byte>(T[0...,0...,0...,0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_t48D36CD750AD2239180B8034F22F9195152FC3E4  ArraySlice_FromArray_TisByte_t0111FAB8B8685667EDDAF77683F0D8F86B659056_m192EB06B382376990B0CBD7825F1449EA9C9ED97_gshared (ByteU5BU2CU2CU2CU2CU2CU5D_t373BDFD6F3DBD2AE92ACDEEC9DE0DBD4B1A8589D* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		ByteU5BU2CU2CU2CU2CU2CU5D_t373BDFD6F3DBD2AE92ACDEEC9DE0DBD4B1A8589D* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_t0AD2E10DE36B3372ADFA6CC2CB6D3C5256D090CC  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_t0AD2E10DE36B3372ADFA6CC2CB6D3C5256D090CC  (*) (ByteU5BU2CU2CU2CU2CU2CU5D_t373BDFD6F3DBD2AE92ACDEEC9DE0DBD4B1A8589D*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((ByteU5BU2CU2CU2CU2CU2CU5D_t373BDFD6F3DBD2AE92ACDEEC9DE0DBD4B1A8589D*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_t48D36CD750AD2239180B8034F22F9195152FC3E4  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_m6A78CF7953CA293A19955CBAA85198C36D8E9C19((&L_3), (UnmanagedMemoryBlock_1_t0AD2E10DE36B3372ADFA6CC2CB6D3C5256D090CC )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_t48D36CD750AD2239180B8034F22F9195152FC3E4 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Byte>(T[0...,0...,0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_t48D36CD750AD2239180B8034F22F9195152FC3E4  ArraySlice_FromArray_TisByte_t0111FAB8B8685667EDDAF77683F0D8F86B659056_m34848B1717C595604BCC0074A4CDE9622C517EA7_gshared (ByteU5BU2CU2CU2CU2CU5D_t15ABA1DF3C90C89DD4607E406B69CA1D8ECBEF14* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		ByteU5BU2CU2CU2CU2CU5D_t15ABA1DF3C90C89DD4607E406B69CA1D8ECBEF14* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_t0AD2E10DE36B3372ADFA6CC2CB6D3C5256D090CC  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_t0AD2E10DE36B3372ADFA6CC2CB6D3C5256D090CC  (*) (ByteU5BU2CU2CU2CU2CU5D_t15ABA1DF3C90C89DD4607E406B69CA1D8ECBEF14*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((ByteU5BU2CU2CU2CU2CU5D_t15ABA1DF3C90C89DD4607E406B69CA1D8ECBEF14*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_t48D36CD750AD2239180B8034F22F9195152FC3E4  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_m6A78CF7953CA293A19955CBAA85198C36D8E9C19((&L_3), (UnmanagedMemoryBlock_1_t0AD2E10DE36B3372ADFA6CC2CB6D3C5256D090CC )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_t48D36CD750AD2239180B8034F22F9195152FC3E4 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Byte>(T[0...,0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_t48D36CD750AD2239180B8034F22F9195152FC3E4  ArraySlice_FromArray_TisByte_t0111FAB8B8685667EDDAF77683F0D8F86B659056_mC630CCBB3E5833E9625B43ED70C373B4D4D624F7_gshared (ByteU5BU2CU2CU2CU5D_tD548A6977C7ABB540B3A99B8C83F186C11C2B369* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		ByteU5BU2CU2CU2CU5D_tD548A6977C7ABB540B3A99B8C83F186C11C2B369* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_t0AD2E10DE36B3372ADFA6CC2CB6D3C5256D090CC  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_t0AD2E10DE36B3372ADFA6CC2CB6D3C5256D090CC  (*) (ByteU5BU2CU2CU2CU5D_tD548A6977C7ABB540B3A99B8C83F186C11C2B369*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((ByteU5BU2CU2CU2CU5D_tD548A6977C7ABB540B3A99B8C83F186C11C2B369*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_t48D36CD750AD2239180B8034F22F9195152FC3E4  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_m6A78CF7953CA293A19955CBAA85198C36D8E9C19((&L_3), (UnmanagedMemoryBlock_1_t0AD2E10DE36B3372ADFA6CC2CB6D3C5256D090CC )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_t48D36CD750AD2239180B8034F22F9195152FC3E4 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Byte>(T[0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_t48D36CD750AD2239180B8034F22F9195152FC3E4  ArraySlice_FromArray_TisByte_t0111FAB8B8685667EDDAF77683F0D8F86B659056_mD2927FD333CD47FB4A460F46D71B9575C0750915_gshared (ByteU5BU2CU2CU5D_tA5E8BC9B40EF8FB662F480D2F5E1C1E3BEF067FF* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		ByteU5BU2CU2CU5D_tA5E8BC9B40EF8FB662F480D2F5E1C1E3BEF067FF* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_t0AD2E10DE36B3372ADFA6CC2CB6D3C5256D090CC  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_t0AD2E10DE36B3372ADFA6CC2CB6D3C5256D090CC  (*) (ByteU5BU2CU2CU5D_tA5E8BC9B40EF8FB662F480D2F5E1C1E3BEF067FF*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((ByteU5BU2CU2CU5D_tA5E8BC9B40EF8FB662F480D2F5E1C1E3BEF067FF*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_t48D36CD750AD2239180B8034F22F9195152FC3E4  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_m6A78CF7953CA293A19955CBAA85198C36D8E9C19((&L_3), (UnmanagedMemoryBlock_1_t0AD2E10DE36B3372ADFA6CC2CB6D3C5256D090CC )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_t48D36CD750AD2239180B8034F22F9195152FC3E4 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Byte>(T[0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_t48D36CD750AD2239180B8034F22F9195152FC3E4  ArraySlice_FromArray_TisByte_t0111FAB8B8685667EDDAF77683F0D8F86B659056_m9D96112E1A6BCDA02A38B36189C4A972CFC17AB2_gshared (ByteU5BU2CU5D_tFFA7E7CA82D7396BFF316C4BDB83D307E0CBBE0D* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		ByteU5BU2CU5D_tFFA7E7CA82D7396BFF316C4BDB83D307E0CBBE0D* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_t0AD2E10DE36B3372ADFA6CC2CB6D3C5256D090CC  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_t0AD2E10DE36B3372ADFA6CC2CB6D3C5256D090CC  (*) (ByteU5BU2CU5D_tFFA7E7CA82D7396BFF316C4BDB83D307E0CBBE0D*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((ByteU5BU2CU5D_tFFA7E7CA82D7396BFF316C4BDB83D307E0CBBE0D*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_t48D36CD750AD2239180B8034F22F9195152FC3E4  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_m6A78CF7953CA293A19955CBAA85198C36D8E9C19((&L_3), (UnmanagedMemoryBlock_1_t0AD2E10DE36B3372ADFA6CC2CB6D3C5256D090CC )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_t48D36CD750AD2239180B8034F22F9195152FC3E4 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Byte>(T[],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_t48D36CD750AD2239180B8034F22F9195152FC3E4  ArraySlice_FromArray_TisByte_t0111FAB8B8685667EDDAF77683F0D8F86B659056_m450077AE0586622B65CEA17955D756C51289C0E6_gshared (ByteU5BU5D_tDBBEB0E8362242FA7223000D978B0DD19D4B0726* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		ByteU5BU5D_tDBBEB0E8362242FA7223000D978B0DD19D4B0726* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_t0AD2E10DE36B3372ADFA6CC2CB6D3C5256D090CC  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_t0AD2E10DE36B3372ADFA6CC2CB6D3C5256D090CC  (*) (ByteU5BU5D_tDBBEB0E8362242FA7223000D978B0DD19D4B0726*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((ByteU5BU5D_tDBBEB0E8362242FA7223000D978B0DD19D4B0726*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_t48D36CD750AD2239180B8034F22F9195152FC3E4  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_m6A78CF7953CA293A19955CBAA85198C36D8E9C19((&L_3), (UnmanagedMemoryBlock_1_t0AD2E10DE36B3372ADFA6CC2CB6D3C5256D090CC )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_t48D36CD750AD2239180B8034F22F9195152FC3E4 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Double>(T[0...,0...,0...,0...,0...,0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_tCD8BC72EA3819B9904C2C8EBF811BA4AEFF3E5B9  ArraySlice_FromArray_TisDouble_t42821932CB52DE2057E685D0E1AF3DE5033D2181_m38E1DE00A42C8B56DA875D16B9E24DDE90F10CED_gshared (DoubleU5BU2CU2CU2CU2CU2CU2CU2CU5D_tA1C59214723196DEAD31B72F5D09C63FC9B032C0* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		DoubleU5BU2CU2CU2CU2CU2CU2CU2CU5D_tA1C59214723196DEAD31B72F5D09C63FC9B032C0* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_tD105C9B18EBD4DF1529888BE9023BA088EE7D368  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_tD105C9B18EBD4DF1529888BE9023BA088EE7D368  (*) (DoubleU5BU2CU2CU2CU2CU2CU2CU2CU5D_tA1C59214723196DEAD31B72F5D09C63FC9B032C0*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((DoubleU5BU2CU2CU2CU2CU2CU2CU2CU5D_tA1C59214723196DEAD31B72F5D09C63FC9B032C0*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_tCD8BC72EA3819B9904C2C8EBF811BA4AEFF3E5B9  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_m7E73C363B7A5DEFF9636FE9E10770BF1BD455A9B((&L_3), (UnmanagedMemoryBlock_1_tD105C9B18EBD4DF1529888BE9023BA088EE7D368 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_tCD8BC72EA3819B9904C2C8EBF811BA4AEFF3E5B9 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Double>(T[0...,0...,0...,0...,0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_tCD8BC72EA3819B9904C2C8EBF811BA4AEFF3E5B9  ArraySlice_FromArray_TisDouble_t42821932CB52DE2057E685D0E1AF3DE5033D2181_m460C4BF2485F5CDBCCFBE895C2CA6B6BA78B092B_gshared (DoubleU5BU2CU2CU2CU2CU2CU2CU5D_t703B2AC808F5D475B599111F63E5F026C7BAB69B* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		DoubleU5BU2CU2CU2CU2CU2CU2CU5D_t703B2AC808F5D475B599111F63E5F026C7BAB69B* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_tD105C9B18EBD4DF1529888BE9023BA088EE7D368  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_tD105C9B18EBD4DF1529888BE9023BA088EE7D368  (*) (DoubleU5BU2CU2CU2CU2CU2CU2CU5D_t703B2AC808F5D475B599111F63E5F026C7BAB69B*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((DoubleU5BU2CU2CU2CU2CU2CU2CU5D_t703B2AC808F5D475B599111F63E5F026C7BAB69B*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_tCD8BC72EA3819B9904C2C8EBF811BA4AEFF3E5B9  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_m7E73C363B7A5DEFF9636FE9E10770BF1BD455A9B((&L_3), (UnmanagedMemoryBlock_1_tD105C9B18EBD4DF1529888BE9023BA088EE7D368 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_tCD8BC72EA3819B9904C2C8EBF811BA4AEFF3E5B9 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Double>(T[0...,0...,0...,0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_tCD8BC72EA3819B9904C2C8EBF811BA4AEFF3E5B9  ArraySlice_FromArray_TisDouble_t42821932CB52DE2057E685D0E1AF3DE5033D2181_m0E89CDA6874F0A9065EA055767FC545D2317B3B3_gshared (DoubleU5BU2CU2CU2CU2CU2CU5D_t56EB2FD21C3A21D5CD6C97AA03E09495BCFDFA31* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		DoubleU5BU2CU2CU2CU2CU2CU5D_t56EB2FD21C3A21D5CD6C97AA03E09495BCFDFA31* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_tD105C9B18EBD4DF1529888BE9023BA088EE7D368  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_tD105C9B18EBD4DF1529888BE9023BA088EE7D368  (*) (DoubleU5BU2CU2CU2CU2CU2CU5D_t56EB2FD21C3A21D5CD6C97AA03E09495BCFDFA31*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((DoubleU5BU2CU2CU2CU2CU2CU5D_t56EB2FD21C3A21D5CD6C97AA03E09495BCFDFA31*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_tCD8BC72EA3819B9904C2C8EBF811BA4AEFF3E5B9  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_m7E73C363B7A5DEFF9636FE9E10770BF1BD455A9B((&L_3), (UnmanagedMemoryBlock_1_tD105C9B18EBD4DF1529888BE9023BA088EE7D368 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_tCD8BC72EA3819B9904C2C8EBF811BA4AEFF3E5B9 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Double>(T[0...,0...,0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_tCD8BC72EA3819B9904C2C8EBF811BA4AEFF3E5B9  ArraySlice_FromArray_TisDouble_t42821932CB52DE2057E685D0E1AF3DE5033D2181_mEB26C1B98C12DEAA9B6C967A8EB46BE8E889F5B9_gshared (DoubleU5BU2CU2CU2CU2CU5D_tC2EDD14450E0DFA6D467FA1777F2B66C5A436781* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		DoubleU5BU2CU2CU2CU2CU5D_tC2EDD14450E0DFA6D467FA1777F2B66C5A436781* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_tD105C9B18EBD4DF1529888BE9023BA088EE7D368  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_tD105C9B18EBD4DF1529888BE9023BA088EE7D368  (*) (DoubleU5BU2CU2CU2CU2CU5D_tC2EDD14450E0DFA6D467FA1777F2B66C5A436781*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((DoubleU5BU2CU2CU2CU2CU5D_tC2EDD14450E0DFA6D467FA1777F2B66C5A436781*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_tCD8BC72EA3819B9904C2C8EBF811BA4AEFF3E5B9  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_m7E73C363B7A5DEFF9636FE9E10770BF1BD455A9B((&L_3), (UnmanagedMemoryBlock_1_tD105C9B18EBD4DF1529888BE9023BA088EE7D368 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_tCD8BC72EA3819B9904C2C8EBF811BA4AEFF3E5B9 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Double>(T[0...,0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_tCD8BC72EA3819B9904C2C8EBF811BA4AEFF3E5B9  ArraySlice_FromArray_TisDouble_t42821932CB52DE2057E685D0E1AF3DE5033D2181_mB03B8441896E03AE1863080D292A8DB8489D1C8C_gshared (DoubleU5BU2CU2CU2CU5D_t01887E3704746B4CDB6A8D9C5C4CBFE05B10E84E* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		DoubleU5BU2CU2CU2CU5D_t01887E3704746B4CDB6A8D9C5C4CBFE05B10E84E* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_tD105C9B18EBD4DF1529888BE9023BA088EE7D368  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_tD105C9B18EBD4DF1529888BE9023BA088EE7D368  (*) (DoubleU5BU2CU2CU2CU5D_t01887E3704746B4CDB6A8D9C5C4CBFE05B10E84E*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((DoubleU5BU2CU2CU2CU5D_t01887E3704746B4CDB6A8D9C5C4CBFE05B10E84E*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_tCD8BC72EA3819B9904C2C8EBF811BA4AEFF3E5B9  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_m7E73C363B7A5DEFF9636FE9E10770BF1BD455A9B((&L_3), (UnmanagedMemoryBlock_1_tD105C9B18EBD4DF1529888BE9023BA088EE7D368 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_tCD8BC72EA3819B9904C2C8EBF811BA4AEFF3E5B9 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Double>(T[0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_tCD8BC72EA3819B9904C2C8EBF811BA4AEFF3E5B9  ArraySlice_FromArray_TisDouble_t42821932CB52DE2057E685D0E1AF3DE5033D2181_m2DCF1994579C42CECB29555F2B6E2B5965C06DA3_gshared (DoubleU5BU2CU2CU5D_t46270102086706B9089737D9B8FACDFC5E892377* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		DoubleU5BU2CU2CU5D_t46270102086706B9089737D9B8FACDFC5E892377* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_tD105C9B18EBD4DF1529888BE9023BA088EE7D368  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_tD105C9B18EBD4DF1529888BE9023BA088EE7D368  (*) (DoubleU5BU2CU2CU5D_t46270102086706B9089737D9B8FACDFC5E892377*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((DoubleU5BU2CU2CU5D_t46270102086706B9089737D9B8FACDFC5E892377*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_tCD8BC72EA3819B9904C2C8EBF811BA4AEFF3E5B9  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_m7E73C363B7A5DEFF9636FE9E10770BF1BD455A9B((&L_3), (UnmanagedMemoryBlock_1_tD105C9B18EBD4DF1529888BE9023BA088EE7D368 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_tCD8BC72EA3819B9904C2C8EBF811BA4AEFF3E5B9 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Double>(T[0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_tCD8BC72EA3819B9904C2C8EBF811BA4AEFF3E5B9  ArraySlice_FromArray_TisDouble_t42821932CB52DE2057E685D0E1AF3DE5033D2181_mD174F8D10B3DF2BE52D7DF7A32691AC3100379DE_gshared (DoubleU5BU2CU5D_t469708E84B24DAB3E509BDEC941060C69370193E* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		DoubleU5BU2CU5D_t469708E84B24DAB3E509BDEC941060C69370193E* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_tD105C9B18EBD4DF1529888BE9023BA088EE7D368  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_tD105C9B18EBD4DF1529888BE9023BA088EE7D368  (*) (DoubleU5BU2CU5D_t469708E84B24DAB3E509BDEC941060C69370193E*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((DoubleU5BU2CU5D_t469708E84B24DAB3E509BDEC941060C69370193E*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_tCD8BC72EA3819B9904C2C8EBF811BA4AEFF3E5B9  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_m7E73C363B7A5DEFF9636FE9E10770BF1BD455A9B((&L_3), (UnmanagedMemoryBlock_1_tD105C9B18EBD4DF1529888BE9023BA088EE7D368 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_tCD8BC72EA3819B9904C2C8EBF811BA4AEFF3E5B9 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Double>(T[],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_tCD8BC72EA3819B9904C2C8EBF811BA4AEFF3E5B9  ArraySlice_FromArray_TisDouble_t42821932CB52DE2057E685D0E1AF3DE5033D2181_m7BAB468E8353CCCBE0A1272B532F2438CD303CD2_gshared (DoubleU5BU5D_t8E1B42EB2ABB79FBD193A6B8C8D97A7CDE44A4FB* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		DoubleU5BU5D_t8E1B42EB2ABB79FBD193A6B8C8D97A7CDE44A4FB* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_tD105C9B18EBD4DF1529888BE9023BA088EE7D368  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_tD105C9B18EBD4DF1529888BE9023BA088EE7D368  (*) (DoubleU5BU5D_t8E1B42EB2ABB79FBD193A6B8C8D97A7CDE44A4FB*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((DoubleU5BU5D_t8E1B42EB2ABB79FBD193A6B8C8D97A7CDE44A4FB*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_tCD8BC72EA3819B9904C2C8EBF811BA4AEFF3E5B9  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_m7E73C363B7A5DEFF9636FE9E10770BF1BD455A9B((&L_3), (UnmanagedMemoryBlock_1_tD105C9B18EBD4DF1529888BE9023BA088EE7D368 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_tCD8BC72EA3819B9904C2C8EBF811BA4AEFF3E5B9 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Int32>(T[0...,0...,0...,0...,0...,0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_t6797F8AB028DAD462B9DFD73032B56DF1D9C6A90  ArraySlice_FromArray_TisInt32_tFDE5F8CD43D10453F6A2E0C77FE48C6CC7009046_m2777422B05DCB3C4218518D9207E873410C7D24E_gshared (Int32U5BU2CU2CU2CU2CU2CU2CU2CU5D_t47AE6F9E41CB256086FFEC07ABC507E23CD38353* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		Int32U5BU2CU2CU2CU2CU2CU2CU2CU5D_t47AE6F9E41CB256086FFEC07ABC507E23CD38353* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_tE80266F90AA0609ADBBD1AC6780846208DD54163  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_tE80266F90AA0609ADBBD1AC6780846208DD54163  (*) (Int32U5BU2CU2CU2CU2CU2CU2CU2CU5D_t47AE6F9E41CB256086FFEC07ABC507E23CD38353*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((Int32U5BU2CU2CU2CU2CU2CU2CU2CU5D_t47AE6F9E41CB256086FFEC07ABC507E23CD38353*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_t6797F8AB028DAD462B9DFD73032B56DF1D9C6A90  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_mF6C44B8E2FC9BE912CEFFA23A8377D6AC01D2D33((&L_3), (UnmanagedMemoryBlock_1_tE80266F90AA0609ADBBD1AC6780846208DD54163 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_t6797F8AB028DAD462B9DFD73032B56DF1D9C6A90 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Int32>(T[0...,0...,0...,0...,0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_t6797F8AB028DAD462B9DFD73032B56DF1D9C6A90  ArraySlice_FromArray_TisInt32_tFDE5F8CD43D10453F6A2E0C77FE48C6CC7009046_m45A3A8F84A07545356EE2CFD5E66158BC167DF7D_gshared (Int32U5BU2CU2CU2CU2CU2CU2CU5D_t78507BA1C9DCB8919945720537823CCD5EF2E60B* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		Int32U5BU2CU2CU2CU2CU2CU2CU5D_t78507BA1C9DCB8919945720537823CCD5EF2E60B* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_tE80266F90AA0609ADBBD1AC6780846208DD54163  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_tE80266F90AA0609ADBBD1AC6780846208DD54163  (*) (Int32U5BU2CU2CU2CU2CU2CU2CU5D_t78507BA1C9DCB8919945720537823CCD5EF2E60B*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((Int32U5BU2CU2CU2CU2CU2CU2CU5D_t78507BA1C9DCB8919945720537823CCD5EF2E60B*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_t6797F8AB028DAD462B9DFD73032B56DF1D9C6A90  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_mF6C44B8E2FC9BE912CEFFA23A8377D6AC01D2D33((&L_3), (UnmanagedMemoryBlock_1_tE80266F90AA0609ADBBD1AC6780846208DD54163 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_t6797F8AB028DAD462B9DFD73032B56DF1D9C6A90 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Int32>(T[0...,0...,0...,0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_t6797F8AB028DAD462B9DFD73032B56DF1D9C6A90  ArraySlice_FromArray_TisInt32_tFDE5F8CD43D10453F6A2E0C77FE48C6CC7009046_m327553CA389128E90BAF427129B0F3211E1A607F_gshared (Int32U5BU2CU2CU2CU2CU2CU5D_t2FDC7392B32CFE61709CCD947D2E62075C0D91D7* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		Int32U5BU2CU2CU2CU2CU2CU5D_t2FDC7392B32CFE61709CCD947D2E62075C0D91D7* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_tE80266F90AA0609ADBBD1AC6780846208DD54163  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_tE80266F90AA0609ADBBD1AC6780846208DD54163  (*) (Int32U5BU2CU2CU2CU2CU2CU5D_t2FDC7392B32CFE61709CCD947D2E62075C0D91D7*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((Int32U5BU2CU2CU2CU2CU2CU5D_t2FDC7392B32CFE61709CCD947D2E62075C0D91D7*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_t6797F8AB028DAD462B9DFD73032B56DF1D9C6A90  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_mF6C44B8E2FC9BE912CEFFA23A8377D6AC01D2D33((&L_3), (UnmanagedMemoryBlock_1_tE80266F90AA0609ADBBD1AC6780846208DD54163 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_t6797F8AB028DAD462B9DFD73032B56DF1D9C6A90 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Int32>(T[0...,0...,0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_t6797F8AB028DAD462B9DFD73032B56DF1D9C6A90  ArraySlice_FromArray_TisInt32_tFDE5F8CD43D10453F6A2E0C77FE48C6CC7009046_m60B213E922CEC0EC632B6C2E90E6D8BBE24CD227_gshared (Int32U5BU2CU2CU2CU2CU5D_t6E137D70D4DE6780D0B80222B602FD2988CC2CFF* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		Int32U5BU2CU2CU2CU2CU5D_t6E137D70D4DE6780D0B80222B602FD2988CC2CFF* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_tE80266F90AA0609ADBBD1AC6780846208DD54163  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_tE80266F90AA0609ADBBD1AC6780846208DD54163  (*) (Int32U5BU2CU2CU2CU2CU5D_t6E137D70D4DE6780D0B80222B602FD2988CC2CFF*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((Int32U5BU2CU2CU2CU2CU5D_t6E137D70D4DE6780D0B80222B602FD2988CC2CFF*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_t6797F8AB028DAD462B9DFD73032B56DF1D9C6A90  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_mF6C44B8E2FC9BE912CEFFA23A8377D6AC01D2D33((&L_3), (UnmanagedMemoryBlock_1_tE80266F90AA0609ADBBD1AC6780846208DD54163 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_t6797F8AB028DAD462B9DFD73032B56DF1D9C6A90 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Int32>(T[0...,0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_t6797F8AB028DAD462B9DFD73032B56DF1D9C6A90  ArraySlice_FromArray_TisInt32_tFDE5F8CD43D10453F6A2E0C77FE48C6CC7009046_mF5339BFEA0071AE41D5FADB01BB857254889CADD_gshared (Int32U5BU2CU2CU2CU5D_tA9A143BF5A29BEAB00F094F71116FC298CE4B1AD* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		Int32U5BU2CU2CU2CU5D_tA9A143BF5A29BEAB00F094F71116FC298CE4B1AD* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_tE80266F90AA0609ADBBD1AC6780846208DD54163  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_tE80266F90AA0609ADBBD1AC6780846208DD54163  (*) (Int32U5BU2CU2CU2CU5D_tA9A143BF5A29BEAB00F094F71116FC298CE4B1AD*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((Int32U5BU2CU2CU2CU5D_tA9A143BF5A29BEAB00F094F71116FC298CE4B1AD*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_t6797F8AB028DAD462B9DFD73032B56DF1D9C6A90  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_mF6C44B8E2FC9BE912CEFFA23A8377D6AC01D2D33((&L_3), (UnmanagedMemoryBlock_1_tE80266F90AA0609ADBBD1AC6780846208DD54163 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_t6797F8AB028DAD462B9DFD73032B56DF1D9C6A90 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Int32>(T[0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_t6797F8AB028DAD462B9DFD73032B56DF1D9C6A90  ArraySlice_FromArray_TisInt32_tFDE5F8CD43D10453F6A2E0C77FE48C6CC7009046_mA5077EA54C65E6ADB9BBD3AAFF85BC793844851F_gshared (Int32U5BU2CU2CU5D_t258DA82DACC50C444F05FFD250E7360558AD322D* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		Int32U5BU2CU2CU5D_t258DA82DACC50C444F05FFD250E7360558AD322D* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_tE80266F90AA0609ADBBD1AC6780846208DD54163  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_tE80266F90AA0609ADBBD1AC6780846208DD54163  (*) (Int32U5BU2CU2CU5D_t258DA82DACC50C444F05FFD250E7360558AD322D*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((Int32U5BU2CU2CU5D_t258DA82DACC50C444F05FFD250E7360558AD322D*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_t6797F8AB028DAD462B9DFD73032B56DF1D9C6A90  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_mF6C44B8E2FC9BE912CEFFA23A8377D6AC01D2D33((&L_3), (UnmanagedMemoryBlock_1_tE80266F90AA0609ADBBD1AC6780846208DD54163 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_t6797F8AB028DAD462B9DFD73032B56DF1D9C6A90 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Int32>(T[0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_t6797F8AB028DAD462B9DFD73032B56DF1D9C6A90  ArraySlice_FromArray_TisInt32_tFDE5F8CD43D10453F6A2E0C77FE48C6CC7009046_mA0C45B80C2626609B65C52C179EFFF385BA7462A_gshared (Int32U5BU2CU5D_tE3A76A55C8E5F44FF4BA45CF035E89489936EE17* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		Int32U5BU2CU5D_tE3A76A55C8E5F44FF4BA45CF035E89489936EE17* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_tE80266F90AA0609ADBBD1AC6780846208DD54163  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_tE80266F90AA0609ADBBD1AC6780846208DD54163  (*) (Int32U5BU2CU5D_tE3A76A55C8E5F44FF4BA45CF035E89489936EE17*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((Int32U5BU2CU5D_tE3A76A55C8E5F44FF4BA45CF035E89489936EE17*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_t6797F8AB028DAD462B9DFD73032B56DF1D9C6A90  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_mF6C44B8E2FC9BE912CEFFA23A8377D6AC01D2D33((&L_3), (UnmanagedMemoryBlock_1_tE80266F90AA0609ADBBD1AC6780846208DD54163 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_t6797F8AB028DAD462B9DFD73032B56DF1D9C6A90 )L_3;
+	}
+}
 // NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Int32>(T[],System.Boolean)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_t6797F8AB028DAD462B9DFD73032B56DF1D9C6A90  ArraySlice_FromArray_TisInt32_tFDE5F8CD43D10453F6A2E0C77FE48C6CC7009046_m9282C7235FD6349EF43125D0FA196FA410A24EC6_gshared (Int32U5BU5D_t70F1BDC14B1786481B176D6139A5E3B87DC54C32* ___array0, bool ___copy1, const RuntimeMethod* method)
 {
@@ -13941,6 +19345,230 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_t6797F8AB028DAD462B9DFD73032B56D
 		memset((&L_3), 0, sizeof(L_3));
 		ArraySlice_1__ctor_mF6C44B8E2FC9BE912CEFFA23A8377D6AC01D2D33((&L_3), (UnmanagedMemoryBlock_1_tE80266F90AA0609ADBBD1AC6780846208DD54163 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
 		return (ArraySlice_1_t6797F8AB028DAD462B9DFD73032B56DF1D9C6A90 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Int64>(T[0...,0...,0...,0...,0...,0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_tEDE203995EEDF2900FADFB4629C0C8C9C8B8825B  ArraySlice_FromArray_TisInt64_t378EE0D608BD3107E77238E85F30D2BBD46981F3_m2772097886DFC3EF46ECD90E3C24DC59D3CBEEF7_gshared (Int64U5BU2CU2CU2CU2CU2CU2CU2CU5D_t3A44FD4E5DABA049CBFED0026C5E6C0270FC0815* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		Int64U5BU2CU2CU2CU2CU2CU2CU2CU5D_t3A44FD4E5DABA049CBFED0026C5E6C0270FC0815* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_t0FCDD561A708D414BBBAF35E756BEC417C8A3CD0  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_t0FCDD561A708D414BBBAF35E756BEC417C8A3CD0  (*) (Int64U5BU2CU2CU2CU2CU2CU2CU2CU5D_t3A44FD4E5DABA049CBFED0026C5E6C0270FC0815*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((Int64U5BU2CU2CU2CU2CU2CU2CU2CU5D_t3A44FD4E5DABA049CBFED0026C5E6C0270FC0815*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_tEDE203995EEDF2900FADFB4629C0C8C9C8B8825B  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_mF8C5B74CBD7E0951EB7464639D959BF63386D17E((&L_3), (UnmanagedMemoryBlock_1_t0FCDD561A708D414BBBAF35E756BEC417C8A3CD0 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_tEDE203995EEDF2900FADFB4629C0C8C9C8B8825B )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Int64>(T[0...,0...,0...,0...,0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_tEDE203995EEDF2900FADFB4629C0C8C9C8B8825B  ArraySlice_FromArray_TisInt64_t378EE0D608BD3107E77238E85F30D2BBD46981F3_m534203187E2AFAAEDAF56AFDEC8A1766D9DB008B_gshared (Int64U5BU2CU2CU2CU2CU2CU2CU5D_t432DAE5A8688B2E4A912E62E004BBE13593372A7* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		Int64U5BU2CU2CU2CU2CU2CU2CU5D_t432DAE5A8688B2E4A912E62E004BBE13593372A7* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_t0FCDD561A708D414BBBAF35E756BEC417C8A3CD0  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_t0FCDD561A708D414BBBAF35E756BEC417C8A3CD0  (*) (Int64U5BU2CU2CU2CU2CU2CU2CU5D_t432DAE5A8688B2E4A912E62E004BBE13593372A7*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((Int64U5BU2CU2CU2CU2CU2CU2CU5D_t432DAE5A8688B2E4A912E62E004BBE13593372A7*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_tEDE203995EEDF2900FADFB4629C0C8C9C8B8825B  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_mF8C5B74CBD7E0951EB7464639D959BF63386D17E((&L_3), (UnmanagedMemoryBlock_1_t0FCDD561A708D414BBBAF35E756BEC417C8A3CD0 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_tEDE203995EEDF2900FADFB4629C0C8C9C8B8825B )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Int64>(T[0...,0...,0...,0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_tEDE203995EEDF2900FADFB4629C0C8C9C8B8825B  ArraySlice_FromArray_TisInt64_t378EE0D608BD3107E77238E85F30D2BBD46981F3_mF9A5759C6B00A017C576F37B40B232F27A5617FC_gshared (Int64U5BU2CU2CU2CU2CU2CU5D_tB0B5DAE45B4D3104E4CF4470775BFD7208D52461* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		Int64U5BU2CU2CU2CU2CU2CU5D_tB0B5DAE45B4D3104E4CF4470775BFD7208D52461* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_t0FCDD561A708D414BBBAF35E756BEC417C8A3CD0  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_t0FCDD561A708D414BBBAF35E756BEC417C8A3CD0  (*) (Int64U5BU2CU2CU2CU2CU2CU5D_tB0B5DAE45B4D3104E4CF4470775BFD7208D52461*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((Int64U5BU2CU2CU2CU2CU2CU5D_tB0B5DAE45B4D3104E4CF4470775BFD7208D52461*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_tEDE203995EEDF2900FADFB4629C0C8C9C8B8825B  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_mF8C5B74CBD7E0951EB7464639D959BF63386D17E((&L_3), (UnmanagedMemoryBlock_1_t0FCDD561A708D414BBBAF35E756BEC417C8A3CD0 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_tEDE203995EEDF2900FADFB4629C0C8C9C8B8825B )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Int64>(T[0...,0...,0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_tEDE203995EEDF2900FADFB4629C0C8C9C8B8825B  ArraySlice_FromArray_TisInt64_t378EE0D608BD3107E77238E85F30D2BBD46981F3_m99E5430C9B1B4C4079A660B4C00E0F2598ECFD30_gshared (Int64U5BU2CU2CU2CU2CU5D_tEFF0668944AC7054D82960F91924820AAE2A4204* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		Int64U5BU2CU2CU2CU2CU5D_tEFF0668944AC7054D82960F91924820AAE2A4204* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_t0FCDD561A708D414BBBAF35E756BEC417C8A3CD0  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_t0FCDD561A708D414BBBAF35E756BEC417C8A3CD0  (*) (Int64U5BU2CU2CU2CU2CU5D_tEFF0668944AC7054D82960F91924820AAE2A4204*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((Int64U5BU2CU2CU2CU2CU5D_tEFF0668944AC7054D82960F91924820AAE2A4204*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_tEDE203995EEDF2900FADFB4629C0C8C9C8B8825B  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_mF8C5B74CBD7E0951EB7464639D959BF63386D17E((&L_3), (UnmanagedMemoryBlock_1_t0FCDD561A708D414BBBAF35E756BEC417C8A3CD0 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_tEDE203995EEDF2900FADFB4629C0C8C9C8B8825B )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Int64>(T[0...,0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_tEDE203995EEDF2900FADFB4629C0C8C9C8B8825B  ArraySlice_FromArray_TisInt64_t378EE0D608BD3107E77238E85F30D2BBD46981F3_m194A7C66F8E520D7435DB3DE5CE67C98DCC494B1_gshared (Int64U5BU2CU2CU2CU5D_tF16B36C2FD740C253BD0438B1FD74E644CFB7F54* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		Int64U5BU2CU2CU2CU5D_tF16B36C2FD740C253BD0438B1FD74E644CFB7F54* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_t0FCDD561A708D414BBBAF35E756BEC417C8A3CD0  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_t0FCDD561A708D414BBBAF35E756BEC417C8A3CD0  (*) (Int64U5BU2CU2CU2CU5D_tF16B36C2FD740C253BD0438B1FD74E644CFB7F54*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((Int64U5BU2CU2CU2CU5D_tF16B36C2FD740C253BD0438B1FD74E644CFB7F54*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_tEDE203995EEDF2900FADFB4629C0C8C9C8B8825B  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_mF8C5B74CBD7E0951EB7464639D959BF63386D17E((&L_3), (UnmanagedMemoryBlock_1_t0FCDD561A708D414BBBAF35E756BEC417C8A3CD0 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_tEDE203995EEDF2900FADFB4629C0C8C9C8B8825B )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Int64>(T[0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_tEDE203995EEDF2900FADFB4629C0C8C9C8B8825B  ArraySlice_FromArray_TisInt64_t378EE0D608BD3107E77238E85F30D2BBD46981F3_m0C2EB72CA2BD8733D6362B7B592368C89EB532BC_gshared (Int64U5BU2CU2CU5D_t34C292D62D950BE089875853215BD96E26865243* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		Int64U5BU2CU2CU5D_t34C292D62D950BE089875853215BD96E26865243* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_t0FCDD561A708D414BBBAF35E756BEC417C8A3CD0  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_t0FCDD561A708D414BBBAF35E756BEC417C8A3CD0  (*) (Int64U5BU2CU2CU5D_t34C292D62D950BE089875853215BD96E26865243*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((Int64U5BU2CU2CU5D_t34C292D62D950BE089875853215BD96E26865243*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_tEDE203995EEDF2900FADFB4629C0C8C9C8B8825B  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_mF8C5B74CBD7E0951EB7464639D959BF63386D17E((&L_3), (UnmanagedMemoryBlock_1_t0FCDD561A708D414BBBAF35E756BEC417C8A3CD0 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_tEDE203995EEDF2900FADFB4629C0C8C9C8B8825B )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Int64>(T[0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_tEDE203995EEDF2900FADFB4629C0C8C9C8B8825B  ArraySlice_FromArray_TisInt64_t378EE0D608BD3107E77238E85F30D2BBD46981F3_m225AC64931EBEDE642E303CB200A19FFCFD6FB81_gshared (Int64U5BU2CU5D_tEBB2AEAB267BE0C570FC32E17716C77AF3E75E4E* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		Int64U5BU2CU5D_tEBB2AEAB267BE0C570FC32E17716C77AF3E75E4E* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_t0FCDD561A708D414BBBAF35E756BEC417C8A3CD0  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_t0FCDD561A708D414BBBAF35E756BEC417C8A3CD0  (*) (Int64U5BU2CU5D_tEBB2AEAB267BE0C570FC32E17716C77AF3E75E4E*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((Int64U5BU2CU5D_tEBB2AEAB267BE0C570FC32E17716C77AF3E75E4E*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_tEDE203995EEDF2900FADFB4629C0C8C9C8B8825B  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_mF8C5B74CBD7E0951EB7464639D959BF63386D17E((&L_3), (UnmanagedMemoryBlock_1_t0FCDD561A708D414BBBAF35E756BEC417C8A3CD0 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_tEDE203995EEDF2900FADFB4629C0C8C9C8B8825B )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Int64>(T[],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_tEDE203995EEDF2900FADFB4629C0C8C9C8B8825B  ArraySlice_FromArray_TisInt64_t378EE0D608BD3107E77238E85F30D2BBD46981F3_m8AA05DCB844E0802C68FBF73E010F9CC1CFA261B_gshared (Int64U5BU5D_tCA61E42872C63A4286B24EEE6E0650143B43DCE6* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		Int64U5BU5D_tCA61E42872C63A4286B24EEE6E0650143B43DCE6* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_t0FCDD561A708D414BBBAF35E756BEC417C8A3CD0  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_t0FCDD561A708D414BBBAF35E756BEC417C8A3CD0  (*) (Int64U5BU5D_tCA61E42872C63A4286B24EEE6E0650143B43DCE6*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((Int64U5BU5D_tCA61E42872C63A4286B24EEE6E0650143B43DCE6*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_tEDE203995EEDF2900FADFB4629C0C8C9C8B8825B  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_mF8C5B74CBD7E0951EB7464639D959BF63386D17E((&L_3), (UnmanagedMemoryBlock_1_t0FCDD561A708D414BBBAF35E756BEC417C8A3CD0 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_tEDE203995EEDF2900FADFB4629C0C8C9C8B8825B )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Single>(T[0...,0...,0...,0...,0...,0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_tF8A960AFEC638F6BF9FDDED8E552B5D6E00F9520  ArraySlice_FromArray_TisSingle_tE07797BA3C98D4CA9B5A19413C19A76688AB899E_m93FE457FF3364548BF4B1BFFC33BAE7E5765C9AB_gshared (SingleU5BU2CU2CU2CU2CU2CU2CU2CU5D_t011998ED7A6EB237BFDD3ADE4B7116B39E970F62* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		SingleU5BU2CU2CU2CU2CU2CU2CU2CU5D_t011998ED7A6EB237BFDD3ADE4B7116B39E970F62* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_t8CABF944C66E4CECFF865C637BD27B8DE0CCB97C  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_t8CABF944C66E4CECFF865C637BD27B8DE0CCB97C  (*) (SingleU5BU2CU2CU2CU2CU2CU2CU2CU5D_t011998ED7A6EB237BFDD3ADE4B7116B39E970F62*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((SingleU5BU2CU2CU2CU2CU2CU2CU2CU5D_t011998ED7A6EB237BFDD3ADE4B7116B39E970F62*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_tF8A960AFEC638F6BF9FDDED8E552B5D6E00F9520  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_mD528A2BFA88552262965515525F3841076FA9CAB((&L_3), (UnmanagedMemoryBlock_1_t8CABF944C66E4CECFF865C637BD27B8DE0CCB97C )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_tF8A960AFEC638F6BF9FDDED8E552B5D6E00F9520 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Single>(T[0...,0...,0...,0...,0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_tF8A960AFEC638F6BF9FDDED8E552B5D6E00F9520  ArraySlice_FromArray_TisSingle_tE07797BA3C98D4CA9B5A19413C19A76688AB899E_mFF1388566CFC9FF0BDCFE92A70EA34F9F7FCFAA8_gshared (SingleU5BU2CU2CU2CU2CU2CU2CU5D_tD52F6BE7884AEC6B76ADE1359786F26B8603F2C8* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		SingleU5BU2CU2CU2CU2CU2CU2CU5D_tD52F6BE7884AEC6B76ADE1359786F26B8603F2C8* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_t8CABF944C66E4CECFF865C637BD27B8DE0CCB97C  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_t8CABF944C66E4CECFF865C637BD27B8DE0CCB97C  (*) (SingleU5BU2CU2CU2CU2CU2CU2CU5D_tD52F6BE7884AEC6B76ADE1359786F26B8603F2C8*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((SingleU5BU2CU2CU2CU2CU2CU2CU5D_tD52F6BE7884AEC6B76ADE1359786F26B8603F2C8*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_tF8A960AFEC638F6BF9FDDED8E552B5D6E00F9520  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_mD528A2BFA88552262965515525F3841076FA9CAB((&L_3), (UnmanagedMemoryBlock_1_t8CABF944C66E4CECFF865C637BD27B8DE0CCB97C )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_tF8A960AFEC638F6BF9FDDED8E552B5D6E00F9520 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Single>(T[0...,0...,0...,0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_tF8A960AFEC638F6BF9FDDED8E552B5D6E00F9520  ArraySlice_FromArray_TisSingle_tE07797BA3C98D4CA9B5A19413C19A76688AB899E_m72A582445D3B60E331574B216C527A7CC37DE442_gshared (SingleU5BU2CU2CU2CU2CU2CU5D_t38B18D295C7EEA416AB71938640EE561B27D5C3D* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		SingleU5BU2CU2CU2CU2CU2CU5D_t38B18D295C7EEA416AB71938640EE561B27D5C3D* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_t8CABF944C66E4CECFF865C637BD27B8DE0CCB97C  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_t8CABF944C66E4CECFF865C637BD27B8DE0CCB97C  (*) (SingleU5BU2CU2CU2CU2CU2CU5D_t38B18D295C7EEA416AB71938640EE561B27D5C3D*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((SingleU5BU2CU2CU2CU2CU2CU5D_t38B18D295C7EEA416AB71938640EE561B27D5C3D*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_tF8A960AFEC638F6BF9FDDED8E552B5D6E00F9520  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_mD528A2BFA88552262965515525F3841076FA9CAB((&L_3), (UnmanagedMemoryBlock_1_t8CABF944C66E4CECFF865C637BD27B8DE0CCB97C )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_tF8A960AFEC638F6BF9FDDED8E552B5D6E00F9520 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Single>(T[0...,0...,0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_tF8A960AFEC638F6BF9FDDED8E552B5D6E00F9520  ArraySlice_FromArray_TisSingle_tE07797BA3C98D4CA9B5A19413C19A76688AB899E_mF7E5B58CEACD4EEFD6093439C4C5C3A1854F4F9A_gshared (SingleU5BU2CU2CU2CU2CU5D_t3C5B14D791C6976B0E1A91CD65DEF34644CE379A* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		SingleU5BU2CU2CU2CU2CU5D_t3C5B14D791C6976B0E1A91CD65DEF34644CE379A* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_t8CABF944C66E4CECFF865C637BD27B8DE0CCB97C  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_t8CABF944C66E4CECFF865C637BD27B8DE0CCB97C  (*) (SingleU5BU2CU2CU2CU2CU5D_t3C5B14D791C6976B0E1A91CD65DEF34644CE379A*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((SingleU5BU2CU2CU2CU2CU5D_t3C5B14D791C6976B0E1A91CD65DEF34644CE379A*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_tF8A960AFEC638F6BF9FDDED8E552B5D6E00F9520  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_mD528A2BFA88552262965515525F3841076FA9CAB((&L_3), (UnmanagedMemoryBlock_1_t8CABF944C66E4CECFF865C637BD27B8DE0CCB97C )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_tF8A960AFEC638F6BF9FDDED8E552B5D6E00F9520 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Single>(T[0...,0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_tF8A960AFEC638F6BF9FDDED8E552B5D6E00F9520  ArraySlice_FromArray_TisSingle_tE07797BA3C98D4CA9B5A19413C19A76688AB899E_m5D3B259557BDCDD44C88E23CB009E7D42E576392_gshared (SingleU5BU2CU2CU2CU5D_tD86B5ADE096220CB8F90FCCCCD1F68D7EA758FBB* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		SingleU5BU2CU2CU2CU5D_tD86B5ADE096220CB8F90FCCCCD1F68D7EA758FBB* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_t8CABF944C66E4CECFF865C637BD27B8DE0CCB97C  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_t8CABF944C66E4CECFF865C637BD27B8DE0CCB97C  (*) (SingleU5BU2CU2CU2CU5D_tD86B5ADE096220CB8F90FCCCCD1F68D7EA758FBB*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((SingleU5BU2CU2CU2CU5D_tD86B5ADE096220CB8F90FCCCCD1F68D7EA758FBB*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_tF8A960AFEC638F6BF9FDDED8E552B5D6E00F9520  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_mD528A2BFA88552262965515525F3841076FA9CAB((&L_3), (UnmanagedMemoryBlock_1_t8CABF944C66E4CECFF865C637BD27B8DE0CCB97C )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_tF8A960AFEC638F6BF9FDDED8E552B5D6E00F9520 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Single>(T[0...,0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_tF8A960AFEC638F6BF9FDDED8E552B5D6E00F9520  ArraySlice_FromArray_TisSingle_tE07797BA3C98D4CA9B5A19413C19A76688AB899E_mD534747EEC01EDA0521E594FD41A2531325671BF_gshared (SingleU5BU2CU2CU5D_t9FB63FBDE2078D789023A5352FF90CAE8934E087* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		SingleU5BU2CU2CU5D_t9FB63FBDE2078D789023A5352FF90CAE8934E087* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_t8CABF944C66E4CECFF865C637BD27B8DE0CCB97C  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_t8CABF944C66E4CECFF865C637BD27B8DE0CCB97C  (*) (SingleU5BU2CU2CU5D_t9FB63FBDE2078D789023A5352FF90CAE8934E087*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((SingleU5BU2CU2CU5D_t9FB63FBDE2078D789023A5352FF90CAE8934E087*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_tF8A960AFEC638F6BF9FDDED8E552B5D6E00F9520  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_mD528A2BFA88552262965515525F3841076FA9CAB((&L_3), (UnmanagedMemoryBlock_1_t8CABF944C66E4CECFF865C637BD27B8DE0CCB97C )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_tF8A960AFEC638F6BF9FDDED8E552B5D6E00F9520 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Single>(T[0...,0...],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_tF8A960AFEC638F6BF9FDDED8E552B5D6E00F9520  ArraySlice_FromArray_TisSingle_tE07797BA3C98D4CA9B5A19413C19A76688AB899E_mF36CAABF878A1CA4EFF81E3C29D8470AA24DC670_gshared (SingleU5BU2CU5D_tC8145CABE3D285E5B2969DB657D4DE43A135BB43* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		SingleU5BU2CU5D_tC8145CABE3D285E5B2969DB657D4DE43A135BB43* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_t8CABF944C66E4CECFF865C637BD27B8DE0CCB97C  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_t8CABF944C66E4CECFF865C637BD27B8DE0CCB97C  (*) (SingleU5BU2CU5D_tC8145CABE3D285E5B2969DB657D4DE43A135BB43*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((SingleU5BU2CU5D_tC8145CABE3D285E5B2969DB657D4DE43A135BB43*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_tF8A960AFEC638F6BF9FDDED8E552B5D6E00F9520  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_mD528A2BFA88552262965515525F3841076FA9CAB((&L_3), (UnmanagedMemoryBlock_1_t8CABF944C66E4CECFF865C637BD27B8DE0CCB97C )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_tF8A960AFEC638F6BF9FDDED8E552B5D6E00F9520 )L_3;
+	}
+}
+// NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::FromArray<System.Single>(T[],System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ArraySlice_1_tF8A960AFEC638F6BF9FDDED8E552B5D6E00F9520  ArraySlice_FromArray_TisSingle_tE07797BA3C98D4CA9B5A19413C19A76688AB899E_mED4AC0941576F7A318DE9ECBECF37069EB5A364E_gshared (SingleU5BU5D_t47E8DBF5B597C122478D1FFBD9DD57399A0650FA* ___array0, bool ___copy1, const RuntimeMethod* method)
+{
+	{
+		SingleU5BU5D_t47E8DBF5B597C122478D1FFBD9DD57399A0650FA* L_0 = ___array0;
+		bool L_1 = ___copy1;
+		UnmanagedMemoryBlock_1_t8CABF944C66E4CECFF865C637BD27B8DE0CCB97C  L_2;
+		L_2 = ((  UnmanagedMemoryBlock_1_t8CABF944C66E4CECFF865C637BD27B8DE0CCB97C  (*) (SingleU5BU5D_t47E8DBF5B597C122478D1FFBD9DD57399A0650FA*, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((SingleU5BU5D_t47E8DBF5B597C122478D1FFBD9DD57399A0650FA*)L_0, (bool)L_1, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		ArraySlice_1_tF8A960AFEC638F6BF9FDDED8E552B5D6E00F9520  L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		ArraySlice_1__ctor_mD528A2BFA88552262965515525F3841076FA9CAB((&L_3), (UnmanagedMemoryBlock_1_t8CABF944C66E4CECFF865C637BD27B8DE0CCB97C )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+		return (ArraySlice_1_tF8A960AFEC638F6BF9FDDED8E552B5D6E00F9520 )L_3;
 	}
 }
 // NumSharp.Backends.Unmanaged.ArraySlice`1<T> NumSharp.Backends.Unmanaged.ArraySlice::Scalar<System.Boolean>(T)
@@ -14851,12 +20479,10 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR List_1_t3F94120C77410A62EAE48421CF166B83AB95A
 		s_Il2CppMethodInitialized = true;
 	}
 	List_1_t3F94120C77410A62EAE48421CF166B83AB95A2F5 * V_0 = NULL;
-	bool V_1 = false;
-	Enumerator_t85B409F01F0ED140547463E6F14198A49840CB83  V_2;
+	Enumerator_t85B409F01F0ED140547463E6F14198A49840CB83  V_1;
+	memset((&V_1), 0, sizeof(V_1));
+	KeyValuePair_2_t618787C3023F341D6416FF25DC44332DFE903A01  V_2;
 	memset((&V_2), 0, sizeof(V_2));
-	KeyValuePair_2_t618787C3023F341D6416FF25DC44332DFE903A01  V_3;
-	memset((&V_3), 0, sizeof(V_3));
-	List_1_t3F94120C77410A62EAE48421CF166B83AB95A2F5 * V_4 = NULL;
 	Exception_t * __last_unhandled_exception = 0;
 	il2cpp::utils::ExceptionSupportStack<int32_t, 1> __leave_targets;
 	{
@@ -14866,89 +20492,79 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR List_1_t3F94120C77410A62EAE48421CF166B83AB95A
 		V_0 = (List_1_t3F94120C77410A62EAE48421CF166B83AB95A2F5 *)L_0;
 		// if (mExtraState != null)
 		Dictionary_2_tA56D153C1EABC9FB802D4F354B4E536F249FF4FE * L_1 = (Dictionary_2_tA56D153C1EABC9FB802D4F354B4E536F249FF4FE *)__this->get_mExtraState_6();
-		V_1 = (bool)((!(((RuntimeObject*)(Dictionary_2_tA56D153C1EABC9FB802D4F354B4E536F249FF4FE *)L_1) <= ((RuntimeObject*)(RuntimeObject *)NULL)))? 1 : 0);
-		bool L_2 = V_1;
-		if (!L_2)
+		if (!L_1)
 		{
-			goto IL_005d;
+			goto IL_0054;
 		}
 	}
 	{
 		// foreach (var v in mExtraState)
-		Dictionary_2_tA56D153C1EABC9FB802D4F354B4E536F249FF4FE * L_3 = (Dictionary_2_tA56D153C1EABC9FB802D4F354B4E536F249FF4FE *)__this->get_mExtraState_6();
-		Enumerator_t85B409F01F0ED140547463E6F14198A49840CB83  L_4;
-		L_4 = Dictionary_2_GetEnumerator_m2E9C87F2BE4079D705BF63800F1BCFBF92F1F4E5((Dictionary_2_tA56D153C1EABC9FB802D4F354B4E536F249FF4FE *)L_3, /*hidden argument*/Dictionary_2_GetEnumerator_m2E9C87F2BE4079D705BF63800F1BCFBF92F1F4E5_RuntimeMethod_var);
-		V_2 = (Enumerator_t85B409F01F0ED140547463E6F14198A49840CB83 )L_4;
+		Dictionary_2_tA56D153C1EABC9FB802D4F354B4E536F249FF4FE * L_2 = (Dictionary_2_tA56D153C1EABC9FB802D4F354B4E536F249FF4FE *)__this->get_mExtraState_6();
+		Enumerator_t85B409F01F0ED140547463E6F14198A49840CB83  L_3;
+		L_3 = Dictionary_2_GetEnumerator_m2E9C87F2BE4079D705BF63800F1BCFBF92F1F4E5((Dictionary_2_tA56D153C1EABC9FB802D4F354B4E536F249FF4FE *)L_2, /*hidden argument*/Dictionary_2_GetEnumerator_m2E9C87F2BE4079D705BF63800F1BCFBF92F1F4E5_RuntimeMethod_var);
+		V_1 = (Enumerator_t85B409F01F0ED140547463E6F14198A49840CB83 )L_3;
 	}
 
-IL_0021:
+IL_001a:
 	try
 	{ // begin try (depth: 1)
 		{
-			goto IL_0043;
+			goto IL_003b;
 		}
 
-IL_0023:
+IL_001c:
 		{
 			// foreach (var v in mExtraState)
-			KeyValuePair_2_t618787C3023F341D6416FF25DC44332DFE903A01  L_5;
-			L_5 = Enumerator_get_Current_m1CAE663CA3EF0D8C6289E05CC622923E6F47C9A1_inline((Enumerator_t85B409F01F0ED140547463E6F14198A49840CB83 *)(Enumerator_t85B409F01F0ED140547463E6F14198A49840CB83 *)(&V_2), /*hidden argument*/Enumerator_get_Current_m1CAE663CA3EF0D8C6289E05CC622923E6F47C9A1_RuntimeMethod_var);
-			V_3 = (KeyValuePair_2_t618787C3023F341D6416FF25DC44332DFE903A01 )L_5;
+			KeyValuePair_2_t618787C3023F341D6416FF25DC44332DFE903A01  L_4;
+			L_4 = Enumerator_get_Current_m1CAE663CA3EF0D8C6289E05CC622923E6F47C9A1_inline((Enumerator_t85B409F01F0ED140547463E6F14198A49840CB83 *)(Enumerator_t85B409F01F0ED140547463E6F14198A49840CB83 *)(&V_1), /*hidden argument*/Enumerator_get_Current_m1CAE663CA3EF0D8C6289E05CC622923E6F47C9A1_RuntimeMethod_var);
+			V_2 = (KeyValuePair_2_t618787C3023F341D6416FF25DC44332DFE903A01 )L_4;
 			// list.Add(v.Value as T);
-			List_1_t3F94120C77410A62EAE48421CF166B83AB95A2F5 * L_6 = V_0;
-			RuntimeObject * L_7;
-			L_7 = KeyValuePair_2_get_Value_mCCDAA67536A5685C44788269C2EEF65811235A70_inline((KeyValuePair_2_t618787C3023F341D6416FF25DC44332DFE903A01 *)(KeyValuePair_2_t618787C3023F341D6416FF25DC44332DFE903A01 *)(&V_3), /*hidden argument*/KeyValuePair_2_get_Value_mCCDAA67536A5685C44788269C2EEF65811235A70_RuntimeMethod_var);
-			((  void (*) (List_1_t3F94120C77410A62EAE48421CF166B83AB95A2F5 *, RuntimeObject *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3)->methodPointer)((List_1_t3F94120C77410A62EAE48421CF166B83AB95A2F5 *)L_6, (RuntimeObject *)((RuntimeObject *)Castclass((RuntimeObject*)((RuntimeObject *)IsInst((RuntimeObject*)L_7, IL2CPP_RGCTX_DATA(method->rgctx_data, 2))), IL2CPP_RGCTX_DATA(method->rgctx_data, 2))), /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
+			List_1_t3F94120C77410A62EAE48421CF166B83AB95A2F5 * L_5 = V_0;
+			RuntimeObject * L_6;
+			L_6 = KeyValuePair_2_get_Value_mCCDAA67536A5685C44788269C2EEF65811235A70_inline((KeyValuePair_2_t618787C3023F341D6416FF25DC44332DFE903A01 *)(KeyValuePair_2_t618787C3023F341D6416FF25DC44332DFE903A01 *)(&V_2), /*hidden argument*/KeyValuePair_2_get_Value_mCCDAA67536A5685C44788269C2EEF65811235A70_RuntimeMethod_var);
+			((  void (*) (List_1_t3F94120C77410A62EAE48421CF166B83AB95A2F5 *, RuntimeObject *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3)->methodPointer)((List_1_t3F94120C77410A62EAE48421CF166B83AB95A2F5 *)L_5, (RuntimeObject *)((RuntimeObject *)Castclass((RuntimeObject*)((RuntimeObject *)IsInst((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->rgctx_data, 2))), IL2CPP_RGCTX_DATA(method->rgctx_data, 2))), /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 3));
 		}
 
-IL_0043:
+IL_003b:
 		{
 			// foreach (var v in mExtraState)
-			bool L_8;
-			L_8 = Enumerator_MoveNext_m1B0ED6FC14715B1A97A5811A6EA9EE1F33178546((Enumerator_t85B409F01F0ED140547463E6F14198A49840CB83 *)(Enumerator_t85B409F01F0ED140547463E6F14198A49840CB83 *)(&V_2), /*hidden argument*/Enumerator_MoveNext_m1B0ED6FC14715B1A97A5811A6EA9EE1F33178546_RuntimeMethod_var);
-			if (L_8)
+			bool L_7;
+			L_7 = Enumerator_MoveNext_m1B0ED6FC14715B1A97A5811A6EA9EE1F33178546((Enumerator_t85B409F01F0ED140547463E6F14198A49840CB83 *)(Enumerator_t85B409F01F0ED140547463E6F14198A49840CB83 *)(&V_1), /*hidden argument*/Enumerator_MoveNext_m1B0ED6FC14715B1A97A5811A6EA9EE1F33178546_RuntimeMethod_var);
+			if (L_7)
 			{
-				goto IL_0023;
+				goto IL_001c;
 			}
 		}
 
-IL_004c:
+IL_0044:
 		{
-			IL2CPP_LEAVE(0x5D, FINALLY_004e);
+			IL2CPP_LEAVE(0x54, FINALLY_0046);
 		}
 	} // end try (depth: 1)
 	catch(Il2CppExceptionWrapper& e)
 	{
 		__last_unhandled_exception = (Exception_t *)e.ex;
-		goto FINALLY_004e;
+		goto FINALLY_0046;
 	}
 
-FINALLY_004e:
+FINALLY_0046:
 	{ // begin finally (depth: 1)
-		Il2CppMetadataObject L_9(Enumerator_t85B409F01F0ED140547463E6F14198A49840CB83_il2cpp_TypeInfo_var);
-		const VirtualInvokeData& il2cpp_virtual_invoke_data__86 = il2cpp_codegen_get_interface_invoke_data(0, (&L_9), IDisposable_t099785737FC6A1E3699919A94109383715A8D807_il2cpp_TypeInfo_var);
-		((  void (*) (RuntimeObject*, const RuntimeMethod*))il2cpp_virtual_invoke_data__86.methodPtr)((RuntimeObject*)((RuntimeObject*)(&V_2))-1, /*hidden argument*/il2cpp_virtual_invoke_data__86.method);
-		IL2CPP_END_FINALLY(78)
+		Il2CppMetadataObject L_8(Enumerator_t85B409F01F0ED140547463E6F14198A49840CB83_il2cpp_TypeInfo_var);
+		const VirtualInvokeData& il2cpp_virtual_invoke_data__78 = il2cpp_codegen_get_interface_invoke_data(0, (&L_8), IDisposable_t099785737FC6A1E3699919A94109383715A8D807_il2cpp_TypeInfo_var);
+		((  void (*) (RuntimeObject*, const RuntimeMethod*))il2cpp_virtual_invoke_data__78.methodPtr)((RuntimeObject*)((RuntimeObject*)(&V_1))-1, /*hidden argument*/il2cpp_virtual_invoke_data__78.method);
+		IL2CPP_END_FINALLY(70)
 	} // end finally (depth: 1)
-	IL2CPP_CLEANUP(78)
+	IL2CPP_CLEANUP(70)
 	{
 		IL2CPP_RETHROW_IF_UNHANDLED(Exception_t *)
-		IL2CPP_JUMP_TBL(0x5D, IL_005d)
+		IL2CPP_JUMP_TBL(0x54, IL_0054)
 	}
 
-IL_005d:
+IL_0054:
 	{
 		// return list;
-		List_1_t3F94120C77410A62EAE48421CF166B83AB95A2F5 * L_10 = V_0;
-		V_4 = (List_1_t3F94120C77410A62EAE48421CF166B83AB95A2F5 *)L_10;
-		goto IL_0062;
-	}
-
-IL_0062:
-	{
-		// }
-		List_1_t3F94120C77410A62EAE48421CF166B83AB95A2F5 * L_11 = V_4;
-		return (List_1_t3F94120C77410A62EAE48421CF166B83AB95A2F5 *)L_11;
+		List_1_t3F94120C77410A62EAE48421CF166B83AB95A2F5 * L_9 = V_0;
+		return (List_1_t3F94120C77410A62EAE48421CF166B83AB95A2F5 *)L_9;
 	}
 }
 // T Cinemachine.CinemachineExtension::GetExtraState<System.Object>(Cinemachine.ICinemachineCamera)
@@ -14964,69 +20580,54 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * CinemachineExtension_GetExtra
 		s_Il2CppMethodInitialized = true;
 	}
 	RuntimeObject * V_0 = NULL;
-	bool V_1 = false;
-	bool V_2 = false;
-	RuntimeObject * V_3 = NULL;
-	RuntimeObject * V_4 = NULL;
+	RuntimeObject * V_1 = NULL;
 	{
 		// if (mExtraState == null)
 		Dictionary_2_tA56D153C1EABC9FB802D4F354B4E536F249FF4FE * L_0 = (Dictionary_2_tA56D153C1EABC9FB802D4F354B4E536F249FF4FE *)__this->get_mExtraState_6();
-		V_1 = (bool)((((RuntimeObject*)(Dictionary_2_tA56D153C1EABC9FB802D4F354B4E536F249FF4FE *)L_0) == ((RuntimeObject*)(RuntimeObject *)NULL))? 1 : 0);
-		bool L_1 = V_1;
-		if (!L_1)
+		if (L_0)
 		{
-			goto IL_0019;
+			goto IL_0013;
 		}
 	}
 	{
 		// mExtraState = new Dictionary<ICinemachineCamera, System.Object>();
-		Dictionary_2_tA56D153C1EABC9FB802D4F354B4E536F249FF4FE * L_2 = (Dictionary_2_tA56D153C1EABC9FB802D4F354B4E536F249FF4FE *)il2cpp_codegen_object_new(Dictionary_2_tA56D153C1EABC9FB802D4F354B4E536F249FF4FE_il2cpp_TypeInfo_var);
-		Dictionary_2__ctor_m2B6CF17BD2CFBFF0352D84952EAECEF47D9DD843(L_2, /*hidden argument*/Dictionary_2__ctor_m2B6CF17BD2CFBFF0352D84952EAECEF47D9DD843_RuntimeMethod_var);
-		__this->set_mExtraState_6(L_2);
+		Dictionary_2_tA56D153C1EABC9FB802D4F354B4E536F249FF4FE * L_1 = (Dictionary_2_tA56D153C1EABC9FB802D4F354B4E536F249FF4FE *)il2cpp_codegen_object_new(Dictionary_2_tA56D153C1EABC9FB802D4F354B4E536F249FF4FE_il2cpp_TypeInfo_var);
+		Dictionary_2__ctor_m2B6CF17BD2CFBFF0352D84952EAECEF47D9DD843(L_1, /*hidden argument*/Dictionary_2__ctor_m2B6CF17BD2CFBFF0352D84952EAECEF47D9DD843_RuntimeMethod_var);
+		__this->set_mExtraState_6(L_1);
 	}
 
-IL_0019:
+IL_0013:
 	{
 		// System.Object extra = null;
 		V_0 = (RuntimeObject *)NULL;
 		// if (!mExtraState.TryGetValue(vcam, out extra))
-		Dictionary_2_tA56D153C1EABC9FB802D4F354B4E536F249FF4FE * L_3 = (Dictionary_2_tA56D153C1EABC9FB802D4F354B4E536F249FF4FE *)__this->get_mExtraState_6();
-		RuntimeObject* L_4 = ___vcam0;
-		bool L_5;
-		L_5 = Dictionary_2_TryGetValue_m4D77D9C922F3D5114E11FD717C971924118D7D5F((Dictionary_2_tA56D153C1EABC9FB802D4F354B4E536F249FF4FE *)L_3, (RuntimeObject*)L_4, (RuntimeObject **)(RuntimeObject **)(&V_0), /*hidden argument*/Dictionary_2_TryGetValue_m4D77D9C922F3D5114E11FD717C971924118D7D5F_RuntimeMethod_var);
-		V_2 = (bool)((((int32_t)L_5) == ((int32_t)0))? 1 : 0);
-		bool L_6 = V_2;
-		if (!L_6)
+		Dictionary_2_tA56D153C1EABC9FB802D4F354B4E536F249FF4FE * L_2 = (Dictionary_2_tA56D153C1EABC9FB802D4F354B4E536F249FF4FE *)__this->get_mExtraState_6();
+		RuntimeObject* L_3 = ___vcam0;
+		bool L_4;
+		L_4 = Dictionary_2_TryGetValue_m4D77D9C922F3D5114E11FD717C971924118D7D5F((Dictionary_2_tA56D153C1EABC9FB802D4F354B4E536F249FF4FE *)L_2, (RuntimeObject*)L_3, (RuntimeObject **)(RuntimeObject **)(&V_0), /*hidden argument*/Dictionary_2_TryGetValue_m4D77D9C922F3D5114E11FD717C971924118D7D5F_RuntimeMethod_var);
+		if (L_4)
 		{
-			goto IL_004b;
+			goto IL_003f;
 		}
 	}
 	{
 		// extra = mExtraState[vcam] = new T();
-		Dictionary_2_tA56D153C1EABC9FB802D4F354B4E536F249FF4FE * L_7 = (Dictionary_2_tA56D153C1EABC9FB802D4F354B4E536F249FF4FE *)__this->get_mExtraState_6();
-		RuntimeObject* L_8 = ___vcam0;
-		RuntimeObject * L_9;
-		L_9 = ((  RuntimeObject * (*) (const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)(/*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
-		RuntimeObject * L_10 = (RuntimeObject *)L_9;
-		V_3 = (RuntimeObject *)L_10;
-		Dictionary_2_set_Item_m89C420B5D8EBFCF613CE70BFD7EDD43B2AEE2093((Dictionary_2_tA56D153C1EABC9FB802D4F354B4E536F249FF4FE *)L_7, (RuntimeObject*)L_8, (RuntimeObject *)L_10, /*hidden argument*/Dictionary_2_set_Item_m89C420B5D8EBFCF613CE70BFD7EDD43B2AEE2093_RuntimeMethod_var);
-		RuntimeObject * L_11 = V_3;
-		V_0 = (RuntimeObject *)L_11;
+		Dictionary_2_tA56D153C1EABC9FB802D4F354B4E536F249FF4FE * L_5 = (Dictionary_2_tA56D153C1EABC9FB802D4F354B4E536F249FF4FE *)__this->get_mExtraState_6();
+		RuntimeObject* L_6 = ___vcam0;
+		RuntimeObject * L_7;
+		L_7 = ((  RuntimeObject * (*) (const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)(/*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		RuntimeObject * L_8 = (RuntimeObject *)L_7;
+		V_1 = (RuntimeObject *)L_8;
+		Dictionary_2_set_Item_m89C420B5D8EBFCF613CE70BFD7EDD43B2AEE2093((Dictionary_2_tA56D153C1EABC9FB802D4F354B4E536F249FF4FE *)L_5, (RuntimeObject*)L_6, (RuntimeObject *)L_8, /*hidden argument*/Dictionary_2_set_Item_m89C420B5D8EBFCF613CE70BFD7EDD43B2AEE2093_RuntimeMethod_var);
+		RuntimeObject * L_9 = V_1;
+		V_0 = (RuntimeObject *)L_9;
 	}
 
-IL_004b:
+IL_003f:
 	{
 		// return extra as T;
-		RuntimeObject * L_12 = V_0;
-		V_4 = (RuntimeObject *)((RuntimeObject *)Castclass((RuntimeObject*)((RuntimeObject *)IsInst((RuntimeObject*)L_12, IL2CPP_RGCTX_DATA(method->rgctx_data, 1))), IL2CPP_RGCTX_DATA(method->rgctx_data, 1)));
-		goto IL_005a;
-	}
-
-IL_005a:
-	{
-		// }
-		RuntimeObject * L_13 = V_4;
-		return (RuntimeObject *)L_13;
+		RuntimeObject * L_10 = V_0;
+		return (RuntimeObject *)((RuntimeObject *)Castclass((RuntimeObject*)((RuntimeObject *)IsInst((RuntimeObject*)L_10, IL2CPP_RGCTX_DATA(method->rgctx_data, 1))), IL2CPP_RGCTX_DATA(method->rgctx_data, 1)));
 	}
 }
 // T Cinemachine.CinemachineVirtualCamera::AddCinemachineComponent<System.Object>()
@@ -15043,15 +20644,9 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * CinemachineVirtualCamera_AddC
 	Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * V_0 = NULL;
 	CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC* V_1 = NULL;
 	RuntimeObject * V_2 = NULL;
-	bool V_3 = false;
-	RuntimeObject * V_4 = NULL;
-	RuntimeObject * V_5 = NULL;
-	bool V_6 = false;
-	int32_t V_7 = 0;
-	int32_t V_8 = 0;
-	bool V_9 = false;
-	bool V_10 = false;
-	int32_t G_B5_0 = 0;
+	RuntimeObject * V_3 = NULL;
+	int32_t V_4 = 0;
+	int32_t V_5 = 0;
 	{
 		// Transform owner = GetComponentOwner();
 		Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * L_0;
@@ -15062,146 +20657,116 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * CinemachineVirtualCamera_AddC
 		IL2CPP_RUNTIME_CLASS_INIT(Object_tF2F3778131EFF286AF62B7B013A170F95A91571A_il2cpp_TypeInfo_var);
 		bool L_2;
 		L_2 = Object_op_Equality_mEE9EC7EB5C7DC3E95B94AB904E1986FC4D566D54((Object_tF2F3778131EFF286AF62B7B013A170F95A91571A *)L_1, (Object_tF2F3778131EFF286AF62B7B013A170F95A91571A *)NULL, /*hidden argument*/NULL);
-		V_3 = (bool)L_2;
-		bool L_3 = V_3;
-		if (!L_3)
+		if (!L_2)
 		{
-			goto IL_0024;
+			goto IL_001a;
 		}
 	}
 	{
 		// return null; // maybe it's a prefab
-		il2cpp_codegen_initobj((&V_4), sizeof(RuntimeObject *));
-		RuntimeObject * L_4 = V_4;
-		V_5 = (RuntimeObject *)L_4;
-		goto IL_00b6;
+		il2cpp_codegen_initobj((&V_3), sizeof(RuntimeObject *));
+		RuntimeObject * L_3 = V_3;
+		return (RuntimeObject *)L_3;
 	}
 
-IL_0024:
+IL_001a:
 	{
 		// CinemachineComponentBase[] components = owner.GetComponents<CinemachineComponentBase>();
-		Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * L_5 = V_0;
-		CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC* L_6;
-		L_6 = Component_GetComponents_TisCinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D_m4FE837A51F5474784BB2A769ACA28EB51682B805((Component_t62FBC8D2420DA4BE9037AFE430740F6B3EECA684 *)L_5, /*hidden argument*/Component_GetComponents_TisCinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D_m4FE837A51F5474784BB2A769ACA28EB51682B805_RuntimeMethod_var);
-		V_1 = (CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC*)L_6;
+		Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * L_4 = V_0;
+		CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC* L_5;
+		L_5 = Component_GetComponents_TisCinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D_m4FE837A51F5474784BB2A769ACA28EB51682B805((Component_t62FBC8D2420DA4BE9037AFE430740F6B3EECA684 *)L_4, /*hidden argument*/Component_GetComponents_TisCinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D_m4FE837A51F5474784BB2A769ACA28EB51682B805_RuntimeMethod_var);
+		V_1 = (CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC*)L_5;
 		// T component = owner.gameObject.AddComponent<T>();
-		Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * L_7 = V_0;
-		GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319 * L_8;
-		L_8 = Component_get_gameObject_m55DC35B149AFB9157582755383BA954655FE0C5B((Component_t62FBC8D2420DA4BE9037AFE430740F6B3EECA684 *)L_7, /*hidden argument*/NULL);
-		RuntimeObject * L_9;
-		L_9 = ((  RuntimeObject * (*) (GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319 *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319 *)L_8, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
-		V_2 = (RuntimeObject *)L_9;
+		Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * L_6 = V_0;
+		GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319 * L_7;
+		L_7 = Component_get_gameObject_m55DC35B149AFB9157582755383BA954655FE0C5B((Component_t62FBC8D2420DA4BE9037AFE430740F6B3EECA684 *)L_6, /*hidden argument*/NULL);
+		RuntimeObject * L_8;
+		L_8 = ((  RuntimeObject * (*) (GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319 *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0)->methodPointer)((GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319 *)L_7, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->rgctx_data, 0));
+		V_2 = (RuntimeObject *)L_8;
 		// if (component != null && components != null)
-		RuntimeObject * L_10 = V_2;
+		RuntimeObject * L_9 = V_2;
 		IL2CPP_RUNTIME_CLASS_INIT(Object_tF2F3778131EFF286AF62B7B013A170F95A91571A_il2cpp_TypeInfo_var);
-		bool L_11;
-		L_11 = Object_op_Inequality_mE1F187520BD83FB7D86A6D850710C4D42B864E90((Object_tF2F3778131EFF286AF62B7B013A170F95A91571A *)L_10, (Object_tF2F3778131EFF286AF62B7B013A170F95A91571A *)NULL, /*hidden argument*/NULL);
-		if (!L_11)
+		bool L_10;
+		L_10 = Object_op_Inequality_mE1F187520BD83FB7D86A6D850710C4D42B864E90((Object_tF2F3778131EFF286AF62B7B013A170F95A91571A *)L_9, (Object_tF2F3778131EFF286AF62B7B013A170F95A91571A *)NULL, /*hidden argument*/NULL);
+		if (!L_10)
 		{
-			goto IL_004b;
+			goto IL_007f;
 		}
 	}
 	{
-		CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC* L_12 = V_1;
-		G_B5_0 = ((!(((RuntimeObject*)(CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC*)L_12) <= ((RuntimeObject*)(RuntimeObject *)NULL)))? 1 : 0);
-		goto IL_004c;
-	}
-
-IL_004b:
-	{
-		G_B5_0 = 0;
-	}
-
-IL_004c:
-	{
-		V_6 = (bool)G_B5_0;
-		bool L_13 = V_6;
-		if (!L_13)
+		CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC* L_11 = V_1;
+		if (!L_11)
 		{
-			goto IL_00aa;
+			goto IL_007f;
 		}
 	}
 	{
 		// CinemachineCore.Stage stage = component.Stage;
-		RuntimeObject * L_14 = V_2;
-		int32_t L_15;
-		L_15 = VirtFuncInvoker0< int32_t >::Invoke(6 /* Cinemachine.CinemachineCore/Stage Cinemachine.CinemachineComponentBase::get_Stage() */, (CinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D *)L_14);
-		V_7 = (int32_t)L_15;
+		RuntimeObject * L_12 = V_2;
+		int32_t L_13;
+		L_13 = VirtFuncInvoker0< int32_t >::Invoke(6 /* Cinemachine.CinemachineCore/Stage Cinemachine.CinemachineComponentBase::get_Stage() */, (CinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D *)L_12);
+		V_4 = (int32_t)L_13;
 		// for (int i = components.Length - 1; i >= 0; --i)
-		CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC* L_16 = V_1;
-		V_8 = (int32_t)((int32_t)il2cpp_codegen_subtract((int32_t)((int32_t)((int32_t)(((RuntimeArray*)L_16)->max_length))), (int32_t)1));
-		goto IL_009b;
+		CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC* L_14 = V_1;
+		V_5 = (int32_t)((int32_t)il2cpp_codegen_subtract((int32_t)((int32_t)((int32_t)(((RuntimeArray*)L_14)->max_length))), (int32_t)1));
+		goto IL_007a;
 	}
 
-IL_0069:
+IL_0054:
 	{
 		// if (components[i].Stage == stage)
-		CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC* L_17 = V_1;
-		int32_t L_18 = V_8;
-		int32_t L_19 = L_18;
-		CinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D * L_20 = (L_17)->GetAtUnchecked(static_cast<il2cpp_array_size_t>(L_19));
-		int32_t L_21;
-		L_21 = VirtFuncInvoker0< int32_t >::Invoke(6 /* Cinemachine.CinemachineCore/Stage Cinemachine.CinemachineComponentBase::get_Stage() */, (CinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D *)L_20);
-		int32_t L_22 = V_7;
-		V_9 = (bool)((((int32_t)L_21) == ((int32_t)L_22))? 1 : 0);
-		bool L_23 = V_9;
-		if (!L_23)
+		CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC* L_15 = V_1;
+		int32_t L_16 = V_5;
+		int32_t L_17 = L_16;
+		CinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D * L_18 = (L_15)->GetAtUnchecked(static_cast<il2cpp_array_size_t>(L_17));
+		int32_t L_19;
+		L_19 = VirtFuncInvoker0< int32_t >::Invoke(6 /* Cinemachine.CinemachineCore/Stage Cinemachine.CinemachineComponentBase::get_Stage() */, (CinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D *)L_18);
+		int32_t L_20 = V_4;
+		if ((!(((uint32_t)L_19) == ((uint32_t)L_20))))
 		{
-			goto IL_0094;
+			goto IL_0074;
 		}
 	}
 	{
 		// components[i].enabled = false;
-		CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC* L_24 = V_1;
-		int32_t L_25 = V_8;
-		int32_t L_26 = L_25;
-		CinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D * L_27 = (L_24)->GetAtUnchecked(static_cast<il2cpp_array_size_t>(L_26));
-		Behaviour_set_enabled_mDE415591B28853D1CD764C53CB499A2142247F32((Behaviour_t1A3DDDCF73B4627928FBFE02ED52B7251777DBD9 *)L_27, (bool)0, /*hidden argument*/NULL);
+		CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC* L_21 = V_1;
+		int32_t L_22 = V_5;
+		int32_t L_23 = L_22;
+		CinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D * L_24 = (L_21)->GetAtUnchecked(static_cast<il2cpp_array_size_t>(L_23));
+		Behaviour_set_enabled_mDE415591B28853D1CD764C53CB499A2142247F32((Behaviour_t1A3DDDCF73B4627928FBFE02ED52B7251777DBD9 *)L_24, (bool)0, /*hidden argument*/NULL);
 		// RuntimeUtility.DestroyObject(components[i]);
-		CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC* L_28 = V_1;
-		int32_t L_29 = V_8;
-		int32_t L_30 = L_29;
-		CinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D * L_31 = (L_28)->GetAtUnchecked(static_cast<il2cpp_array_size_t>(L_30));
+		CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC* L_25 = V_1;
+		int32_t L_26 = V_5;
+		int32_t L_27 = L_26;
+		CinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D * L_28 = (L_25)->GetAtUnchecked(static_cast<il2cpp_array_size_t>(L_27));
 		IL2CPP_RUNTIME_CLASS_INIT(RuntimeUtility_tF71C87479D0897292CE1D4300972CABCE574BA8A_il2cpp_TypeInfo_var);
-		RuntimeUtility_DestroyObject_m6D1DDFE4299B3873067DC7E57851288F8F78F252((Object_tF2F3778131EFF286AF62B7B013A170F95A91571A *)L_31, /*hidden argument*/NULL);
+		RuntimeUtility_DestroyObject_m6D1DDFE4299B3873067DC7E57851288F8F78F252((Object_tF2F3778131EFF286AF62B7B013A170F95A91571A *)L_28, /*hidden argument*/NULL);
 	}
 
-IL_0094:
+IL_0074:
 	{
 		// for (int i = components.Length - 1; i >= 0; --i)
-		int32_t L_32 = V_8;
-		V_8 = (int32_t)((int32_t)il2cpp_codegen_subtract((int32_t)L_32, (int32_t)1));
+		int32_t L_29 = V_5;
+		V_5 = (int32_t)((int32_t)il2cpp_codegen_subtract((int32_t)L_29, (int32_t)1));
 	}
 
-IL_009b:
+IL_007a:
 	{
 		// for (int i = components.Length - 1; i >= 0; --i)
-		int32_t L_33 = V_8;
-		V_10 = (bool)((((int32_t)((((int32_t)L_33) < ((int32_t)0))? 1 : 0)) == ((int32_t)0))? 1 : 0);
-		bool L_34 = V_10;
-		if (L_34)
+		int32_t L_30 = V_5;
+		if ((((int32_t)L_30) >= ((int32_t)0)))
 		{
-			goto IL_0069;
+			goto IL_0054;
 		}
 	}
-	{
-	}
 
-IL_00aa:
+IL_007f:
 	{
 		// InvalidateComponentPipeline();
 		CinemachineVirtualCamera_InvalidateComponentPipeline_m74BC28C9508EA3673CD8DA028883B069A94F652C((CinemachineVirtualCamera_t5BD4629093D8B75CE9F4A382AD28E6F96938C43C *)__this, /*hidden argument*/NULL);
 		// return component;
-		RuntimeObject * L_35 = V_2;
-		V_5 = (RuntimeObject *)L_35;
-		goto IL_00b6;
-	}
-
-IL_00b6:
-	{
-		// }
-		RuntimeObject * L_36 = V_5;
-		return (RuntimeObject *)L_36;
+		RuntimeObject * L_31 = V_2;
+		return (RuntimeObject *)L_31;
 	}
 }
 // System.Void Cinemachine.CinemachineVirtualCamera::DestroyCinemachineComponent<System.Object>()
@@ -15214,11 +20779,9 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CinemachineVirtualCamera_DestroyCinemach
 		s_Il2CppMethodInitialized = true;
 	}
 	CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC* V_0 = NULL;
-	bool V_1 = false;
-	CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC* V_2 = NULL;
-	int32_t V_3 = 0;
-	CinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D * V_4 = NULL;
-	bool V_5 = false;
+	CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC* V_1 = NULL;
+	int32_t V_2 = 0;
+	CinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D * V_3 = NULL;
 	{
 		// CinemachineComponentBase[] components = GetComponentPipeline();
 		CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC* L_0;
@@ -15226,70 +20789,64 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CinemachineVirtualCamera_DestroyCinemach
 		V_0 = (CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC*)L_0;
 		// if (components != null)
 		CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC* L_1 = V_0;
-		V_1 = (bool)((!(((RuntimeObject*)(CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC*)L_1) <= ((RuntimeObject*)(RuntimeObject *)NULL)))? 1 : 0);
-		bool L_2 = V_1;
-		if (!L_2)
+		if (!L_1)
 		{
-			goto IL_0054;
+			goto IL_0039;
 		}
 	}
 	{
 		// foreach (var c in components)
-		CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC* L_3 = V_0;
-		V_2 = (CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC*)L_3;
-		V_3 = (int32_t)0;
-		goto IL_004d;
+		CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC* L_2 = V_0;
+		V_1 = (CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC*)L_2;
+		V_2 = (int32_t)0;
+		goto IL_0033;
 	}
 
-IL_0018:
+IL_0010:
 	{
 		// foreach (var c in components)
-		CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC* L_4 = V_2;
-		int32_t L_5 = V_3;
-		int32_t L_6 = L_5;
-		CinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D * L_7 = (L_4)->GetAtUnchecked(static_cast<il2cpp_array_size_t>(L_6));
-		V_4 = (CinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D *)L_7;
+		CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC* L_3 = V_1;
+		int32_t L_4 = V_2;
+		int32_t L_5 = L_4;
+		CinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D * L_6 = (L_3)->GetAtUnchecked(static_cast<il2cpp_array_size_t>(L_5));
+		V_3 = (CinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D *)L_6;
 		// if (c is T)
-		CinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D * L_8 = V_4;
-		V_5 = (bool)((!(((RuntimeObject*)(RuntimeObject *)((RuntimeObject *)IsInst((RuntimeObject*)L_8, IL2CPP_RGCTX_DATA(method->rgctx_data, 0)))) <= ((RuntimeObject*)(RuntimeObject *)NULL)))? 1 : 0);
-		bool L_9 = V_5;
-		if (!L_9)
+		CinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D * L_7 = V_3;
+		if (!((RuntimeObject *)IsInst((RuntimeObject*)L_7, IL2CPP_RGCTX_DATA(method->rgctx_data, 0))))
 		{
-			goto IL_0048;
+			goto IL_002f;
 		}
 	}
 	{
 		// c.enabled = false;
-		CinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D * L_10 = V_4;
-		Behaviour_set_enabled_mDE415591B28853D1CD764C53CB499A2142247F32((Behaviour_t1A3DDDCF73B4627928FBFE02ED52B7251777DBD9 *)L_10, (bool)0, /*hidden argument*/NULL);
+		CinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D * L_8 = V_3;
+		Behaviour_set_enabled_mDE415591B28853D1CD764C53CB499A2142247F32((Behaviour_t1A3DDDCF73B4627928FBFE02ED52B7251777DBD9 *)L_8, (bool)0, /*hidden argument*/NULL);
 		// RuntimeUtility.DestroyObject(c);
-		CinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D * L_11 = V_4;
+		CinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D * L_9 = V_3;
 		IL2CPP_RUNTIME_CLASS_INIT(RuntimeUtility_tF71C87479D0897292CE1D4300972CABCE574BA8A_il2cpp_TypeInfo_var);
-		RuntimeUtility_DestroyObject_m6D1DDFE4299B3873067DC7E57851288F8F78F252((Object_tF2F3778131EFF286AF62B7B013A170F95A91571A *)L_11, /*hidden argument*/NULL);
+		RuntimeUtility_DestroyObject_m6D1DDFE4299B3873067DC7E57851288F8F78F252((Object_tF2F3778131EFF286AF62B7B013A170F95A91571A *)L_9, /*hidden argument*/NULL);
 		// InvalidateComponentPipeline();
 		CinemachineVirtualCamera_InvalidateComponentPipeline_m74BC28C9508EA3673CD8DA028883B069A94F652C((CinemachineVirtualCamera_t5BD4629093D8B75CE9F4A382AD28E6F96938C43C *)__this, /*hidden argument*/NULL);
 	}
 
-IL_0048:
+IL_002f:
 	{
-		int32_t L_12 = V_3;
-		V_3 = (int32_t)((int32_t)il2cpp_codegen_add((int32_t)L_12, (int32_t)1));
+		int32_t L_10 = V_2;
+		V_2 = (int32_t)((int32_t)il2cpp_codegen_add((int32_t)L_10, (int32_t)1));
 	}
 
-IL_004d:
+IL_0033:
 	{
 		// foreach (var c in components)
-		int32_t L_13 = V_3;
-		CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC* L_14 = V_2;
-		if ((((int32_t)L_13) < ((int32_t)((int32_t)((int32_t)(((RuntimeArray*)L_14)->max_length))))))
+		int32_t L_11 = V_2;
+		CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC* L_12 = V_1;
+		if ((((int32_t)L_11) < ((int32_t)((int32_t)((int32_t)(((RuntimeArray*)L_12)->max_length))))))
 		{
-			goto IL_0018;
+			goto IL_0010;
 		}
 	}
-	{
-	}
 
-IL_0054:
+IL_0039:
 	{
 		// }
 		return;
@@ -15299,13 +20856,10 @@ IL_0054:
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * CinemachineVirtualCamera_GetCinemachineComponent_TisRuntimeObject_m057362AEC21C83F60E2A6F055FCAC147F961D6EB_gshared (CinemachineVirtualCamera_t5BD4629093D8B75CE9F4A382AD28E6F96938C43C * __this, const RuntimeMethod* method)
 {
 	CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC* V_0 = NULL;
-	bool V_1 = false;
-	CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC* V_2 = NULL;
-	int32_t V_3 = 0;
-	CinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D * V_4 = NULL;
-	bool V_5 = false;
-	RuntimeObject * V_6 = NULL;
-	RuntimeObject * V_7 = NULL;
+	CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC* V_1 = NULL;
+	int32_t V_2 = 0;
+	CinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D * V_3 = NULL;
+	RuntimeObject * V_4 = NULL;
 	{
 		// CinemachineComponentBase[] components = GetComponentPipeline();
 		CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC* L_0;
@@ -15313,76 +20867,63 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * CinemachineVirtualCamera_GetC
 		V_0 = (CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC*)L_0;
 		// if (components != null)
 		CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC* L_1 = V_0;
-		V_1 = (bool)((!(((RuntimeObject*)(CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC*)L_1) <= ((RuntimeObject*)(RuntimeObject *)NULL)))? 1 : 0);
-		bool L_2 = V_1;
-		if (!L_2)
+		if (!L_1)
 		{
-			goto IL_0046;
+			goto IL_0032;
 		}
 	}
 	{
 		// foreach (var c in components)
-		CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC* L_3 = V_0;
-		V_2 = (CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC*)L_3;
-		V_3 = (int32_t)0;
-		goto IL_0040;
+		CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC* L_2 = V_0;
+		V_1 = (CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC*)L_2;
+		V_2 = (int32_t)0;
+		goto IL_002c;
 	}
 
-IL_0017:
+IL_0010:
 	{
 		// foreach (var c in components)
-		CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC* L_4 = V_2;
-		int32_t L_5 = V_3;
-		int32_t L_6 = L_5;
-		CinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D * L_7 = (L_4)->GetAtUnchecked(static_cast<il2cpp_array_size_t>(L_6));
-		V_4 = (CinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D *)L_7;
+		CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC* L_3 = V_1;
+		int32_t L_4 = V_2;
+		int32_t L_5 = L_4;
+		CinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D * L_6 = (L_3)->GetAtUnchecked(static_cast<il2cpp_array_size_t>(L_5));
+		V_3 = (CinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D *)L_6;
 		// if (c is T)
-		CinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D * L_8 = V_4;
-		V_5 = (bool)((!(((RuntimeObject*)(RuntimeObject *)((RuntimeObject *)IsInst((RuntimeObject*)L_8, IL2CPP_RGCTX_DATA(method->rgctx_data, 0)))) <= ((RuntimeObject*)(RuntimeObject *)NULL)))? 1 : 0);
-		bool L_9 = V_5;
-		if (!L_9)
+		CinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D * L_7 = V_3;
+		if (!((RuntimeObject *)IsInst((RuntimeObject*)L_7, IL2CPP_RGCTX_DATA(method->rgctx_data, 0))))
 		{
-			goto IL_003c;
+			goto IL_0028;
 		}
 	}
 	{
 		// return c as T;
-		CinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D * L_10 = V_4;
-		V_6 = (RuntimeObject *)((RuntimeObject *)Castclass((RuntimeObject*)((RuntimeObject *)IsInst((RuntimeObject*)L_10, IL2CPP_RGCTX_DATA(method->rgctx_data, 0))), IL2CPP_RGCTX_DATA(method->rgctx_data, 0)));
-		goto IL_0054;
+		CinemachineComponentBase_tCB9029D861525FDAF243B8F6F5B910145DB63B7D * L_8 = V_3;
+		return (RuntimeObject *)((RuntimeObject *)Castclass((RuntimeObject*)((RuntimeObject *)IsInst((RuntimeObject*)L_8, IL2CPP_RGCTX_DATA(method->rgctx_data, 0))), IL2CPP_RGCTX_DATA(method->rgctx_data, 0)));
 	}
 
-IL_003c:
+IL_0028:
 	{
-		int32_t L_11 = V_3;
-		V_3 = (int32_t)((int32_t)il2cpp_codegen_add((int32_t)L_11, (int32_t)1));
+		int32_t L_9 = V_2;
+		V_2 = (int32_t)((int32_t)il2cpp_codegen_add((int32_t)L_9, (int32_t)1));
 	}
 
-IL_0040:
+IL_002c:
 	{
 		// foreach (var c in components)
-		int32_t L_12 = V_3;
-		CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC* L_13 = V_2;
-		if ((((int32_t)L_12) < ((int32_t)((int32_t)((int32_t)(((RuntimeArray*)L_13)->max_length))))))
+		int32_t L_10 = V_2;
+		CinemachineComponentBaseU5BU5D_t103C5C1C3257AA526385CAD3B1FD18E5CC1446EC* L_11 = V_1;
+		if ((((int32_t)L_10) < ((int32_t)((int32_t)((int32_t)(((RuntimeArray*)L_11)->max_length))))))
 		{
-			goto IL_0017;
+			goto IL_0010;
 		}
 	}
 
-IL_0046:
+IL_0032:
 	{
 		// return null;
-		il2cpp_codegen_initobj((&V_7), sizeof(RuntimeObject *));
-		RuntimeObject * L_14 = V_7;
-		V_6 = (RuntimeObject *)L_14;
-		goto IL_0054;
-	}
-
-IL_0054:
-	{
-		// }
-		RuntimeObject * L_15 = V_6;
-		return (RuntimeObject *)L_15;
+		il2cpp_codegen_initobj((&V_4), sizeof(RuntimeObject *));
+		RuntimeObject * L_12 = V_4;
+		return (RuntimeObject *)L_12;
 	}
 }
 // TValue System.Collections.Generic.CollectionExtensions::GetValueOrDefault<System.Object,System.Object>(System.Collections.Generic.IReadOnlyDictionary`2<TKey,TValue>,TKey)

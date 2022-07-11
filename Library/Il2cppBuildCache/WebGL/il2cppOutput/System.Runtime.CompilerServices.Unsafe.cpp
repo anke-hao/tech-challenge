@@ -198,17 +198,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Unsafe_InitBlockUnaligned_m2BA85BFE14F26
 		return;
 	}
 }
-// System.Void System.Runtime.CompilerServices.Unsafe::InitBlockUnaligned(System.Byte&,System.Byte,System.UInt32)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Unsafe_InitBlockUnaligned_mCB99F8ECDF44E187567B1690AA311749B4DDA0C3 (uint8_t* ___startAddress0, uint8_t ___value1, uint32_t ___byteCount2, const RuntimeMethod* method)
-{
-	{
-		uint8_t* L_0 = ___startAddress0;
-		uint8_t L_1 = ___value1;
-		uint32_t L_2 = ___byteCount2;
-		il2cpp_codegen_memset(L_0, L_1, L_2);
-		return;
-	}
-}
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
