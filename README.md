@@ -21,6 +21,7 @@ Prospex is a gamified user experience aimed towards introducing potential tech c
 
 ### Why a game?
 So, why a game over a standard questionnaire? With this platform, we wanted to introduce a sense of embodied presence into taking career surveys, which can feel quite abstract and impersonal when you are just scrolling by question after question. In contrast, games have the ability to be visually evocative. They can call forth the player's associations with a certain setting, or they can generate a story around an unfamiliar space. So for instance, we can imply to the player that PMs will spend significant time engaging with people through the visual of a meeting room. In order to achieve this effect, we personally designed all of the assets in this game and tailored them to evoke the atmosphere of certain careers. By navigating through the questions in a tangible environment with a character you can begin to identify with, we hope that this experience is visually and interactively engaging, making it more memorable, more shareable, and more personal.
+![Alt Text](https://github.com/anke-hao/tech-challenge/blob/main/documentation/pm%20rm.gif)
 
 ## Tech stack
 ### The development of the game
