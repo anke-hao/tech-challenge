@@ -2,7 +2,7 @@
 
 ## Introduction
 
-<img align="left" src="https://github.com/anke-hao/tech-challenge/blob/main/documentation/big%20phil.png" width="25%" height="25%">
+<img align="left" src="https://github.com/anke-hao/tech-challenge/blob/main/documentation/big%20phil.png" width="30%" height="30%">
 Prospex is a gamified user experience aimed towards introducing potential tech career paths and resources to college students. Players can navigate as a character around a 2D platform game environment to answer questions about their interests and personality. Once all questions are answered, they will receive a profile of their suggested career interests and a brochure packed with resources about suggested readings, career preparation, and additional learning resources specific to that field.
 
 ## How to Play
