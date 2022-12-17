@@ -43,3 +43,16 @@ We created a survey that tested various aspects of the player’s academic inter
 ## Visual assets
 - All of our visual assets, including the playable character and all the environmental assets, were personally designed in [Aseprite](https://www.aseprite.org/). In addition, some of the visual assets were animated to enhance the game experience.
 - The playable character was designed as a phoenix because it was inspired by our university’s mascot, Phil the Phoenix. It was also chosen to represent all members of the university community.
+
+## Team
+- [Anke Hao](http://anke-hao.github.io/)
+  - Team Lead, Developer
+- Emily Cheng
+  - Game Designer, Pixel Artist
+- Max Chou
+  - Developer
+- Catherine Charles
+  - Content Researcher
+
+## Navigating the Directory
+- Our scripts and assets for the game are located in the `code` folder, and our presentation for our university’s Tech Challenge is located in the `documentation` folder.
