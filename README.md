@@ -29,7 +29,7 @@ So, why a game over a standard questionnaire? With this platform, we wanted to i
 
 ## Tech stack
 ### The development of the game
-The game was built in Unity2D, with the use of C# scripts to handle the following:
+The game was built in Unity2D, with the use of C# scripts for the following:
 - managing the playable sprite’s movements (modeled after our college mascot).
 - handling functionality related to the questions posed to the player, including usability features like the ability to teleport to each question and changing the appearance of the sparkle once the player answered the question.
 - using the K-Nearest-Neighbors algorithm to calculate the best career path matches for the player based on our original dataset.
