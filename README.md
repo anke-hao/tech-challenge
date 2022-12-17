@@ -16,7 +16,7 @@ Prospex is a gamified user experience aimed towards introducing potential tech c
 
 ## Motivation
 ### Purpose and backstory
-- Members of the team have experienced being interested in fields that are not that talked about in the UChicago Computer Science community, and as such, we ourselves had trouble trying to figure out where to start. We realized that this problem is not due to the lack of interest in certain fields, but simply because of the lack of exposure and resources available to us. 
+- Our team has experienced being interested in fields that are not that talked about in the UChicago Computer Science community, and as such, we ourselves had trouble trying to figure out where to start. We realized that this problem is not due to the lack of interest in certain fields, but simply because of the lack of exposure and resources available to us. 
 - We identified that the community is hyper-focusing on software development and engineering. As a consequence, other potentially interesting fields, such as product management or UI/UX, are left on the wayside with limited resources available.
 - Interestingly, when our team lead introduces other alternative roles in technology to mentees, there would often be a lot of interest in these non-software roles. This indicates that the problem fundamentally lies in the lack of knowledge of the existence of these areas to begin with, and in addition, the lack of resources and support.
 - As such, our team believes that something should be done to introduce the variety of fields in technology to the students, and this is how we came up with Prospex. We start with some paths in tech beyond software engineering, including product management, UI/UX, computer science academia and research, quantitative finance, and tech startups. We also provide brochures of resources for people potentially interested in these fields. Moving forward, we would like to expand further to more paths in technology.
@@ -51,7 +51,7 @@ We created a survey that tested various aspects of the player’s academic inter
   - Game Designer, Pixel Artist
 - Max Chou
   - Developer
-- Catherine Charles
+- [Catherine Charles](https://github.com/cathcharles108)
   - Content Researcher
 
 ## Navigating the Directory
